@@ -1,0 +1,10 @@
+# Node / JS
+node_modules/
+dist/
+.env
+.DS_Store
+
+# Editor / OS
+.vscode/
+.idea/
+*.log
