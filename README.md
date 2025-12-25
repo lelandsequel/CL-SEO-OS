@@ -79,4 +79,72 @@ CL-SEO-OS delivers:
 ---
 
 ## 📁 Repo Structure
+/core/
+└ seo-os++.md ← master deterministic prompt
+/docs/
+├ usage.md ← how to run, examples
+├ philosophy.md ← principles + why it’s different
+├ roadmap.md ← future plans
+└ changelog.md ← version history
+/modules/
+├ aeo.md ← AEO module
+├ pseo.md ← programmatic SEO patterns
+├ local-seo.md ← local SEO patterns
+└ analytics.md ← measurement patterns
+/examples/
+├ local-business-example.md
+├ saas-example.md
+└ ecommerce-example.md
+LICENSE ← MIT license
+README.md ← this file
+
+
+---
+
+## 💡 Why This Matters
+
+Traditional SEO deliverables are:
+- inconsistent
+- subjective
+- hard to scale
+
+**CL-SEO-OS** is:
+- deterministic
+- repeatable
+- AI-builder ready
+- optimized for *AI search as well as Google search*
+
+It’s built for **consultants, agencies, and internal growth teams** who want outputs that are:
+✔ predictable  
+✔ explainable  
+✔ non-hallucinatory  
+✔ ready for execution
+
+---
+
+## 🛠 Recommended Workflow
+
+1. Fill in inputs (domain, business info, goals)
+2. Run the prompt in an AI environment
+3. Validate strategy outputs
+4. Generate structured site components
+5. Deploy and monitor
+6. Iterate based on data signals
+
+---
+
+## 📌 Contributing
+
+Contributions are welcome!  
+- add more modules (e.g., YouTube SEO, Enterprise patterns)  
+- expand examples  
+- improve prompt versions
+
+Please read `/docs/usage.md` and `/docs/philosophy.md` before contributing.
+
+---
+
+## 📜 License
+
+MIT License — see `LICENSE` for details.
 
