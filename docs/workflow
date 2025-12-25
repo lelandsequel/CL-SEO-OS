@@ -1,0 +1,401 @@
+Canonical SEO OS Workflow
+
+(CL-SEO-OS v1.0)
+
+This document defines the authoritative, repeatable workflow for executing SEO OS builds from input → launch.
+
+This workflow is deterministic.
+Deviations increase risk and reduce repeatability.
+
+Core Principle
+
+Rules → Coverage → Authority → Conversion → Trust → Local Dominance → Behavioral Polish → Codify
+
+SEO OS does not optimize everything at once.
+Each phase has a single purpose, hard constraints, and a clear stop condition.
+
+Phase 0 — Input Locking (Pre-Build)
+Objective
+
+Prevent hallucination, scope creep, and mid-build drift.
+
+Inputs Required
+
+Domain
+
+Business name
+
+Business description
+
+Primary location
+
+Target customer type
+
+Primary conversion goal
+
+Design preference (high-level only)
+
+Rules
+
+Inputs are locked once the build starts
+
+No mid-build changes
+
+Assumptions must be labeled
+
+Stop Condition
+
+Inputs confirmed and unchanged.
+
+Phase 1 — Rules & Architecture (SEO OS++)
+Objective
+
+Define the constitution of the site before anything is built.
+
+What Happens
+
+SEO pillars defined
+
+AEO rules established
+
+pSEO strategy designed
+
+Website architecture specified
+
+Build order declared
+
+Constraints enforced
+
+What Is NOT Allowed
+
+Design improvisation
+
+Page creation
+
+Content expansion
+
+Output
+
+SEO OS++ master specification
+
+Stop Condition
+
+Rules accepted and acknowledged by the builder.
+
+Phase 2 — Core Site Build
+Objective
+
+Create the minimum complete site needed for trust and conversion.
+
+Pages Built
+
+Homepage
+
+Core service pages
+
+Primary location page
+
+About page
+
+Contact / conversion page
+
+Rules
+
+No pSEO yet
+
+No blog content
+
+No city lists
+
+No reviews
+
+Output
+
+Fully functional core site
+
+Clean templates
+
+Conversion paths defined
+
+Stop Condition
+
+Core pages render correctly and convert.
+
+Phase 3 — Programmatic SEO (Coverage)
+Objective
+
+Capture high-intent long-tail demand at scale.
+
+What Happens
+
+Service × location pages generated
+
+Templates reused
+
+Internal links flow toward money pages
+
+Rules
+
+No new services
+
+No invented locations
+
+No copy divergence
+
+No indexing yet
+
+Output
+
+Controlled pSEO footprint
+
+Sitemap expanded
+
+Stop Condition
+
+Pages generated cleanly without structural changes.
+
+Phase 4 — AEO Authority (Answers)
+Objective
+
+Own AI answers, featured snippets, and informational trust.
+
+What Happens
+
+AEO-first guide pages created
+
+Direct answer blocks added
+
+Schema applied
+
+Soft internal linking to services
+
+Rules
+
+Informational tone only
+
+No aggressive CTAs
+
+No sales language
+
+Output
+
+Answer engine authority layer
+
+Stop Condition
+
+Guides are clean, factual, and linked.
+
+Phase 5 — Conversion Tightening
+Objective
+
+Increase call intent without harming SEO or AEO.
+
+What Happens
+
+Call-first CTAs
+
+Mobile click-to-call
+
+Offer reinforcement (e.g., free inspection)
+
+Touch-target optimization
+
+Rules
+
+No layout redesign
+
+No copy inflation
+
+No SEO changes
+
+Output
+
+Conversion-optimized UI
+
+Stop Condition
+
+CTAs are persistent, clear, and non-intrusive.
+
+Phase 6 — Trust & Credibility Hardening
+Objective
+
+Reduce user hesitation and strengthen entity trust.
+
+What Happens
+
+Licensed / insured language
+
+Clear service area definition
+
+Process transparency
+
+About page credibility expansion
+
+Rules
+
+No fake reviews
+
+No metrics or claims
+
+No guarantees
+
+Output
+
+Trust-hardened site
+
+Stop Condition
+
+Site feels credible without sales pressure.
+
+Phase 7 — Local Dominance & Entity Alignment
+Objective
+
+Strengthen local pack and map relevance.
+
+What Happens
+
+HQ anchoring
+
+NAP consistency
+
+ServiceArea schema
+
+Location-contextual content
+
+Internal entity graph tightening
+
+Rules
+
+No citation spam
+
+No city stuffing
+
+No GBP automation yet
+
+Output
+
+Clear geographic entity association
+
+Stop Condition
+
+Primary location is unambiguous to search engines.
+
+Phase 8 — Behavioral Signals & UX Polish
+Objective
+
+Improve engagement and confidence signals.
+
+What Happens
+
+Above-the-fold clarity
+
+Visual hierarchy
+
+Scannability
+
+Subtle interaction cues
+
+Rules
+
+No popups
+
+No intrusive UX
+
+No SEO changes
+
+Output
+
+Clean, professional, high-confidence UX
+
+Stop Condition
+
+Site feels finished and stable.
+
+Phase 9 — Staged Indexing Preparation
+Objective
+
+Launch without triggering crawl quality issues.
+
+What Happens
+
+Core pages indexed first
+
+pSEO and AEO pages discovered naturally
+
+Sitemap submitted
+
+Manual indexing limited
+
+Rules
+
+Do NOT index everything at once
+
+Do NOT rush discovery
+
+Output
+
+Safe launch posture
+
+Stop Condition
+
+Core pages indexed, site live.
+
+Phase 10 — Codification (Post-Build)
+Objective
+
+Convert execution into reusable IP.
+
+What Happens
+
+Workflow documented
+
+Example extracted
+
+Prompts mapped to phases
+
+Guardrails written down
+
+Rules
+
+No selling yet
+
+No outcome claims yet
+
+Output
+
+Canonical workflow
+
+Reference implementation
+
+Stop Condition
+
+Process is fully documented.
+
+What This Workflow Prevents
+
+Hallucinated builds
+
+Premature scaling
+
+Over-indexing
+
+SEO churn
+
+Endless tweaking
+
+Agency chaos
+
+What This Workflow Enables
+
+Repeatability
+
+Clean automation
+
+AI builder reliability
+
+Scalable delivery
+
+Legitimate productization
+
+This workflow is the spine of CL-SEO-OS.
+All examples, modules, and future verticals must conform to it.
