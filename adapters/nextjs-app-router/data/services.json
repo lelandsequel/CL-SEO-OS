@@ -1,0 +1,12 @@
+[
+    {
+        "slug": "roof-repair",
+        "name": "Roof Repair",
+        "description": "Professional roof repair services."
+    },
+    {
+        "slug": "roof-replacement",
+        "name": "Roof Replacement",
+        "description": "Full roof replacement services."
+    }
+]
