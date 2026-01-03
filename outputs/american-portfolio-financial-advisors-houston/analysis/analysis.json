@@ -1,0 +1,3434 @@
+{
+  "metadata": {
+    "targetUrl": "https://www.americanportfolioshouston.com/",
+    "businessName": "American Portfolio Financial Advisors – Houston",
+    "description": "Houston-based financial advisory/wealth management team.",
+    "analyzedAt": "2026-01-03T10:26:54.404Z",
+    "crawlConfig": {
+      "maxDepth": 2,
+      "maxPages": 40
+    },
+    "crawlStatus": "complete",
+    "pagesAttempted": 40,
+    "pagesCrawled": 40
+  },
+  "pages": [
+    {
+      "url": "https://www.americanportfolioshouston.com",
+      "finalUrl": "https://www.americanportfolioshouston.com/",
+      "status": 200,
+      "title": "Michael Stewart - Houston Financial Advisor",
+      "metaDescription": "Welcome to American Portfolios Houston. American Portfolios Houston is here when its time to get serious with your investments. American Portfolios Houston Director, Michael Stewart, is a seasoned Financial Advisor with 40+ years of experience.\nSchedule your appointment today!",
+      "h1": null,
+      "h2s": [
+        "Dedicated to helping you achieve financial freedom.",
+        "Dedicated to helping you achieve financial freedom.",
+        "Dedicated to helping you achieve financial freedom.",
+        "Dedicated to helping you achieve financial freedom.",
+        "Dedicated to helping you achieve financial freedom.",
+        "Welcome to Osaic Wealth Houston (formerly American Portfolios)We believe in \"Knowing what you own, and why\".",
+        "Michael Stewart - OSJ, Financial Advisor",
+        "Customized Portfolios for your Specific Goals and Needs",
+        "Skilled Money Management",
+        "Fiduciary Responsibility",
+        "Our Commitment",
+        "Schedule a Consultation",
+        "Strength and Stability - The Protection of Client Assets Remains at the Center of Our Focus",
+        "Questions? We Can Help",
+        "\"The Greatest Compliment We Can Receive Is A Referral From One Of Our Valued Clients\""
+      ],
+      "canonical": "https://www.americanportfolioshouston.com/",
+      "robotsMeta": "index, follow",
+      "ogTags": {
+        "og:image": "http://static.fmgsuite.com/media/ogImage/originalSize/b37f018a-1687-4885-a2a4-c6d5961f39fc.jpg",
+        "og:title": "Michael Stewart - Houston Financial Advisor",
+        "og:description": "Welcome to American Portfolios Houston. American Portfolios Houston is here when its time to get serious with your investments. American Portfolios Houston Director, Michael Stewart, is a seasoned Financial Advisor with 40+ years of experience.\nSchedule your appointment today!",
+        "og:site_name": "Michael Stewart, Osaic Wealth Houston",
+        "og:url": "https://www.americanportfolioshouston.com/"
+      },
+      "jsonldSnippets": [
+        {
+          "@context": "https://schema.org",
+          "@type": "FinancialService",
+          "@id": "http://www.americanportfolioshouston.com",
+          "name": "Michael Stewart, Osaic Wealth Houston",
+          "logo": "//static.fmgsuite.com/media/TransparentLogo/variantSize/bb6cfc62-3d03-46ef-97e3-7d3b2e03dad6.png",
+          "image": "//static.fmgsuite.com/media/PortraitImageFMG/variantSize/896dfef3-dcfd-4901-ac7f-9d63e146a280.png",
+          "url": "http://www.americanportfolioshouston.com",
+          "telephone": "(713) 465-5057",
+          "priceRange": "N/A",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "4550 Post Oak Place Drive Suite 228",
+            "addressLocality": "Houston",
+            "addressRegion": "TX",
+            "postalCode": "77027",
+            "addressCountry": "US"
+          },
+          "location": [
+            {
+              "@type": "PostalAddress",
+              "streetAddress": "4550 Post Oak Place Drive, Suite 228",
+              "addressLocality": "Houston",
+              "addressRegion": "TX",
+              "postalCode": "77027",
+              "addressCountry": "US",
+              "telephone": "(713) 465-5057",
+              "faxNumber": "(281) 749-8175"
+            }
+          ],
+          "sameAs": [
+            "https://twitter.com/moneystewart",
+            "https://www.linkedin.com/pub/michael-stewart/15/72a/418",
+            "https://www.facebook.com/AmericanPortfoliosHouston/",
+            "https://www.youtube.com/channel/UCnss-G_vVjV7673WHOnjasQ"
+          ]
+        }
+      ],
+      "wordCount": 775,
+      "internalLinksCount": 46,
+      "externalLinksCount": 14,
+      "imagesMissingAltCount": 0,
+      "hasPhone": true,
+      "hasAddress": false,
+      "hasCityState": true,
+      "hasFAQSignals": false,
+      "hasAuthorSignals": true,
+      "hasDisclosureSignals": true,
+      "crawledAt": "2026-01-03T10:26:25.944Z"
+    },
+    {
+      "url": "https://www.americanportfolioshouston.com/mikes-videos",
+      "finalUrl": "https://www.americanportfolioshouston.com/mikes-videos",
+      "status": 200,
+      "title": "Michael's Videos",
+      "metaDescription": "First off, my first priority is helping you take care of yourself and your family. We want to learn more about your personal situation, identify your dreams and goals, and understand your tolerance for risk.",
+      "h1": null,
+      "h2s": [
+        "Michael's Videos",
+        "Thank's for clicking on Michael's Videos!",
+        "What Should You Look for in a Financial Advisor?",
+        "Know what you own, and why!",
+        "There will be a time when you need us, call us. We'll be here.",
+        "\"The Greatest Compliment We Can Receive Is A Referral From One Of Our Valued Clients\""
+      ],
+      "canonical": "https://www.americanportfolioshouston.com/mikes-videos",
+      "robotsMeta": "index, follow",
+      "ogTags": {
+        "og:title": "Michael's Videos",
+        "og:description": "First off, my first priority is helping you take care of yourself and your family. We want to learn more about your personal situation, identify your dreams and goals, and understand your tolerance for risk.",
+        "og:site_name": "Michael Stewart, Osaic Wealth Houston",
+        "og:url": "https://www.americanportfolioshouston.com/mikes-videos"
+      },
+      "jsonldSnippets": [
+        {
+          "@context": "https://schema.org",
+          "@type": "FinancialService",
+          "@id": "http://www.americanportfolioshouston.com",
+          "name": "Michael Stewart, Osaic Wealth Houston",
+          "logo": "//static.fmgsuite.com/media/TransparentLogo/variantSize/bb6cfc62-3d03-46ef-97e3-7d3b2e03dad6.png",
+          "image": "//static.fmgsuite.com/media/PortraitImageFMG/variantSize/896dfef3-dcfd-4901-ac7f-9d63e146a280.png",
+          "url": "http://www.americanportfolioshouston.com",
+          "telephone": "(713) 465-5057",
+          "priceRange": "N/A",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "4550 Post Oak Place Drive Suite 228",
+            "addressLocality": "Houston",
+            "addressRegion": "TX",
+            "postalCode": "77027",
+            "addressCountry": "US"
+          },
+          "location": [
+            {
+              "@type": "PostalAddress",
+              "streetAddress": "4550 Post Oak Place Drive, Suite 228",
+              "addressLocality": "Houston",
+              "addressRegion": "TX",
+              "postalCode": "77027",
+              "addressCountry": "US",
+              "telephone": "(713) 465-5057",
+              "faxNumber": "(281) 749-8175"
+            }
+          ],
+          "sameAs": [
+            "https://twitter.com/moneystewart",
+            "https://www.linkedin.com/pub/michael-stewart/15/72a/418",
+            "https://www.facebook.com/AmericanPortfoliosHouston/",
+            "https://www.youtube.com/channel/UCnss-G_vVjV7673WHOnjasQ"
+          ]
+        }
+      ],
+      "wordCount": 554,
+      "internalLinksCount": 31,
+      "externalLinksCount": 16,
+      "imagesMissingAltCount": 0,
+      "hasPhone": true,
+      "hasAddress": false,
+      "hasCityState": true,
+      "hasFAQSignals": true,
+      "hasAuthorSignals": true,
+      "hasDisclosureSignals": true,
+      "crawledAt": "2026-01-03T10:26:26.583Z"
+    },
+    {
+      "url": "https://www.americanportfolioshouston.com/articles-of-interest",
+      "finalUrl": "https://www.americanportfolioshouston.com/articles-of-interest",
+      "status": 200,
+      "title": "Articles Of Interests",
+      "metaDescription": "Stay up to date with access to our vault of email campaigns sent out every week!\nAmerican Portfolios Houston Email Campaigns are sent our every week and are filled with eye catching news articles.",
+      "h1": null,
+      "h2s": [
+        "Articles Of Interest",
+        "Client Centered",
+        "August 14th, 2023",
+        "July 12th, 2023",
+        "July 7th, 2023",
+        "June 14th, 2023",
+        "June 2nd, 2023",
+        "May 22nd, 2023",
+        "May 9th, 2023",
+        "April 25th, 2023",
+        "April 13th, 2023",
+        "April 6th, 2023",
+        "March 22nd, 2023",
+        "March 1st, 2023",
+        "February 22nd, 2023",
+        "February 16th, 2023",
+        "February 10th, 2023",
+        "January 31st, 2023",
+        "January 27th, 2023",
+        "January 20th, 2023",
+        "January 9th, 2023",
+        "December 22nd, 2022",
+        "December 1st, 2022",
+        "November 22nd, 2022",
+        "November 10th, 2022",
+        "November 7th, 2022",
+        "October 28th, 2022",
+        "October 20th, 2022",
+        "September 29th, 2022",
+        "September 15th, 2022",
+        "September 8th, 2022",
+        "August 18th, 2022",
+        "August 10th, 2022",
+        "July 28nd, 2022",
+        "July 14th, 2022",
+        "June 27th, 2022",
+        "June 15th, 2022",
+        "June 3rd, 2022",
+        "May 27th, 2022",
+        "May 16th, 2022",
+        "May 5th, 2022",
+        "April 28th, 2022",
+        "April 21st, 2022",
+        "April 5th, 2022",
+        "March 21st, 2022",
+        "March 1st, 2022",
+        "February 2nd, 2022",
+        "January 26th, 2022",
+        "January 11th, 2022",
+        "January 3rd, 2022",
+        "December 9th, 2021",
+        "November 23rd, 2021",
+        "November 12th,  2021",
+        "November 4th, 2021",
+        "October 11th, 2021",
+        "September 29th, 2021",
+        "September 23nd, 2021",
+        "September 16th, 2021",
+        "September 1, 2021",
+        "August 24, 2021",
+        "August 17, 2021",
+        "August 10, 2021",
+        "July 30th, 2021",
+        "July 21th, 2021",
+        "July 13th, 2021",
+        "June 30th, 2021",
+        "June 24th, 2021",
+        "June 17th, 2021",
+        "May 28th, 2021",
+        "May 21st, 2021",
+        "May 13th, 2021",
+        "April 29, 2021",
+        "April 23, 2021",
+        "April 8, 2021",
+        "Mar 31, 2021",
+        "Mar 17, 2021",
+        "Mar 08, 2021",
+        "Mar 01, 2021",
+        "Mar 01, 2021",
+        "Feb 22, 2021",
+        "Feb 11, 2021",
+        "Feb 02, 2021",
+        "Jan 26, 2021",
+        "Jan 5, 2021",
+        "Dec 29, 2020",
+        "Dec 16, 2020",
+        "Dec 09, 2020",
+        "Dec 2, 2020",
+        "Nov 24, 2020",
+        "Nov 17, 2020",
+        "Nov 09, 2020",
+        "Nov 5, 2020",
+        "Oct 16, 2020",
+        "Oct 8, 2020",
+        "Nov 09, 2020",
+        "Nov 5, 2020",
+        "Oct 16, 2020",
+        "Oct 8, 2020",
+        "Sep 28, 2020",
+        "Sep 23, 2020",
+        "Sep 16, 2020",
+        "Sep 3, 2020",
+        "Aug 27, 2020",
+        "Aug 25, 2020",
+        "Aug 19, 2020",
+        "Aug 7, 2020",
+        "July 30, 2020",
+        "July 21, 2020",
+        "July 14, 2020",
+        "June 30, 2020",
+        "June 24, 2020",
+        "June 16, 2020",
+        "June 9, 2020",
+        "June 2, 2020",
+        "May 27, 2020",
+        "May 12, 2020",
+        "May 4, 2020",
+        "April 29, 2020",
+        "\"The Greatest Compliment We Can Receive Is A Referral From One Of Our Valued Clients.\""
+      ],
+      "canonical": "https://www.americanportfolioshouston.com/articles-of-interest",
+      "robotsMeta": "index, follow",
+      "ogTags": {
+        "og:title": "Articles Of Interests",
+        "og:description": "Stay up to date with access to our vault of email campaigns sent out every week!\nAmerican Portfolios Houston Email Campaigns are sent our every week and are filled with eye catching news articles. \n",
+        "og:site_name": "Michael Stewart, Osaic Wealth Houston",
+        "og:url": "https://www.americanportfolioshouston.com/articles-of-interest"
+      },
+      "jsonldSnippets": [
+        {
+          "@context": "https://schema.org",
+          "@type": "FinancialService",
+          "@id": "http://www.americanportfolioshouston.com",
+          "name": "Michael Stewart, Osaic Wealth Houston",
+          "logo": "//static.fmgsuite.com/media/TransparentLogo/variantSize/bb6cfc62-3d03-46ef-97e3-7d3b2e03dad6.png",
+          "image": "//static.fmgsuite.com/media/PortraitImageFMG/variantSize/896dfef3-dcfd-4901-ac7f-9d63e146a280.png",
+          "url": "http://www.americanportfolioshouston.com",
+          "telephone": "(713) 465-5057",
+          "priceRange": "N/A",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "4550 Post Oak Place Drive Suite 228",
+            "addressLocality": "Houston",
+            "addressRegion": "TX",
+            "postalCode": "77027",
+            "addressCountry": "US"
+          },
+          "location": [
+            {
+              "@type": "PostalAddress",
+              "streetAddress": "4550 Post Oak Place Drive, Suite 228",
+              "addressLocality": "Houston",
+              "addressRegion": "TX",
+              "postalCode": "77027",
+              "addressCountry": "US",
+              "telephone": "(713) 465-5057",
+              "faxNumber": "(281) 749-8175"
+            }
+          ],
+          "sameAs": [
+            "https://twitter.com/moneystewart",
+            "https://www.linkedin.com/pub/michael-stewart/15/72a/418",
+            "https://www.facebook.com/AmericanPortfoliosHouston/",
+            "https://www.youtube.com/channel/UCnss-G_vVjV7673WHOnjasQ"
+          ]
+        }
+      ],
+      "wordCount": 2106,
+      "internalLinksCount": 32,
+      "externalLinksCount": 133,
+      "imagesMissingAltCount": 0,
+      "hasPhone": true,
+      "hasAddress": false,
+      "hasCityState": true,
+      "hasFAQSignals": false,
+      "hasAuthorSignals": true,
+      "hasDisclosureSignals": true,
+      "crawledAt": "2026-01-03T10:26:27.433Z"
+    },
+    {
+      "url": "https://www.americanportfolioshouston.com/resource-center",
+      "finalUrl": "https://www.americanportfolioshouston.com/resource-center",
+      "status": 200,
+      "title": "Resource Center | Michael Stewart, Osaic Wealth Houston",
+      "metaDescription": null,
+      "h1": "Resource Center",
+      "h2s": [
+        "Estate",
+        "Insurance",
+        "Investment",
+        "Lifestyle",
+        "Money",
+        "Retirement",
+        "Tax",
+        "Have A Question?"
+      ],
+      "canonical": null,
+      "robotsMeta": "index, follow",
+      "ogTags": {},
+      "jsonldSnippets": [
+        {
+          "@context": "https://schema.org",
+          "@type": "FinancialService",
+          "@id": "http://www.americanportfolioshouston.com",
+          "name": "Michael Stewart, Osaic Wealth Houston",
+          "logo": "//static.fmgsuite.com/media/TransparentLogo/variantSize/bb6cfc62-3d03-46ef-97e3-7d3b2e03dad6.png",
+          "image": "//static.fmgsuite.com/media/PortraitImageFMG/variantSize/896dfef3-dcfd-4901-ac7f-9d63e146a280.png",
+          "url": "http://www.americanportfolioshouston.com",
+          "telephone": "(713) 465-5057",
+          "priceRange": "N/A",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "4550 Post Oak Place Drive Suite 228",
+            "addressLocality": "Houston",
+            "addressRegion": "TX",
+            "postalCode": "77027",
+            "addressCountry": "US"
+          },
+          "location": [
+            {
+              "@type": "PostalAddress",
+              "streetAddress": "4550 Post Oak Place Drive, Suite 228",
+              "addressLocality": "Houston",
+              "addressRegion": "TX",
+              "postalCode": "77027",
+              "addressCountry": "US",
+              "telephone": "(713) 465-5057",
+              "faxNumber": "(281) 749-8175"
+            }
+          ],
+          "sameAs": [
+            "https://twitter.com/moneystewart",
+            "https://www.linkedin.com/pub/michael-stewart/15/72a/418",
+            "https://www.facebook.com/AmericanPortfoliosHouston/",
+            "https://www.youtube.com/channel/UCnss-G_vVjV7673WHOnjasQ"
+          ]
+        }
+      ],
+      "wordCount": 486,
+      "internalLinksCount": 37,
+      "externalLinksCount": 13,
+      "imagesMissingAltCount": 0,
+      "hasPhone": true,
+      "hasAddress": false,
+      "hasCityState": true,
+      "hasFAQSignals": true,
+      "hasAuthorSignals": true,
+      "hasDisclosureSignals": true,
+      "crawledAt": "2026-01-03T10:26:28.036Z"
+    },
+    {
+      "url": "https://www.americanportfolioshouston.com/resource-center/retirement",
+      "finalUrl": "https://www.americanportfolioshouston.com/resource-center/retirement",
+      "status": 200,
+      "title": "Retirement | Michael Stewart, Osaic Wealth Houston",
+      "metaDescription": null,
+      "h1": "Retirement",
+      "h2s": [
+        "Dreaming Up an Active Retirement",
+        "Have A Question About This Topic?"
+      ],
+      "canonical": null,
+      "robotsMeta": "index, follow",
+      "ogTags": {},
+      "jsonldSnippets": [
+        {
+          "@context": "https://schema.org",
+          "@type": "FinancialService",
+          "@id": "http://www.americanportfolioshouston.com",
+          "name": "Michael Stewart, Osaic Wealth Houston",
+          "logo": "//static.fmgsuite.com/media/TransparentLogo/variantSize/bb6cfc62-3d03-46ef-97e3-7d3b2e03dad6.png",
+          "image": "//static.fmgsuite.com/media/PortraitImageFMG/variantSize/896dfef3-dcfd-4901-ac7f-9d63e146a280.png",
+          "url": "http://www.americanportfolioshouston.com",
+          "telephone": "(713) 465-5057",
+          "priceRange": "N/A",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "4550 Post Oak Place Drive Suite 228",
+            "addressLocality": "Houston",
+            "addressRegion": "TX",
+            "postalCode": "77027",
+            "addressCountry": "US"
+          },
+          "location": [
+            {
+              "@type": "PostalAddress",
+              "streetAddress": "4550 Post Oak Place Drive, Suite 228",
+              "addressLocality": "Houston",
+              "addressRegion": "TX",
+              "postalCode": "77027",
+              "addressCountry": "US",
+              "telephone": "(713) 465-5057",
+              "faxNumber": "(281) 749-8175"
+            }
+          ],
+          "sameAs": [
+            "https://twitter.com/moneystewart",
+            "https://www.linkedin.com/pub/michael-stewart/15/72a/418",
+            "https://www.facebook.com/AmericanPortfoliosHouston/",
+            "https://www.youtube.com/channel/UCnss-G_vVjV7673WHOnjasQ"
+          ]
+        }
+      ],
+      "wordCount": 1202,
+      "internalLinksCount": 84,
+      "externalLinksCount": 13,
+      "imagesMissingAltCount": 0,
+      "hasPhone": true,
+      "hasAddress": false,
+      "hasCityState": true,
+      "hasFAQSignals": true,
+      "hasAuthorSignals": true,
+      "hasDisclosureSignals": true,
+      "crawledAt": "2026-01-03T10:26:28.747Z"
+    },
+    {
+      "url": "https://www.americanportfolioshouston.com/resource-center/estate",
+      "finalUrl": "https://www.americanportfolioshouston.com/resource-center/estate",
+      "status": 200,
+      "title": "Estate | Michael Stewart, Osaic Wealth Houston",
+      "metaDescription": null,
+      "h1": "Estate",
+      "h2s": [
+        "When Do You Need a Will?",
+        "Have A Question About This Topic?"
+      ],
+      "canonical": null,
+      "robotsMeta": "index, follow",
+      "ogTags": {},
+      "jsonldSnippets": [
+        {
+          "@context": "https://schema.org",
+          "@type": "FinancialService",
+          "@id": "http://www.americanportfolioshouston.com",
+          "name": "Michael Stewart, Osaic Wealth Houston",
+          "logo": "//static.fmgsuite.com/media/TransparentLogo/variantSize/bb6cfc62-3d03-46ef-97e3-7d3b2e03dad6.png",
+          "image": "//static.fmgsuite.com/media/PortraitImageFMG/variantSize/896dfef3-dcfd-4901-ac7f-9d63e146a280.png",
+          "url": "http://www.americanportfolioshouston.com",
+          "telephone": "(713) 465-5057",
+          "priceRange": "N/A",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "4550 Post Oak Place Drive Suite 228",
+            "addressLocality": "Houston",
+            "addressRegion": "TX",
+            "postalCode": "77027",
+            "addressCountry": "US"
+          },
+          "location": [
+            {
+              "@type": "PostalAddress",
+              "streetAddress": "4550 Post Oak Place Drive, Suite 228",
+              "addressLocality": "Houston",
+              "addressRegion": "TX",
+              "postalCode": "77027",
+              "addressCountry": "US",
+              "telephone": "(713) 465-5057",
+              "faxNumber": "(281) 749-8175"
+            }
+          ],
+          "sameAs": [
+            "https://twitter.com/moneystewart",
+            "https://www.linkedin.com/pub/michael-stewart/15/72a/418",
+            "https://www.facebook.com/AmericanPortfoliosHouston/",
+            "https://www.youtube.com/channel/UCnss-G_vVjV7673WHOnjasQ"
+          ]
+        }
+      ],
+      "wordCount": 1189,
+      "internalLinksCount": 78,
+      "externalLinksCount": 13,
+      "imagesMissingAltCount": 0,
+      "hasPhone": true,
+      "hasAddress": false,
+      "hasCityState": true,
+      "hasFAQSignals": true,
+      "hasAuthorSignals": true,
+      "hasDisclosureSignals": true,
+      "crawledAt": "2026-01-03T10:26:29.548Z"
+    },
+    {
+      "url": "https://www.americanportfolioshouston.com/resource-center/investment",
+      "finalUrl": "https://www.americanportfolioshouston.com/resource-center/investment",
+      "status": 200,
+      "title": "Investment | Michael Stewart, Osaic Wealth Houston",
+      "metaDescription": null,
+      "h1": "Investment",
+      "h2s": [
+        "When Markets React",
+        "Have A Question About This Topic?"
+      ],
+      "canonical": null,
+      "robotsMeta": "index, follow",
+      "ogTags": {},
+      "jsonldSnippets": [
+        {
+          "@context": "https://schema.org",
+          "@type": "FinancialService",
+          "@id": "http://www.americanportfolioshouston.com",
+          "name": "Michael Stewart, Osaic Wealth Houston",
+          "logo": "//static.fmgsuite.com/media/TransparentLogo/variantSize/bb6cfc62-3d03-46ef-97e3-7d3b2e03dad6.png",
+          "image": "//static.fmgsuite.com/media/PortraitImageFMG/variantSize/896dfef3-dcfd-4901-ac7f-9d63e146a280.png",
+          "url": "http://www.americanportfolioshouston.com",
+          "telephone": "(713) 465-5057",
+          "priceRange": "N/A",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "4550 Post Oak Place Drive Suite 228",
+            "addressLocality": "Houston",
+            "addressRegion": "TX",
+            "postalCode": "77027",
+            "addressCountry": "US"
+          },
+          "location": [
+            {
+              "@type": "PostalAddress",
+              "streetAddress": "4550 Post Oak Place Drive, Suite 228",
+              "addressLocality": "Houston",
+              "addressRegion": "TX",
+              "postalCode": "77027",
+              "addressCountry": "US",
+              "telephone": "(713) 465-5057",
+              "faxNumber": "(281) 749-8175"
+            }
+          ],
+          "sameAs": [
+            "https://twitter.com/moneystewart",
+            "https://www.linkedin.com/pub/michael-stewart/15/72a/418",
+            "https://www.facebook.com/AmericanPortfoliosHouston/",
+            "https://www.youtube.com/channel/UCnss-G_vVjV7673WHOnjasQ"
+          ]
+        }
+      ],
+      "wordCount": 1224,
+      "internalLinksCount": 84,
+      "externalLinksCount": 13,
+      "imagesMissingAltCount": 0,
+      "hasPhone": true,
+      "hasAddress": true,
+      "hasCityState": true,
+      "hasFAQSignals": true,
+      "hasAuthorSignals": true,
+      "hasDisclosureSignals": true,
+      "crawledAt": "2026-01-03T10:26:30.235Z"
+    },
+    {
+      "url": "https://www.americanportfolioshouston.com/resource-center/insurance",
+      "finalUrl": "https://www.americanportfolioshouston.com/resource-center/insurance",
+      "status": 200,
+      "title": "Insurance | Michael Stewart, Osaic Wealth Houston",
+      "metaDescription": null,
+      "h1": "Insurance",
+      "h2s": [
+        "Your DNA Test",
+        "Have A Question About This Topic?"
+      ],
+      "canonical": null,
+      "robotsMeta": "index, follow",
+      "ogTags": {},
+      "jsonldSnippets": [
+        {
+          "@context": "https://schema.org",
+          "@type": "FinancialService",
+          "@id": "http://www.americanportfolioshouston.com",
+          "name": "Michael Stewart, Osaic Wealth Houston",
+          "logo": "//static.fmgsuite.com/media/TransparentLogo/variantSize/bb6cfc62-3d03-46ef-97e3-7d3b2e03dad6.png",
+          "image": "//static.fmgsuite.com/media/PortraitImageFMG/variantSize/896dfef3-dcfd-4901-ac7f-9d63e146a280.png",
+          "url": "http://www.americanportfolioshouston.com",
+          "telephone": "(713) 465-5057",
+          "priceRange": "N/A",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "4550 Post Oak Place Drive Suite 228",
+            "addressLocality": "Houston",
+            "addressRegion": "TX",
+            "postalCode": "77027",
+            "addressCountry": "US"
+          },
+          "location": [
+            {
+              "@type": "PostalAddress",
+              "streetAddress": "4550 Post Oak Place Drive, Suite 228",
+              "addressLocality": "Houston",
+              "addressRegion": "TX",
+              "postalCode": "77027",
+              "addressCountry": "US",
+              "telephone": "(713) 465-5057",
+              "faxNumber": "(281) 749-8175"
+            }
+          ],
+          "sameAs": [
+            "https://twitter.com/moneystewart",
+            "https://www.linkedin.com/pub/michael-stewart/15/72a/418",
+            "https://www.facebook.com/AmericanPortfoliosHouston/",
+            "https://www.youtube.com/channel/UCnss-G_vVjV7673WHOnjasQ"
+          ]
+        }
+      ],
+      "wordCount": 1139,
+      "internalLinksCount": 78,
+      "externalLinksCount": 13,
+      "imagesMissingAltCount": 0,
+      "hasPhone": true,
+      "hasAddress": false,
+      "hasCityState": true,
+      "hasFAQSignals": true,
+      "hasAuthorSignals": true,
+      "hasDisclosureSignals": true,
+      "crawledAt": "2026-01-03T10:26:30.923Z"
+    },
+    {
+      "url": "https://www.americanportfolioshouston.com/resource-center/tax",
+      "finalUrl": "https://www.americanportfolioshouston.com/resource-center/tax",
+      "status": 200,
+      "title": "Tax | Michael Stewart, Osaic Wealth Houston",
+      "metaDescription": null,
+      "h1": "Tax",
+      "h2s": [
+        "The Facts About Income Tax",
+        "Have A Question About This Topic?"
+      ],
+      "canonical": null,
+      "robotsMeta": "index, follow",
+      "ogTags": {},
+      "jsonldSnippets": [
+        {
+          "@context": "https://schema.org",
+          "@type": "FinancialService",
+          "@id": "http://www.americanportfolioshouston.com",
+          "name": "Michael Stewart, Osaic Wealth Houston",
+          "logo": "//static.fmgsuite.com/media/TransparentLogo/variantSize/bb6cfc62-3d03-46ef-97e3-7d3b2e03dad6.png",
+          "image": "//static.fmgsuite.com/media/PortraitImageFMG/variantSize/896dfef3-dcfd-4901-ac7f-9d63e146a280.png",
+          "url": "http://www.americanportfolioshouston.com",
+          "telephone": "(713) 465-5057",
+          "priceRange": "N/A",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "4550 Post Oak Place Drive Suite 228",
+            "addressLocality": "Houston",
+            "addressRegion": "TX",
+            "postalCode": "77027",
+            "addressCountry": "US"
+          },
+          "location": [
+            {
+              "@type": "PostalAddress",
+              "streetAddress": "4550 Post Oak Place Drive, Suite 228",
+              "addressLocality": "Houston",
+              "addressRegion": "TX",
+              "postalCode": "77027",
+              "addressCountry": "US",
+              "telephone": "(713) 465-5057",
+              "faxNumber": "(281) 749-8175"
+            }
+          ],
+          "sameAs": [
+            "https://twitter.com/moneystewart",
+            "https://www.linkedin.com/pub/michael-stewart/15/72a/418",
+            "https://www.facebook.com/AmericanPortfoliosHouston/",
+            "https://www.youtube.com/channel/UCnss-G_vVjV7673WHOnjasQ"
+          ]
+        }
+      ],
+      "wordCount": 1078,
+      "internalLinksCount": 76,
+      "externalLinksCount": 13,
+      "imagesMissingAltCount": 0,
+      "hasPhone": true,
+      "hasAddress": false,
+      "hasCityState": true,
+      "hasFAQSignals": true,
+      "hasAuthorSignals": true,
+      "hasDisclosureSignals": true,
+      "crawledAt": "2026-01-03T10:26:31.701Z"
+    },
+    {
+      "url": "https://www.americanportfolioshouston.com/resource-center/money",
+      "finalUrl": "https://www.americanportfolioshouston.com/resource-center/money",
+      "status": 200,
+      "title": "Money | Michael Stewart, Osaic Wealth Houston",
+      "metaDescription": null,
+      "h1": "Money",
+      "h2s": [
+        "How Cash Apps Work",
+        "Have A Question About This Topic?"
+      ],
+      "canonical": null,
+      "robotsMeta": "index, follow",
+      "ogTags": {},
+      "jsonldSnippets": [
+        {
+          "@context": "https://schema.org",
+          "@type": "FinancialService",
+          "@id": "http://www.americanportfolioshouston.com",
+          "name": "Michael Stewart, Osaic Wealth Houston",
+          "logo": "//static.fmgsuite.com/media/TransparentLogo/variantSize/bb6cfc62-3d03-46ef-97e3-7d3b2e03dad6.png",
+          "image": "//static.fmgsuite.com/media/PortraitImageFMG/variantSize/896dfef3-dcfd-4901-ac7f-9d63e146a280.png",
+          "url": "http://www.americanportfolioshouston.com",
+          "telephone": "(713) 465-5057",
+          "priceRange": "N/A",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "4550 Post Oak Place Drive Suite 228",
+            "addressLocality": "Houston",
+            "addressRegion": "TX",
+            "postalCode": "77027",
+            "addressCountry": "US"
+          },
+          "location": [
+            {
+              "@type": "PostalAddress",
+              "streetAddress": "4550 Post Oak Place Drive, Suite 228",
+              "addressLocality": "Houston",
+              "addressRegion": "TX",
+              "postalCode": "77027",
+              "addressCountry": "US",
+              "telephone": "(713) 465-5057",
+              "faxNumber": "(281) 749-8175"
+            }
+          ],
+          "sameAs": [
+            "https://twitter.com/moneystewart",
+            "https://www.linkedin.com/pub/michael-stewart/15/72a/418",
+            "https://www.facebook.com/AmericanPortfoliosHouston/",
+            "https://www.youtube.com/channel/UCnss-G_vVjV7673WHOnjasQ"
+          ]
+        }
+      ],
+      "wordCount": 1130,
+      "internalLinksCount": 78,
+      "externalLinksCount": 13,
+      "imagesMissingAltCount": 0,
+      "hasPhone": true,
+      "hasAddress": false,
+      "hasCityState": true,
+      "hasFAQSignals": true,
+      "hasAuthorSignals": true,
+      "hasDisclosureSignals": true,
+      "crawledAt": "2026-01-03T10:26:32.357Z"
+    },
+    {
+      "url": "https://www.americanportfolioshouston.com/resource-center/lifestyle",
+      "finalUrl": "https://www.americanportfolioshouston.com/resource-center/lifestyle",
+      "status": 200,
+      "title": "Lifestyle | Michael Stewart, Osaic Wealth Houston",
+      "metaDescription": null,
+      "h1": "Lifestyle",
+      "h2s": [
+        "An Arm and a Leg",
+        "Have A Question About This Topic?"
+      ],
+      "canonical": null,
+      "robotsMeta": "index, follow",
+      "ogTags": {},
+      "jsonldSnippets": [
+        {
+          "@context": "https://schema.org",
+          "@type": "FinancialService",
+          "@id": "http://www.americanportfolioshouston.com",
+          "name": "Michael Stewart, Osaic Wealth Houston",
+          "logo": "//static.fmgsuite.com/media/TransparentLogo/variantSize/bb6cfc62-3d03-46ef-97e3-7d3b2e03dad6.png",
+          "image": "//static.fmgsuite.com/media/PortraitImageFMG/variantSize/896dfef3-dcfd-4901-ac7f-9d63e146a280.png",
+          "url": "http://www.americanportfolioshouston.com",
+          "telephone": "(713) 465-5057",
+          "priceRange": "N/A",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "4550 Post Oak Place Drive Suite 228",
+            "addressLocality": "Houston",
+            "addressRegion": "TX",
+            "postalCode": "77027",
+            "addressCountry": "US"
+          },
+          "location": [
+            {
+              "@type": "PostalAddress",
+              "streetAddress": "4550 Post Oak Place Drive, Suite 228",
+              "addressLocality": "Houston",
+              "addressRegion": "TX",
+              "postalCode": "77027",
+              "addressCountry": "US",
+              "telephone": "(713) 465-5057",
+              "faxNumber": "(281) 749-8175"
+            }
+          ],
+          "sameAs": [
+            "https://twitter.com/moneystewart",
+            "https://www.linkedin.com/pub/michael-stewart/15/72a/418",
+            "https://www.facebook.com/AmericanPortfoliosHouston/",
+            "https://www.youtube.com/channel/UCnss-G_vVjV7673WHOnjasQ"
+          ]
+        }
+      ],
+      "wordCount": 1255,
+      "internalLinksCount": 84,
+      "externalLinksCount": 13,
+      "imagesMissingAltCount": 0,
+      "hasPhone": true,
+      "hasAddress": false,
+      "hasCityState": true,
+      "hasFAQSignals": true,
+      "hasAuthorSignals": true,
+      "hasDisclosureSignals": true,
+      "crawledAt": "2026-01-03T10:26:33.023Z"
+    },
+    {
+      "url": "https://www.americanportfolioshouston.com/how-we-work",
+      "finalUrl": "https://www.americanportfolioshouston.com/how-we-work",
+      "status": 200,
+      "title": "How We Work",
+      "metaDescription": null,
+      "h1": null,
+      "h2s": [
+        "How We Do Business - The Osaic Way.",
+        "The Osaic Way.",
+        "The Osaic Way.",
+        "The Osaic Way.",
+        "The Osaic Way.",
+        "The Osaic Way.",
+        "How do we do business?",
+        "An individualized, personal approach",
+        "Highly Skilled Money Management",
+        "Fiduciary Responsibility and Commitment"
+      ],
+      "canonical": "https://www.americanportfolioshouston.com/how-we-work",
+      "robotsMeta": "index, follow",
+      "ogTags": {
+        "og:title": "How We Work",
+        "og:site_name": "Michael Stewart, Osaic Wealth Houston",
+        "og:url": "https://www.americanportfolioshouston.com/how-we-work"
+      },
+      "jsonldSnippets": [
+        {
+          "@context": "https://schema.org",
+          "@type": "FinancialService",
+          "@id": "http://www.americanportfolioshouston.com",
+          "name": "Michael Stewart, Osaic Wealth Houston",
+          "logo": "//static.fmgsuite.com/media/TransparentLogo/variantSize/bb6cfc62-3d03-46ef-97e3-7d3b2e03dad6.png",
+          "image": "//static.fmgsuite.com/media/PortraitImageFMG/variantSize/896dfef3-dcfd-4901-ac7f-9d63e146a280.png",
+          "url": "http://www.americanportfolioshouston.com",
+          "telephone": "(713) 465-5057",
+          "priceRange": "N/A",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "4550 Post Oak Place Drive Suite 228",
+            "addressLocality": "Houston",
+            "addressRegion": "TX",
+            "postalCode": "77027",
+            "addressCountry": "US"
+          },
+          "location": [
+            {
+              "@type": "PostalAddress",
+              "streetAddress": "4550 Post Oak Place Drive, Suite 228",
+              "addressLocality": "Houston",
+              "addressRegion": "TX",
+              "postalCode": "77027",
+              "addressCountry": "US",
+              "telephone": "(713) 465-5057",
+              "faxNumber": "(281) 749-8175"
+            }
+          ],
+          "sameAs": [
+            "https://twitter.com/moneystewart",
+            "https://www.linkedin.com/pub/michael-stewart/15/72a/418",
+            "https://www.facebook.com/AmericanPortfoliosHouston/",
+            "https://www.youtube.com/channel/UCnss-G_vVjV7673WHOnjasQ"
+          ]
+        }
+      ],
+      "wordCount": 1109,
+      "internalLinksCount": 42,
+      "externalLinksCount": 15,
+      "imagesMissingAltCount": 0,
+      "hasPhone": true,
+      "hasAddress": false,
+      "hasCityState": true,
+      "hasFAQSignals": true,
+      "hasAuthorSignals": true,
+      "hasDisclosureSignals": true,
+      "crawledAt": "2026-01-03T10:26:33.734Z"
+    },
+    {
+      "url": "https://www.americanportfolioshouston.com/how-your-assets-are-protected",
+      "finalUrl": "https://www.americanportfolioshouston.com/how-your-assets-are-protected",
+      "status": 200,
+      "title": "How your Assets are protected",
+      "metaDescription": "The Protection of Client Assets Remains at the Center of Our Focus. BNY Mellon's Pershing has been a leading global provider of financial business solutions for 80 years and serves many of the world's most respected financial organizations.",
+      "h1": null,
+      "h2s": [
+        "How Your Assets Are Protected",
+        "Strength and Stability",
+        "Understanding the Protection of Client Assets",
+        "Understanding the Protection of Client Assets"
+      ],
+      "canonical": "https://www.americanportfolioshouston.com/how-your-assets-are-protected",
+      "robotsMeta": "index, follow",
+      "ogTags": {
+        "og:title": "How your Assets are protected",
+        "og:description": "The Protection of Client Assets Remains at the Center of Our Focus. BNY Mellon's Pershing has been a leading global provider of financial business solutions for 80 years and serves many of the world's most respected financial organizations.",
+        "og:site_name": "Michael Stewart, Osaic Wealth Houston",
+        "og:url": "https://www.americanportfolioshouston.com/how-your-assets-are-protected"
+      },
+      "jsonldSnippets": [
+        {
+          "@context": "https://schema.org",
+          "@type": "FinancialService",
+          "@id": "http://www.americanportfolioshouston.com",
+          "name": "Michael Stewart, Osaic Wealth Houston",
+          "logo": "//static.fmgsuite.com/media/TransparentLogo/variantSize/bb6cfc62-3d03-46ef-97e3-7d3b2e03dad6.png",
+          "image": "//static.fmgsuite.com/media/PortraitImageFMG/variantSize/896dfef3-dcfd-4901-ac7f-9d63e146a280.png",
+          "url": "http://www.americanportfolioshouston.com",
+          "telephone": "(713) 465-5057",
+          "priceRange": "N/A",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "4550 Post Oak Place Drive Suite 228",
+            "addressLocality": "Houston",
+            "addressRegion": "TX",
+            "postalCode": "77027",
+            "addressCountry": "US"
+          },
+          "location": [
+            {
+              "@type": "PostalAddress",
+              "streetAddress": "4550 Post Oak Place Drive, Suite 228",
+              "addressLocality": "Houston",
+              "addressRegion": "TX",
+              "postalCode": "77027",
+              "addressCountry": "US",
+              "telephone": "(713) 465-5057",
+              "faxNumber": "(281) 749-8175"
+            }
+          ],
+          "sameAs": [
+            "https://twitter.com/moneystewart",
+            "https://www.linkedin.com/pub/michael-stewart/15/72a/418",
+            "https://www.facebook.com/AmericanPortfoliosHouston/",
+            "https://www.youtube.com/channel/UCnss-G_vVjV7673WHOnjasQ"
+          ]
+        }
+      ],
+      "wordCount": 826,
+      "internalLinksCount": 30,
+      "externalLinksCount": 18,
+      "imagesMissingAltCount": 0,
+      "hasPhone": true,
+      "hasAddress": false,
+      "hasCityState": true,
+      "hasFAQSignals": false,
+      "hasAuthorSignals": true,
+      "hasDisclosureSignals": true,
+      "crawledAt": "2026-01-03T10:26:34.391Z"
+    },
+    {
+      "url": "https://www.americanportfolioshouston.com/associates",
+      "finalUrl": "https://www.americanportfolioshouston.com/associates",
+      "status": 200,
+      "title": "Associates",
+      "metaDescription": "Meet Our Team! Our team approach adds perspective to all we do and provides increased benefits to our clients.",
+      "h1": null,
+      "h2s": [
+        "Associates",
+        "How We Work",
+        "Our team approach adds perspective to all we do and provides increased benefits to our clients.",
+        "Meet Our Team",
+        "Find a Financial Advisor"
+      ],
+      "canonical": "https://www.americanportfolioshouston.com/associates",
+      "robotsMeta": "index, follow",
+      "ogTags": {
+        "og:title": "Associates",
+        "og:description": "Meet Our Team! Our team approach adds perspective to all we do and provides increased benefits to our clients.",
+        "og:site_name": "Michael Stewart, Osaic Wealth Houston",
+        "og:url": "https://www.americanportfolioshouston.com/associates"
+      },
+      "jsonldSnippets": [
+        {
+          "@context": "https://schema.org",
+          "@type": "FinancialService",
+          "@id": "http://www.americanportfolioshouston.com",
+          "name": "Michael Stewart, Osaic Wealth Houston",
+          "logo": "//static.fmgsuite.com/media/TransparentLogo/variantSize/bb6cfc62-3d03-46ef-97e3-7d3b2e03dad6.png",
+          "image": "//static.fmgsuite.com/media/PortraitImageFMG/variantSize/896dfef3-dcfd-4901-ac7f-9d63e146a280.png",
+          "url": "http://www.americanportfolioshouston.com",
+          "telephone": "(713) 465-5057",
+          "priceRange": "N/A",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "4550 Post Oak Place Drive Suite 228",
+            "addressLocality": "Houston",
+            "addressRegion": "TX",
+            "postalCode": "77027",
+            "addressCountry": "US"
+          },
+          "location": [
+            {
+              "@type": "PostalAddress",
+              "streetAddress": "4550 Post Oak Place Drive, Suite 228",
+              "addressLocality": "Houston",
+              "addressRegion": "TX",
+              "postalCode": "77027",
+              "addressCountry": "US",
+              "telephone": "(713) 465-5057",
+              "faxNumber": "(281) 749-8175"
+            }
+          ],
+          "sameAs": [
+            "https://twitter.com/moneystewart",
+            "https://www.linkedin.com/pub/michael-stewart/15/72a/418",
+            "https://www.facebook.com/AmericanPortfoliosHouston/",
+            "https://www.youtube.com/channel/UCnss-G_vVjV7673WHOnjasQ"
+          ]
+        }
+      ],
+      "wordCount": 673,
+      "internalLinksCount": 42,
+      "externalLinksCount": 22,
+      "imagesMissingAltCount": 3,
+      "hasPhone": true,
+      "hasAddress": false,
+      "hasCityState": true,
+      "hasFAQSignals": false,
+      "hasAuthorSignals": true,
+      "hasDisclosureSignals": true,
+      "crawledAt": "2026-01-03T10:26:35.031Z"
+    },
+    {
+      "url": "https://www.americanportfolioshouston.com/contact",
+      "finalUrl": "https://www.americanportfolioshouston.com/contact",
+      "status": 200,
+      "title": "Contact | Michael Stewart, Osaic Wealth Houston",
+      "metaDescription": null,
+      "h1": "Contact",
+      "h2s": [
+        "Houston Office",
+        "Have A Question?"
+      ],
+      "canonical": "https://www.americanportfolioshouston.com/contact",
+      "robotsMeta": "index, follow",
+      "ogTags": {},
+      "jsonldSnippets": [
+        {
+          "@context": "https://schema.org",
+          "@type": "FinancialService",
+          "@id": "http://www.americanportfolioshouston.com",
+          "name": "Michael Stewart, Osaic Wealth Houston",
+          "logo": "//static.fmgsuite.com/media/TransparentLogo/variantSize/bb6cfc62-3d03-46ef-97e3-7d3b2e03dad6.png",
+          "image": "//static.fmgsuite.com/media/PortraitImageFMG/variantSize/896dfef3-dcfd-4901-ac7f-9d63e146a280.png",
+          "url": "http://www.americanportfolioshouston.com",
+          "telephone": "(713) 465-5057",
+          "priceRange": "N/A",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "4550 Post Oak Place Drive Suite 228",
+            "addressLocality": "Houston",
+            "addressRegion": "TX",
+            "postalCode": "77027",
+            "addressCountry": "US"
+          },
+          "location": [
+            {
+              "@type": "PostalAddress",
+              "streetAddress": "4550 Post Oak Place Drive, Suite 228",
+              "addressLocality": "Houston",
+              "addressRegion": "TX",
+              "postalCode": "77027",
+              "addressCountry": "US",
+              "telephone": "(713) 465-5057",
+              "faxNumber": "(281) 749-8175"
+            }
+          ],
+          "sameAs": [
+            "https://twitter.com/moneystewart",
+            "https://www.linkedin.com/pub/michael-stewart/15/72a/418",
+            "https://www.facebook.com/AmericanPortfoliosHouston/",
+            "https://www.youtube.com/channel/UCnss-G_vVjV7673WHOnjasQ"
+          ]
+        }
+      ],
+      "wordCount": 396,
+      "internalLinksCount": 30,
+      "externalLinksCount": 15,
+      "imagesMissingAltCount": 0,
+      "hasPhone": true,
+      "hasAddress": false,
+      "hasCityState": true,
+      "hasFAQSignals": true,
+      "hasAuthorSignals": true,
+      "hasDisclosureSignals": true,
+      "crawledAt": "2026-01-03T10:26:35.783Z"
+    },
+    {
+      "url": "https://www.americanportfolioshouston.com/about-us",
+      "finalUrl": "https://www.americanportfolioshouston.com/about-us",
+      "status": 200,
+      "title": "About Us",
+      "metaDescription": "We remain committed to the safekeeping, servicing, segregation and reporting of our global client assets. American Portfolios Houston Representatives are experienced professionals. Learn more about how we do business.",
+      "h1": null,
+      "h2s": [
+        "Is your Investment Portfolio right for you?",
+        "Is your Investment Portfolio right for you?",
+        "Is your Investment Portfolio right for you?",
+        "Is your Investment Portfolio right for you?",
+        "Is your Investment Portfolio right for you?",
+        "Finding Your Fit",
+        "Meet the most seasoned Representatives in Money Management, Financial Planning and Tactical asset allocation.",
+        "Osaic Houston representatives are experienced professionals. Learn more about how we do business.",
+        "We remain committed to the safekeeping, servicing, segregation and reporting of our global client assets.",
+        "\"The Greatest Compliment We Can Receive Is A Referral From One Of Our Valued Clients.\""
+      ],
+      "canonical": "https://www.americanportfolioshouston.com/about-us",
+      "robotsMeta": "noindex, nofollow",
+      "ogTags": {
+        "og:title": "About Us",
+        "og:description": "We remain committed to the safekeeping, servicing, segregation and reporting of our global client assets. American Portfolios Houston Representatives are experienced professionals. Learn more about how we do business.",
+        "og:site_name": "Michael Stewart, Osaic Wealth Houston",
+        "og:url": "https://www.americanportfolioshouston.com/about-us"
+      },
+      "jsonldSnippets": [
+        {
+          "@context": "https://schema.org",
+          "@type": "FinancialService",
+          "@id": "http://www.americanportfolioshouston.com",
+          "name": "Michael Stewart, Osaic Wealth Houston",
+          "logo": "//static.fmgsuite.com/media/TransparentLogo/variantSize/bb6cfc62-3d03-46ef-97e3-7d3b2e03dad6.png",
+          "image": "//static.fmgsuite.com/media/PortraitImageFMG/variantSize/896dfef3-dcfd-4901-ac7f-9d63e146a280.png",
+          "url": "http://www.americanportfolioshouston.com",
+          "telephone": "(713) 465-5057",
+          "priceRange": "N/A",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "4550 Post Oak Place Drive Suite 228",
+            "addressLocality": "Houston",
+            "addressRegion": "TX",
+            "postalCode": "77027",
+            "addressCountry": "US"
+          },
+          "location": [
+            {
+              "@type": "PostalAddress",
+              "streetAddress": "4550 Post Oak Place Drive, Suite 228",
+              "addressLocality": "Houston",
+              "addressRegion": "TX",
+              "postalCode": "77027",
+              "addressCountry": "US",
+              "telephone": "(713) 465-5057",
+              "faxNumber": "(281) 749-8175"
+            }
+          ],
+          "sameAs": [
+            "https://twitter.com/moneystewart",
+            "https://www.linkedin.com/pub/michael-stewart/15/72a/418",
+            "https://www.facebook.com/AmericanPortfoliosHouston/",
+            "https://www.youtube.com/channel/UCnss-G_vVjV7673WHOnjasQ"
+          ]
+        }
+      ],
+      "wordCount": 730,
+      "internalLinksCount": 37,
+      "externalLinksCount": 14,
+      "imagesMissingAltCount": 0,
+      "hasPhone": true,
+      "hasAddress": false,
+      "hasCityState": true,
+      "hasFAQSignals": true,
+      "hasAuthorSignals": true,
+      "hasDisclosureSignals": true,
+      "crawledAt": "2026-01-03T10:26:36.527Z"
+    },
+    {
+      "url": "https://www.americanportfolioshouston.com/resource-center/articles",
+      "finalUrl": "https://www.americanportfolioshouston.com/resource-center/articles",
+      "status": 200,
+      "title": "Latest Articles | Michael Stewart, Osaic Wealth Houston",
+      "metaDescription": null,
+      "h1": "Latest Articles",
+      "h2s": [
+        "Retirement",
+        "Estate",
+        "Investment",
+        "Insurance",
+        "Tax",
+        "Money",
+        "Lifestyle"
+      ],
+      "canonical": null,
+      "robotsMeta": "index, follow",
+      "ogTags": {},
+      "jsonldSnippets": [
+        {
+          "@context": "https://schema.org",
+          "@type": "FinancialService",
+          "@id": "http://www.americanportfolioshouston.com",
+          "name": "Michael Stewart, Osaic Wealth Houston",
+          "logo": "//static.fmgsuite.com/media/TransparentLogo/variantSize/bb6cfc62-3d03-46ef-97e3-7d3b2e03dad6.png",
+          "image": "//static.fmgsuite.com/media/PortraitImageFMG/variantSize/896dfef3-dcfd-4901-ac7f-9d63e146a280.png",
+          "url": "http://www.americanportfolioshouston.com",
+          "telephone": "(713) 465-5057",
+          "priceRange": "N/A",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "4550 Post Oak Place Drive Suite 228",
+            "addressLocality": "Houston",
+            "addressRegion": "TX",
+            "postalCode": "77027",
+            "addressCountry": "US"
+          },
+          "location": [
+            {
+              "@type": "PostalAddress",
+              "streetAddress": "4550 Post Oak Place Drive, Suite 228",
+              "addressLocality": "Houston",
+              "addressRegion": "TX",
+              "postalCode": "77027",
+              "addressCountry": "US",
+              "telephone": "(713) 465-5057",
+              "faxNumber": "(281) 749-8175"
+            }
+          ],
+          "sameAs": [
+            "https://twitter.com/moneystewart",
+            "https://www.linkedin.com/pub/michael-stewart/15/72a/418",
+            "https://www.facebook.com/AmericanPortfoliosHouston/",
+            "https://www.youtube.com/channel/UCnss-G_vVjV7673WHOnjasQ"
+          ]
+        }
+      ],
+      "wordCount": 732,
+      "internalLinksCount": 99,
+      "externalLinksCount": 13,
+      "imagesMissingAltCount": 0,
+      "hasPhone": true,
+      "hasAddress": false,
+      "hasCityState": true,
+      "hasFAQSignals": false,
+      "hasAuthorSignals": true,
+      "hasDisclosureSignals": true,
+      "crawledAt": "2026-01-03T10:26:37.115Z"
+    },
+    {
+      "url": "https://www.americanportfolioshouston.com/resource-center/videos",
+      "finalUrl": "https://www.americanportfolioshouston.com/resource-center/videos",
+      "status": 200,
+      "title": "All Videos | Michael Stewart, Osaic Wealth Houston",
+      "metaDescription": null,
+      "h1": "All Videos",
+      "h2s": [],
+      "canonical": null,
+      "robotsMeta": "index, follow",
+      "ogTags": {},
+      "jsonldSnippets": [
+        {
+          "@context": "https://schema.org",
+          "@type": "FinancialService",
+          "@id": "http://www.americanportfolioshouston.com",
+          "name": "Michael Stewart, Osaic Wealth Houston",
+          "logo": "//static.fmgsuite.com/media/TransparentLogo/variantSize/bb6cfc62-3d03-46ef-97e3-7d3b2e03dad6.png",
+          "image": "//static.fmgsuite.com/media/PortraitImageFMG/variantSize/896dfef3-dcfd-4901-ac7f-9d63e146a280.png",
+          "url": "http://www.americanportfolioshouston.com",
+          "telephone": "(713) 465-5057",
+          "priceRange": "N/A",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "4550 Post Oak Place Drive Suite 228",
+            "addressLocality": "Houston",
+            "addressRegion": "TX",
+            "postalCode": "77027",
+            "addressCountry": "US"
+          },
+          "location": [
+            {
+              "@type": "PostalAddress",
+              "streetAddress": "4550 Post Oak Place Drive, Suite 228",
+              "addressLocality": "Houston",
+              "addressRegion": "TX",
+              "postalCode": "77027",
+              "addressCountry": "US",
+              "telephone": "(713) 465-5057",
+              "faxNumber": "(281) 749-8175"
+            }
+          ],
+          "sameAs": [
+            "https://twitter.com/moneystewart",
+            "https://www.linkedin.com/pub/michael-stewart/15/72a/418",
+            "https://www.facebook.com/AmericanPortfoliosHouston/",
+            "https://www.youtube.com/channel/UCnss-G_vVjV7673WHOnjasQ"
+          ]
+        }
+      ],
+      "wordCount": 2204,
+      "internalLinksCount": 206,
+      "externalLinksCount": 13,
+      "imagesMissingAltCount": 0,
+      "hasPhone": true,
+      "hasAddress": true,
+      "hasCityState": true,
+      "hasFAQSignals": true,
+      "hasAuthorSignals": true,
+      "hasDisclosureSignals": true,
+      "crawledAt": "2026-01-03T10:26:37.900Z"
+    },
+    {
+      "url": "https://www.americanportfolioshouston.com/resource-center/calculators",
+      "finalUrl": "https://www.americanportfolioshouston.com/resource-center/calculators",
+      "status": 200,
+      "title": "All Calculators | Michael Stewart, Osaic Wealth Houston",
+      "metaDescription": null,
+      "h1": "All Calculators",
+      "h2s": [
+        "Retirement",
+        "Estate",
+        "Investment",
+        "Insurance",
+        "Tax",
+        "Money",
+        "Lifestyle"
+      ],
+      "canonical": null,
+      "robotsMeta": "index, follow",
+      "ogTags": {},
+      "jsonldSnippets": [
+        {
+          "@context": "https://schema.org",
+          "@type": "FinancialService",
+          "@id": "http://www.americanportfolioshouston.com",
+          "name": "Michael Stewart, Osaic Wealth Houston",
+          "logo": "//static.fmgsuite.com/media/TransparentLogo/variantSize/bb6cfc62-3d03-46ef-97e3-7d3b2e03dad6.png",
+          "image": "//static.fmgsuite.com/media/PortraitImageFMG/variantSize/896dfef3-dcfd-4901-ac7f-9d63e146a280.png",
+          "url": "http://www.americanportfolioshouston.com",
+          "telephone": "(713) 465-5057",
+          "priceRange": "N/A",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "4550 Post Oak Place Drive Suite 228",
+            "addressLocality": "Houston",
+            "addressRegion": "TX",
+            "postalCode": "77027",
+            "addressCountry": "US"
+          },
+          "location": [
+            {
+              "@type": "PostalAddress",
+              "streetAddress": "4550 Post Oak Place Drive, Suite 228",
+              "addressLocality": "Houston",
+              "addressRegion": "TX",
+              "postalCode": "77027",
+              "addressCountry": "US",
+              "telephone": "(713) 465-5057",
+              "faxNumber": "(281) 749-8175"
+            }
+          ],
+          "sameAs": [
+            "https://twitter.com/moneystewart",
+            "https://www.linkedin.com/pub/michael-stewart/15/72a/418",
+            "https://www.facebook.com/AmericanPortfoliosHouston/",
+            "https://www.youtube.com/channel/UCnss-G_vVjV7673WHOnjasQ"
+          ]
+        }
+      ],
+      "wordCount": 621,
+      "internalLinksCount": 69,
+      "externalLinksCount": 13,
+      "imagesMissingAltCount": 0,
+      "hasPhone": true,
+      "hasAddress": false,
+      "hasCityState": true,
+      "hasFAQSignals": false,
+      "hasAuthorSignals": true,
+      "hasDisclosureSignals": true,
+      "crawledAt": "2026-01-03T10:26:38.522Z"
+    },
+    {
+      "url": "https://www.americanportfolioshouston.com/donotsellmypersonalinformation",
+      "finalUrl": "https://www.americanportfolioshouston.com/donotsellmypersonalinformation",
+      "status": 200,
+      "title": "Personal Information Form",
+      "metaDescription": null,
+      "h1": "Personal Information Form",
+      "h2s": [],
+      "canonical": null,
+      "robotsMeta": "noindex, nofollow",
+      "ogTags": {},
+      "jsonldSnippets": [
+        {
+          "@context": "https://schema.org",
+          "@type": "FinancialService",
+          "@id": "http://www.americanportfolioshouston.com",
+          "name": "Michael Stewart, Osaic Wealth Houston",
+          "logo": "//static.fmgsuite.com/media/TransparentLogo/variantSize/bb6cfc62-3d03-46ef-97e3-7d3b2e03dad6.png",
+          "image": "//static.fmgsuite.com/media/PortraitImageFMG/variantSize/896dfef3-dcfd-4901-ac7f-9d63e146a280.png",
+          "url": "http://www.americanportfolioshouston.com",
+          "telephone": "(713) 465-5057",
+          "priceRange": "N/A",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "4550 Post Oak Place Drive Suite 228",
+            "addressLocality": "Houston",
+            "addressRegion": "TX",
+            "postalCode": "77027",
+            "addressCountry": "US"
+          },
+          "location": [
+            {
+              "@type": "PostalAddress",
+              "streetAddress": "4550 Post Oak Place Drive, Suite 228",
+              "addressLocality": "Houston",
+              "addressRegion": "TX",
+              "postalCode": "77027",
+              "addressCountry": "US",
+              "telephone": "(713) 465-5057",
+              "faxNumber": "(281) 749-8175"
+            }
+          ],
+          "sameAs": [
+            "https://twitter.com/moneystewart",
+            "https://www.linkedin.com/pub/michael-stewart/15/72a/418",
+            "https://www.facebook.com/AmericanPortfoliosHouston/",
+            "https://www.youtube.com/channel/UCnss-G_vVjV7673WHOnjasQ"
+          ]
+        }
+      ],
+      "wordCount": 384,
+      "internalLinksCount": 30,
+      "externalLinksCount": 14,
+      "imagesMissingAltCount": 0,
+      "hasPhone": true,
+      "hasAddress": false,
+      "hasCityState": true,
+      "hasFAQSignals": false,
+      "hasAuthorSignals": true,
+      "hasDisclosureSignals": true,
+      "crawledAt": "2026-01-03T10:26:39.183Z"
+    },
+    {
+      "url": "https://www.americanportfolioshouston.com/resource-center/retirement/dreaming-up-an-active-retirement",
+      "finalUrl": "https://www.americanportfolioshouston.com/resource-center/retirement/dreaming-up-an-active-retirement",
+      "status": 200,
+      "title": "Dreaming Up an Active Retirement | Michael Stewart, Osaic Wealth Houston",
+      "metaDescription": null,
+      "h1": "Dreaming Up an Active Retirement",
+      "h2s": [
+        "Have A Question About This Topic?",
+        "Related Content"
+      ],
+      "canonical": null,
+      "robotsMeta": "index, follow",
+      "ogTags": {
+        "og:image": "http://static.fmgsuite.com/site/templates/global/img/assets/largethumb/1053-largethumb-b.jpg",
+        "og:title": "Dreaming Up an Active Retirement",
+        "og:description": "When you retire, how will you treat your next chapter?"
+      },
+      "jsonldSnippets": [
+        {
+          "@context": "https://schema.org",
+          "@type": "FinancialService",
+          "@id": "http://www.americanportfolioshouston.com",
+          "name": "Michael Stewart, Osaic Wealth Houston",
+          "logo": "//static.fmgsuite.com/media/TransparentLogo/variantSize/bb6cfc62-3d03-46ef-97e3-7d3b2e03dad6.png",
+          "image": "//static.fmgsuite.com/media/PortraitImageFMG/variantSize/896dfef3-dcfd-4901-ac7f-9d63e146a280.png",
+          "url": "http://www.americanportfolioshouston.com",
+          "telephone": "(713) 465-5057",
+          "priceRange": "N/A",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "4550 Post Oak Place Drive Suite 228",
+            "addressLocality": "Houston",
+            "addressRegion": "TX",
+            "postalCode": "77027",
+            "addressCountry": "US"
+          },
+          "location": [
+            {
+              "@type": "PostalAddress",
+              "streetAddress": "4550 Post Oak Place Drive, Suite 228",
+              "addressLocality": "Houston",
+              "addressRegion": "TX",
+              "postalCode": "77027",
+              "addressCountry": "US",
+              "telephone": "(713) 465-5057",
+              "faxNumber": "(281) 749-8175"
+            }
+          ],
+          "sameAs": [
+            "https://twitter.com/moneystewart",
+            "https://www.linkedin.com/pub/michael-stewart/15/72a/418",
+            "https://www.facebook.com/AmericanPortfoliosHouston/",
+            "https://www.youtube.com/channel/UCnss-G_vVjV7673WHOnjasQ"
+          ]
+        }
+      ],
+      "wordCount": 442,
+      "internalLinksCount": 36,
+      "externalLinksCount": 13,
+      "imagesMissingAltCount": 0,
+      "hasPhone": true,
+      "hasAddress": false,
+      "hasCityState": true,
+      "hasFAQSignals": true,
+      "hasAuthorSignals": true,
+      "hasDisclosureSignals": true,
+      "crawledAt": "2026-01-03T10:26:39.773Z"
+    },
+    {
+      "url": "https://www.americanportfolioshouston.com/resource-center/retirement/rightsizing-for-retirement",
+      "finalUrl": "https://www.americanportfolioshouston.com/resource-center/retirement/rightsizing-for-retirement",
+      "status": 200,
+      "title": "Rightsizing for Retirement | Michael Stewart, Osaic Wealth Houston",
+      "metaDescription": null,
+      "h1": "Rightsizing for Retirement",
+      "h2s": [
+        "Have A Question About This Topic?",
+        "Related Content"
+      ],
+      "canonical": null,
+      "robotsMeta": "index, follow",
+      "ogTags": {
+        "og:image": "http://static.fmgsuite.com/site/templates/global/img/assets/largethumb/104-largethumb-c.jpg",
+        "og:title": "Rightsizing for Retirement",
+        "og:description": "What does your home really cost?"
+      },
+      "jsonldSnippets": [
+        {
+          "@context": "https://schema.org",
+          "@type": "FinancialService",
+          "@id": "http://www.americanportfolioshouston.com",
+          "name": "Michael Stewart, Osaic Wealth Houston",
+          "logo": "//static.fmgsuite.com/media/TransparentLogo/variantSize/bb6cfc62-3d03-46ef-97e3-7d3b2e03dad6.png",
+          "image": "//static.fmgsuite.com/media/PortraitImageFMG/variantSize/896dfef3-dcfd-4901-ac7f-9d63e146a280.png",
+          "url": "http://www.americanportfolioshouston.com",
+          "telephone": "(713) 465-5057",
+          "priceRange": "N/A",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "4550 Post Oak Place Drive Suite 228",
+            "addressLocality": "Houston",
+            "addressRegion": "TX",
+            "postalCode": "77027",
+            "addressCountry": "US"
+          },
+          "location": [
+            {
+              "@type": "PostalAddress",
+              "streetAddress": "4550 Post Oak Place Drive, Suite 228",
+              "addressLocality": "Houston",
+              "addressRegion": "TX",
+              "postalCode": "77027",
+              "addressCountry": "US",
+              "telephone": "(713) 465-5057",
+              "faxNumber": "(281) 749-8175"
+            }
+          ],
+          "sameAs": [
+            "https://twitter.com/moneystewart",
+            "https://www.linkedin.com/pub/michael-stewart/15/72a/418",
+            "https://www.facebook.com/AmericanPortfoliosHouston/",
+            "https://www.youtube.com/channel/UCnss-G_vVjV7673WHOnjasQ"
+          ]
+        }
+      ],
+      "wordCount": 436,
+      "internalLinksCount": 36,
+      "externalLinksCount": 13,
+      "imagesMissingAltCount": 0,
+      "hasPhone": true,
+      "hasAddress": false,
+      "hasCityState": true,
+      "hasFAQSignals": true,
+      "hasAuthorSignals": true,
+      "hasDisclosureSignals": true,
+      "crawledAt": "2026-01-03T10:26:40.334Z"
+    },
+    {
+      "url": "https://www.americanportfolioshouston.com/resource-center/retirement/what-is-a-1031-exchange",
+      "finalUrl": "https://www.americanportfolioshouston.com/resource-center/retirement/what-is-a-1031-exchange",
+      "status": 200,
+      "title": "What Is a 1031 Exchange? | Michael Stewart, Osaic Wealth Houston",
+      "metaDescription": null,
+      "h1": "What Is a 1031 Exchange?",
+      "h2s": [
+        "What is a 1031 Exchange?",
+        "1031 Exchange Requirements",
+        "What Investors Might Get the Most Out of a 1031 Exchange?",
+        "Have A Question About This Topic?",
+        "Related Content"
+      ],
+      "canonical": null,
+      "robotsMeta": "index, follow",
+      "ogTags": {
+        "og:image": "http://static.fmgsuite.com/site/templates/global/img/assets/largethumb/1266-largethumb-a.jpg",
+        "og:title": "What Is a 1031 Exchange?",
+        "og:description": "A look at 1031 Exchanges, a real estate investment strategy that may allow you to defer your capital gains taxes."
+      },
+      "jsonldSnippets": [
+        {
+          "@context": "https://schema.org",
+          "@type": "FinancialService",
+          "@id": "http://www.americanportfolioshouston.com",
+          "name": "Michael Stewart, Osaic Wealth Houston",
+          "logo": "//static.fmgsuite.com/media/TransparentLogo/variantSize/bb6cfc62-3d03-46ef-97e3-7d3b2e03dad6.png",
+          "image": "//static.fmgsuite.com/media/PortraitImageFMG/variantSize/896dfef3-dcfd-4901-ac7f-9d63e146a280.png",
+          "url": "http://www.americanportfolioshouston.com",
+          "telephone": "(713) 465-5057",
+          "priceRange": "N/A",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "4550 Post Oak Place Drive Suite 228",
+            "addressLocality": "Houston",
+            "addressRegion": "TX",
+            "postalCode": "77027",
+            "addressCountry": "US"
+          },
+          "location": [
+            {
+              "@type": "PostalAddress",
+              "streetAddress": "4550 Post Oak Place Drive, Suite 228",
+              "addressLocality": "Houston",
+              "addressRegion": "TX",
+              "postalCode": "77027",
+              "addressCountry": "US",
+              "telephone": "(713) 465-5057",
+              "faxNumber": "(281) 749-8175"
+            }
+          ],
+          "sameAs": [
+            "https://twitter.com/moneystewart",
+            "https://www.linkedin.com/pub/michael-stewart/15/72a/418",
+            "https://www.facebook.com/AmericanPortfoliosHouston/",
+            "https://www.youtube.com/channel/UCnss-G_vVjV7673WHOnjasQ"
+          ]
+        }
+      ],
+      "wordCount": 1054,
+      "internalLinksCount": 36,
+      "externalLinksCount": 13,
+      "imagesMissingAltCount": 0,
+      "hasPhone": true,
+      "hasAddress": false,
+      "hasCityState": true,
+      "hasFAQSignals": true,
+      "hasAuthorSignals": true,
+      "hasDisclosureSignals": true,
+      "crawledAt": "2026-01-03T10:26:41.019Z"
+    },
+    {
+      "url": "https://www.americanportfolioshouston.com/resource-center/retirement/retirement-and-quality-of-life",
+      "finalUrl": "https://www.americanportfolioshouston.com/resource-center/retirement/retirement-and-quality-of-life",
+      "status": 200,
+      "title": "Retirement and Quality of Life | Michael Stewart, Osaic Wealth Houston",
+      "metaDescription": null,
+      "h1": "Retirement and Quality of Life",
+      "h2s": [
+        "Have A Question About This Topic?",
+        "Related Content"
+      ],
+      "canonical": null,
+      "robotsMeta": "index, follow",
+      "ogTags": {
+        "og:image": "http://static.fmgsuite.com/site/templates/global/img/assets/largethumb/1131-largethumb-b.jpg",
+        "og:title": "Retirement and Quality of Life",
+        "og:description": "Asking the right questions about how you can save money for retirement without sacrificing your quality of life."
+      },
+      "jsonldSnippets": [
+        {
+          "@context": "https://schema.org",
+          "@type": "FinancialService",
+          "@id": "http://www.americanportfolioshouston.com",
+          "name": "Michael Stewart, Osaic Wealth Houston",
+          "logo": "//static.fmgsuite.com/media/TransparentLogo/variantSize/bb6cfc62-3d03-46ef-97e3-7d3b2e03dad6.png",
+          "image": "//static.fmgsuite.com/media/PortraitImageFMG/variantSize/896dfef3-dcfd-4901-ac7f-9d63e146a280.png",
+          "url": "http://www.americanportfolioshouston.com",
+          "telephone": "(713) 465-5057",
+          "priceRange": "N/A",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "4550 Post Oak Place Drive Suite 228",
+            "addressLocality": "Houston",
+            "addressRegion": "TX",
+            "postalCode": "77027",
+            "addressCountry": "US"
+          },
+          "location": [
+            {
+              "@type": "PostalAddress",
+              "streetAddress": "4550 Post Oak Place Drive, Suite 228",
+              "addressLocality": "Houston",
+              "addressRegion": "TX",
+              "postalCode": "77027",
+              "addressCountry": "US",
+              "telephone": "(713) 465-5057",
+              "faxNumber": "(281) 749-8175"
+            }
+          ],
+          "sameAs": [
+            "https://twitter.com/moneystewart",
+            "https://www.linkedin.com/pub/michael-stewart/15/72a/418",
+            "https://www.facebook.com/AmericanPortfoliosHouston/",
+            "https://www.youtube.com/channel/UCnss-G_vVjV7673WHOnjasQ"
+          ]
+        }
+      ],
+      "wordCount": 459,
+      "internalLinksCount": 36,
+      "externalLinksCount": 13,
+      "imagesMissingAltCount": 0,
+      "hasPhone": true,
+      "hasAddress": false,
+      "hasCityState": true,
+      "hasFAQSignals": true,
+      "hasAuthorSignals": true,
+      "hasDisclosureSignals": true,
+      "crawledAt": "2026-01-03T10:26:41.665Z"
+    },
+    {
+      "url": "https://www.americanportfolioshouston.com/resource-center/retirement/social-security-fairness-acts-new-chapter",
+      "finalUrl": "https://www.americanportfolioshouston.com/resource-center/retirement/social-security-fairness-acts-new-chapter",
+      "status": 200,
+      "title": "Social Security Fairness Act's New Chapter | Michael Stewart, Osaic Wealth Houston",
+      "metaDescription": null,
+      "h1": "Social Security Fairness Act's New Chapter",
+      "h2s": [
+        "Who Qualifies for Increased Benefits?",
+        "Implementation and Timeline",
+        "Financial Impact",
+        "Have A Question About This Topic?",
+        "Related Content"
+      ],
+      "canonical": null,
+      "robotsMeta": "index, follow",
+      "ogTags": {
+        "og:image": "http://static.fmgsuite.com/site/templates/global/img/assets/largethumb/1329-largethumb-c.jpg",
+        "og:title": "Social Security Fairness Act's New Chapter",
+        "og:description": "Learn how the Social Security Fairness Act boosts benefits for eligible public sector workers and their families."
+      },
+      "jsonldSnippets": [
+        {
+          "@context": "https://schema.org",
+          "@type": "FinancialService",
+          "@id": "http://www.americanportfolioshouston.com",
+          "name": "Michael Stewart, Osaic Wealth Houston",
+          "logo": "//static.fmgsuite.com/media/TransparentLogo/variantSize/bb6cfc62-3d03-46ef-97e3-7d3b2e03dad6.png",
+          "image": "//static.fmgsuite.com/media/PortraitImageFMG/variantSize/896dfef3-dcfd-4901-ac7f-9d63e146a280.png",
+          "url": "http://www.americanportfolioshouston.com",
+          "telephone": "(713) 465-5057",
+          "priceRange": "N/A",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "4550 Post Oak Place Drive Suite 228",
+            "addressLocality": "Houston",
+            "addressRegion": "TX",
+            "postalCode": "77027",
+            "addressCountry": "US"
+          },
+          "location": [
+            {
+              "@type": "PostalAddress",
+              "streetAddress": "4550 Post Oak Place Drive, Suite 228",
+              "addressLocality": "Houston",
+              "addressRegion": "TX",
+              "postalCode": "77027",
+              "addressCountry": "US",
+              "telephone": "(713) 465-5057",
+              "faxNumber": "(281) 749-8175"
+            }
+          ],
+          "sameAs": [
+            "https://twitter.com/moneystewart",
+            "https://www.linkedin.com/pub/michael-stewart/15/72a/418",
+            "https://www.facebook.com/AmericanPortfoliosHouston/",
+            "https://www.youtube.com/channel/UCnss-G_vVjV7673WHOnjasQ"
+          ]
+        }
+      ],
+      "wordCount": 931,
+      "internalLinksCount": 36,
+      "externalLinksCount": 13,
+      "imagesMissingAltCount": 0,
+      "hasPhone": true,
+      "hasAddress": false,
+      "hasCityState": true,
+      "hasFAQSignals": true,
+      "hasAuthorSignals": true,
+      "hasDisclosureSignals": true,
+      "crawledAt": "2026-01-03T10:26:42.257Z"
+    },
+    {
+      "url": "https://www.americanportfolioshouston.com/resource-center/retirement/volunteering-in-retirement",
+      "finalUrl": "https://www.americanportfolioshouston.com/resource-center/retirement/volunteering-in-retirement",
+      "status": 200,
+      "title": "Volunteering in Retirement | Michael Stewart, Osaic Wealth Houston",
+      "metaDescription": null,
+      "h1": "Volunteering in Retirement",
+      "h2s": [
+        "Before You Start",
+        "Survey the Waters",
+        "Have A Question About This Topic?",
+        "Related Content"
+      ],
+      "canonical": null,
+      "robotsMeta": "index, follow",
+      "ogTags": {
+        "og:image": "http://static.fmgsuite.com/site/templates/global/img/assets/largethumb/263-largethumb-a.jpg",
+        "og:title": "Volunteering in Retirement",
+        "og:description": "For many, retirement includes contributing their time and talents to an organization in need."
+      },
+      "jsonldSnippets": [
+        {
+          "@context": "https://schema.org",
+          "@type": "FinancialService",
+          "@id": "http://www.americanportfolioshouston.com",
+          "name": "Michael Stewart, Osaic Wealth Houston",
+          "logo": "//static.fmgsuite.com/media/TransparentLogo/variantSize/bb6cfc62-3d03-46ef-97e3-7d3b2e03dad6.png",
+          "image": "//static.fmgsuite.com/media/PortraitImageFMG/variantSize/896dfef3-dcfd-4901-ac7f-9d63e146a280.png",
+          "url": "http://www.americanportfolioshouston.com",
+          "telephone": "(713) 465-5057",
+          "priceRange": "N/A",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "4550 Post Oak Place Drive Suite 228",
+            "addressLocality": "Houston",
+            "addressRegion": "TX",
+            "postalCode": "77027",
+            "addressCountry": "US"
+          },
+          "location": [
+            {
+              "@type": "PostalAddress",
+              "streetAddress": "4550 Post Oak Place Drive, Suite 228",
+              "addressLocality": "Houston",
+              "addressRegion": "TX",
+              "postalCode": "77027",
+              "addressCountry": "US",
+              "telephone": "(713) 465-5057",
+              "faxNumber": "(281) 749-8175"
+            }
+          ],
+          "sameAs": [
+            "https://twitter.com/moneystewart",
+            "https://www.linkedin.com/pub/michael-stewart/15/72a/418",
+            "https://www.facebook.com/AmericanPortfoliosHouston/",
+            "https://www.youtube.com/channel/UCnss-G_vVjV7673WHOnjasQ"
+          ]
+        }
+      ],
+      "wordCount": 859,
+      "internalLinksCount": 36,
+      "externalLinksCount": 13,
+      "imagesMissingAltCount": 0,
+      "hasPhone": true,
+      "hasAddress": false,
+      "hasCityState": true,
+      "hasFAQSignals": true,
+      "hasAuthorSignals": true,
+      "hasDisclosureSignals": true,
+      "crawledAt": "2026-01-03T10:26:42.838Z"
+    },
+    {
+      "url": "https://www.americanportfolioshouston.com/resource-center/retirement/important-birthdays-over-50",
+      "finalUrl": "https://www.americanportfolioshouston.com/resource-center/retirement/important-birthdays-over-50",
+      "status": 200,
+      "title": "Important Birthdays Over 50 | Michael Stewart, Osaic Wealth Houston",
+      "metaDescription": null,
+      "h1": "Important Birthdays Over 50",
+      "h2s": [
+        "Have A Question About This Topic?",
+        "Related Content"
+      ],
+      "canonical": null,
+      "robotsMeta": "index, follow",
+      "ogTags": {
+        "og:image": "http://static.fmgsuite.com/site/templates/global/img/assets/largethumb/114-largethumb-c.jpg",
+        "og:title": "Important Birthdays Over 50",
+        "og:description": "Here's a look at several birthdays and “half-birthdays” that have implications regarding your retirement income."
+      },
+      "jsonldSnippets": [
+        {
+          "@context": "https://schema.org",
+          "@type": "FinancialService",
+          "@id": "http://www.americanportfolioshouston.com",
+          "name": "Michael Stewart, Osaic Wealth Houston",
+          "logo": "//static.fmgsuite.com/media/TransparentLogo/variantSize/bb6cfc62-3d03-46ef-97e3-7d3b2e03dad6.png",
+          "image": "//static.fmgsuite.com/media/PortraitImageFMG/variantSize/896dfef3-dcfd-4901-ac7f-9d63e146a280.png",
+          "url": "http://www.americanportfolioshouston.com",
+          "telephone": "(713) 465-5057",
+          "priceRange": "N/A",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "4550 Post Oak Place Drive Suite 228",
+            "addressLocality": "Houston",
+            "addressRegion": "TX",
+            "postalCode": "77027",
+            "addressCountry": "US"
+          },
+          "location": [
+            {
+              "@type": "PostalAddress",
+              "streetAddress": "4550 Post Oak Place Drive, Suite 228",
+              "addressLocality": "Houston",
+              "addressRegion": "TX",
+              "postalCode": "77027",
+              "addressCountry": "US",
+              "telephone": "(713) 465-5057",
+              "faxNumber": "(281) 749-8175"
+            }
+          ],
+          "sameAs": [
+            "https://twitter.com/moneystewart",
+            "https://www.linkedin.com/pub/michael-stewart/15/72a/418",
+            "https://www.facebook.com/AmericanPortfoliosHouston/",
+            "https://www.youtube.com/channel/UCnss-G_vVjV7673WHOnjasQ"
+          ]
+        }
+      ],
+      "wordCount": 1082,
+      "internalLinksCount": 36,
+      "externalLinksCount": 13,
+      "imagesMissingAltCount": 0,
+      "hasPhone": true,
+      "hasAddress": false,
+      "hasCityState": true,
+      "hasFAQSignals": true,
+      "hasAuthorSignals": true,
+      "hasDisclosureSignals": true,
+      "crawledAt": "2026-01-03T10:26:43.419Z"
+    },
+    {
+      "url": "https://www.americanportfolioshouston.com/resource-center/retirement/where-will-your-retirement-money-come-from",
+      "finalUrl": "https://www.americanportfolioshouston.com/resource-center/retirement/where-will-your-retirement-money-come-from",
+      "status": 200,
+      "title": "Where Will Your Retirement Money Come From? | Michael Stewart, Osaic Wealth Houston",
+      "metaDescription": null,
+      "h1": "Where Will Your Retirement Money Come From?",
+      "h2s": [
+        "Social Security",
+        "Personal Savings and Investments",
+        "Individual Retirement Account",
+        "Defined Contribution Plans",
+        "Defined Benefit Plans",
+        "Continued Employment",
+        "Expected Vs. Actual Sources of Income in Retirement",
+        "Have A Question About This Topic?",
+        "Related Content"
+      ],
+      "canonical": null,
+      "robotsMeta": "index, follow",
+      "ogTags": {
+        "og:image": "http://static.fmgsuite.com/site/templates/global/img/assets/largethumb/113-largethumb-b.jpg",
+        "og:title": "Where Will Your Retirement Money Come From?",
+        "og:description": "Retirement income may come from a variety of sources. Here's an overview of the six main sources."
+      },
+      "jsonldSnippets": [
+        {
+          "@context": "https://schema.org",
+          "@type": "FinancialService",
+          "@id": "http://www.americanportfolioshouston.com",
+          "name": "Michael Stewart, Osaic Wealth Houston",
+          "logo": "//static.fmgsuite.com/media/TransparentLogo/variantSize/bb6cfc62-3d03-46ef-97e3-7d3b2e03dad6.png",
+          "image": "//static.fmgsuite.com/media/PortraitImageFMG/variantSize/896dfef3-dcfd-4901-ac7f-9d63e146a280.png",
+          "url": "http://www.americanportfolioshouston.com",
+          "telephone": "(713) 465-5057",
+          "priceRange": "N/A",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "4550 Post Oak Place Drive Suite 228",
+            "addressLocality": "Houston",
+            "addressRegion": "TX",
+            "postalCode": "77027",
+            "addressCountry": "US"
+          },
+          "location": [
+            {
+              "@type": "PostalAddress",
+              "streetAddress": "4550 Post Oak Place Drive, Suite 228",
+              "addressLocality": "Houston",
+              "addressRegion": "TX",
+              "postalCode": "77027",
+              "addressCountry": "US",
+              "telephone": "(713) 465-5057",
+              "faxNumber": "(281) 749-8175"
+            }
+          ],
+          "sameAs": [
+            "https://twitter.com/moneystewart",
+            "https://www.linkedin.com/pub/michael-stewart/15/72a/418",
+            "https://www.facebook.com/AmericanPortfoliosHouston/",
+            "https://www.youtube.com/channel/UCnss-G_vVjV7673WHOnjasQ"
+          ]
+        }
+      ],
+      "wordCount": 1055,
+      "internalLinksCount": 36,
+      "externalLinksCount": 13,
+      "imagesMissingAltCount": 0,
+      "hasPhone": true,
+      "hasAddress": false,
+      "hasCityState": true,
+      "hasFAQSignals": true,
+      "hasAuthorSignals": true,
+      "hasDisclosureSignals": true,
+      "crawledAt": "2026-01-03T10:26:44.012Z"
+    },
+    {
+      "url": "https://www.americanportfolioshouston.com/resource-center/retirement/secure-act-2-an-overview",
+      "finalUrl": "https://www.americanportfolioshouston.com/resource-center/retirement/secure-act-2-an-overview",
+      "status": 200,
+      "title": "SECURE Act 2.0: An Overview | Michael Stewart, Osaic Wealth Houston",
+      "metaDescription": null,
+      "h1": "SECURE Act 2.0: An Overview",
+      "h2s": [
+        "New Distribution Rules",
+        "New Accumulation Rules",
+        "Revised Roth Rules",
+        "More Highlights",
+        "Have A Question About This Topic?",
+        "Related Content"
+      ],
+      "canonical": null,
+      "robotsMeta": "index, follow",
+      "ogTags": {
+        "og:image": "http://static.fmgsuite.com/site/templates/global/img/assets/largethumb/1274-largethumb-c.jpg",
+        "og:title": "SECURE Act 2.0: An Overview",
+        "og:description": "The second iteration of the SECURE Act brings forward several changes to the world of retirement."
+      },
+      "jsonldSnippets": [
+        {
+          "@context": "https://schema.org",
+          "@type": "FinancialService",
+          "@id": "http://www.americanportfolioshouston.com",
+          "name": "Michael Stewart, Osaic Wealth Houston",
+          "logo": "//static.fmgsuite.com/media/TransparentLogo/variantSize/bb6cfc62-3d03-46ef-97e3-7d3b2e03dad6.png",
+          "image": "//static.fmgsuite.com/media/PortraitImageFMG/variantSize/896dfef3-dcfd-4901-ac7f-9d63e146a280.png",
+          "url": "http://www.americanportfolioshouston.com",
+          "telephone": "(713) 465-5057",
+          "priceRange": "N/A",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "4550 Post Oak Place Drive Suite 228",
+            "addressLocality": "Houston",
+            "addressRegion": "TX",
+            "postalCode": "77027",
+            "addressCountry": "US"
+          },
+          "location": [
+            {
+              "@type": "PostalAddress",
+              "streetAddress": "4550 Post Oak Place Drive, Suite 228",
+              "addressLocality": "Houston",
+              "addressRegion": "TX",
+              "postalCode": "77027",
+              "addressCountry": "US",
+              "telephone": "(713) 465-5057",
+              "faxNumber": "(281) 749-8175"
+            }
+          ],
+          "sameAs": [
+            "https://twitter.com/moneystewart",
+            "https://www.linkedin.com/pub/michael-stewart/15/72a/418",
+            "https://www.facebook.com/AmericanPortfoliosHouston/",
+            "https://www.youtube.com/channel/UCnss-G_vVjV7673WHOnjasQ"
+          ]
+        }
+      ],
+      "wordCount": 1317,
+      "internalLinksCount": 36,
+      "externalLinksCount": 13,
+      "imagesMissingAltCount": 0,
+      "hasPhone": true,
+      "hasAddress": false,
+      "hasCityState": true,
+      "hasFAQSignals": true,
+      "hasAuthorSignals": true,
+      "hasDisclosureSignals": true,
+      "crawledAt": "2026-01-03T10:26:44.704Z"
+    },
+    {
+      "url": "https://www.americanportfolioshouston.com/resource-center/retirement/exploring-retirement-plans-for-small-businesses",
+      "finalUrl": "https://www.americanportfolioshouston.com/resource-center/retirement/exploring-retirement-plans-for-small-businesses",
+      "status": 200,
+      "title": "Exploring Retirement Plans for Small Businesses | Michael Stewart, Osaic Wealth Houston",
+      "metaDescription": null,
+      "h1": "Exploring Retirement Plans for Small Businesses",
+      "h2s": [
+        "Have A Question About This Topic?",
+        "Related Content"
+      ],
+      "canonical": null,
+      "robotsMeta": "index, follow",
+      "ogTags": {
+        "og:image": "https://fmg-websites-custom.s3.amazonaws.com/Infographics/retirement-plan-choices-for-small-business/og.jpg",
+        "og:title": "Exploring Retirement Plans for Small Businesses",
+        "og:description": "Exploring Retirement Options for Small Businesses. Selecting a retirement account for your small business is a key decision that impacts both you and your employees."
+      },
+      "jsonldSnippets": [
+        {
+          "@context": "https://schema.org",
+          "@type": "FinancialService",
+          "@id": "http://www.americanportfolioshouston.com",
+          "name": "Michael Stewart, Osaic Wealth Houston",
+          "logo": "//static.fmgsuite.com/media/TransparentLogo/variantSize/bb6cfc62-3d03-46ef-97e3-7d3b2e03dad6.png",
+          "image": "//static.fmgsuite.com/media/PortraitImageFMG/variantSize/896dfef3-dcfd-4901-ac7f-9d63e146a280.png",
+          "url": "http://www.americanportfolioshouston.com",
+          "telephone": "(713) 465-5057",
+          "priceRange": "N/A",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "4550 Post Oak Place Drive Suite 228",
+            "addressLocality": "Houston",
+            "addressRegion": "TX",
+            "postalCode": "77027",
+            "addressCountry": "US"
+          },
+          "location": [
+            {
+              "@type": "PostalAddress",
+              "streetAddress": "4550 Post Oak Place Drive, Suite 228",
+              "addressLocality": "Houston",
+              "addressRegion": "TX",
+              "postalCode": "77027",
+              "addressCountry": "US",
+              "telephone": "(713) 465-5057",
+              "faxNumber": "(281) 749-8175"
+            }
+          ],
+          "sameAs": [
+            "https://twitter.com/moneystewart",
+            "https://www.linkedin.com/pub/michael-stewart/15/72a/418",
+            "https://www.facebook.com/AmericanPortfoliosHouston/",
+            "https://www.youtube.com/channel/UCnss-G_vVjV7673WHOnjasQ"
+          ]
+        }
+      ],
+      "wordCount": 517,
+      "internalLinksCount": 36,
+      "externalLinksCount": 13,
+      "imagesMissingAltCount": 0,
+      "hasPhone": true,
+      "hasAddress": false,
+      "hasCityState": true,
+      "hasFAQSignals": true,
+      "hasAuthorSignals": true,
+      "hasDisclosureSignals": true,
+      "crawledAt": "2026-01-03T10:26:45.470Z"
+    },
+    {
+      "url": "https://www.americanportfolioshouston.com/resource-center/retirement/my-retirement-savings",
+      "finalUrl": "https://www.americanportfolioshouston.com/resource-center/retirement/my-retirement-savings",
+      "status": 200,
+      "title": "My Retirement Savings | Michael Stewart, Osaic Wealth Houston",
+      "metaDescription": null,
+      "h1": "My Retirement Savings",
+      "h2s": [
+        "Have A Question About This Topic?",
+        "Related Content"
+      ],
+      "canonical": null,
+      "robotsMeta": "index, follow",
+      "ogTags": {
+        "og:image": "http://static.fmgsuite.com/site/templates/global/img/assets/largethumb/047-largethumb-c.jpg",
+        "og:title": "My Retirement Savings",
+        "og:description": "Estimate how long your retirement savings may last using various monthly cash flow rates."
+      },
+      "jsonldSnippets": [
+        {
+          "@context": "https://schema.org",
+          "@type": "FinancialService",
+          "@id": "http://www.americanportfolioshouston.com",
+          "name": "Michael Stewart, Osaic Wealth Houston",
+          "logo": "//static.fmgsuite.com/media/TransparentLogo/variantSize/bb6cfc62-3d03-46ef-97e3-7d3b2e03dad6.png",
+          "image": "//static.fmgsuite.com/media/PortraitImageFMG/variantSize/896dfef3-dcfd-4901-ac7f-9d63e146a280.png",
+          "url": "http://www.americanportfolioshouston.com",
+          "telephone": "(713) 465-5057",
+          "priceRange": "N/A",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "4550 Post Oak Place Drive Suite 228",
+            "addressLocality": "Houston",
+            "addressRegion": "TX",
+            "postalCode": "77027",
+            "addressCountry": "US"
+          },
+          "location": [
+            {
+              "@type": "PostalAddress",
+              "streetAddress": "4550 Post Oak Place Drive, Suite 228",
+              "addressLocality": "Houston",
+              "addressRegion": "TX",
+              "postalCode": "77027",
+              "addressCountry": "US",
+              "telephone": "(713) 465-5057",
+              "faxNumber": "(281) 749-8175"
+            }
+          ],
+          "sameAs": [
+            "https://twitter.com/moneystewart",
+            "https://www.linkedin.com/pub/michael-stewart/15/72a/418",
+            "https://www.facebook.com/AmericanPortfoliosHouston/",
+            "https://www.youtube.com/channel/UCnss-G_vVjV7673WHOnjasQ"
+          ]
+        }
+      ],
+      "wordCount": 464,
+      "internalLinksCount": 36,
+      "externalLinksCount": 14,
+      "imagesMissingAltCount": 0,
+      "hasPhone": true,
+      "hasAddress": false,
+      "hasCityState": true,
+      "hasFAQSignals": true,
+      "hasAuthorSignals": true,
+      "hasDisclosureSignals": true,
+      "crawledAt": "2026-01-03T10:26:46.068Z"
+    },
+    {
+      "url": "https://www.americanportfolioshouston.com/resource-center/retirement/estimate-your-rmd",
+      "finalUrl": "https://www.americanportfolioshouston.com/resource-center/retirement/estimate-your-rmd",
+      "status": 200,
+      "title": "Estimate Your RMD | Michael Stewart, Osaic Wealth Houston",
+      "metaDescription": null,
+      "h1": "Estimate Your RMD",
+      "h2s": [
+        "Have A Question About This Topic?",
+        "Related Content"
+      ],
+      "canonical": null,
+      "robotsMeta": "index, follow",
+      "ogTags": {
+        "og:image": "http://static.fmgsuite.com/site/templates/global/img/assets/largethumb/052-largethumb-b.jpg",
+        "og:title": "Estimate Your RMD",
+        "og:description": "Help determine the required minimum distribution from an IRA or other qualified retirement plan."
+      },
+      "jsonldSnippets": [
+        {
+          "@context": "https://schema.org",
+          "@type": "FinancialService",
+          "@id": "http://www.americanportfolioshouston.com",
+          "name": "Michael Stewart, Osaic Wealth Houston",
+          "logo": "//static.fmgsuite.com/media/TransparentLogo/variantSize/bb6cfc62-3d03-46ef-97e3-7d3b2e03dad6.png",
+          "image": "//static.fmgsuite.com/media/PortraitImageFMG/variantSize/896dfef3-dcfd-4901-ac7f-9d63e146a280.png",
+          "url": "http://www.americanportfolioshouston.com",
+          "telephone": "(713) 465-5057",
+          "priceRange": "N/A",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "4550 Post Oak Place Drive Suite 228",
+            "addressLocality": "Houston",
+            "addressRegion": "TX",
+            "postalCode": "77027",
+            "addressCountry": "US"
+          },
+          "location": [
+            {
+              "@type": "PostalAddress",
+              "streetAddress": "4550 Post Oak Place Drive, Suite 228",
+              "addressLocality": "Houston",
+              "addressRegion": "TX",
+              "postalCode": "77027",
+              "addressCountry": "US",
+              "telephone": "(713) 465-5057",
+              "faxNumber": "(281) 749-8175"
+            }
+          ],
+          "sameAs": [
+            "https://twitter.com/moneystewart",
+            "https://www.linkedin.com/pub/michael-stewart/15/72a/418",
+            "https://www.facebook.com/AmericanPortfoliosHouston/",
+            "https://www.youtube.com/channel/UCnss-G_vVjV7673WHOnjasQ"
+          ]
+        }
+      ],
+      "wordCount": 468,
+      "internalLinksCount": 36,
+      "externalLinksCount": 14,
+      "imagesMissingAltCount": 0,
+      "hasPhone": true,
+      "hasAddress": false,
+      "hasCityState": true,
+      "hasFAQSignals": true,
+      "hasAuthorSignals": true,
+      "hasDisclosureSignals": true,
+      "crawledAt": "2026-01-03T10:26:46.911Z"
+    },
+    {
+      "url": "https://www.americanportfolioshouston.com/resource-center/retirement/roth-401k-vs-traditional-401k",
+      "finalUrl": "https://www.americanportfolioshouston.com/resource-center/retirement/roth-401k-vs-traditional-401k",
+      "status": 200,
+      "title": "Roth 401(k) vs. Traditional 401(k) | Michael Stewart, Osaic Wealth Houston",
+      "metaDescription": null,
+      "h1": "Roth 401(k) vs. Traditional 401(k)",
+      "h2s": [
+        "Have A Question About This Topic?",
+        "Related Content"
+      ],
+      "canonical": null,
+      "robotsMeta": "index, follow",
+      "ogTags": {
+        "og:image": "http://static.fmgsuite.com/site/templates/global/img/assets/largethumb/048-largethumb-a.jpg",
+        "og:title": "Roth 401(k) vs. Traditional 401(k)",
+        "og:description": "This calculator compares employee contributions to a Roth 401(k) and a traditional 401(k)."
+      },
+      "jsonldSnippets": [
+        {
+          "@context": "https://schema.org",
+          "@type": "FinancialService",
+          "@id": "http://www.americanportfolioshouston.com",
+          "name": "Michael Stewart, Osaic Wealth Houston",
+          "logo": "//static.fmgsuite.com/media/TransparentLogo/variantSize/bb6cfc62-3d03-46ef-97e3-7d3b2e03dad6.png",
+          "image": "//static.fmgsuite.com/media/PortraitImageFMG/variantSize/896dfef3-dcfd-4901-ac7f-9d63e146a280.png",
+          "url": "http://www.americanportfolioshouston.com",
+          "telephone": "(713) 465-5057",
+          "priceRange": "N/A",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "4550 Post Oak Place Drive Suite 228",
+            "addressLocality": "Houston",
+            "addressRegion": "TX",
+            "postalCode": "77027",
+            "addressCountry": "US"
+          },
+          "location": [
+            {
+              "@type": "PostalAddress",
+              "streetAddress": "4550 Post Oak Place Drive, Suite 228",
+              "addressLocality": "Houston",
+              "addressRegion": "TX",
+              "postalCode": "77027",
+              "addressCountry": "US",
+              "telephone": "(713) 465-5057",
+              "faxNumber": "(281) 749-8175"
+            }
+          ],
+          "sameAs": [
+            "https://twitter.com/moneystewart",
+            "https://www.linkedin.com/pub/michael-stewart/15/72a/418",
+            "https://www.facebook.com/AmericanPortfoliosHouston/",
+            "https://www.youtube.com/channel/UCnss-G_vVjV7673WHOnjasQ"
+          ]
+        }
+      ],
+      "wordCount": 470,
+      "internalLinksCount": 36,
+      "externalLinksCount": 14,
+      "imagesMissingAltCount": 0,
+      "hasPhone": true,
+      "hasAddress": false,
+      "hasCityState": true,
+      "hasFAQSignals": true,
+      "hasAuthorSignals": true,
+      "hasDisclosureSignals": true,
+      "crawledAt": "2026-01-03T10:26:48.033Z"
+    },
+    {
+      "url": "https://www.americanportfolioshouston.com/resource-center/retirement/a-look-at-systematic-withdrawals",
+      "finalUrl": "https://www.americanportfolioshouston.com/resource-center/retirement/a-look-at-systematic-withdrawals",
+      "status": 200,
+      "title": "A Look at Systematic Withdrawals | Michael Stewart, Osaic Wealth Houston",
+      "metaDescription": null,
+      "h1": "A Look at Systematic Withdrawals",
+      "h2s": [
+        "Have A Question About This Topic?",
+        "Related Content"
+      ],
+      "canonical": null,
+      "robotsMeta": "index, follow",
+      "ogTags": {
+        "og:image": "http://static.fmgsuite.com/site/templates/global/img/assets/largethumb/041-largethumb-c.jpg",
+        "og:title": "A Look at Systematic Withdrawals",
+        "og:description": "This calculator may help you estimate how long funds may last given regular withdrawals."
+      },
+      "jsonldSnippets": [
+        {
+          "@context": "https://schema.org",
+          "@type": "FinancialService",
+          "@id": "http://www.americanportfolioshouston.com",
+          "name": "Michael Stewart, Osaic Wealth Houston",
+          "logo": "//static.fmgsuite.com/media/TransparentLogo/variantSize/bb6cfc62-3d03-46ef-97e3-7d3b2e03dad6.png",
+          "image": "//static.fmgsuite.com/media/PortraitImageFMG/variantSize/896dfef3-dcfd-4901-ac7f-9d63e146a280.png",
+          "url": "http://www.americanportfolioshouston.com",
+          "telephone": "(713) 465-5057",
+          "priceRange": "N/A",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "4550 Post Oak Place Drive Suite 228",
+            "addressLocality": "Houston",
+            "addressRegion": "TX",
+            "postalCode": "77027",
+            "addressCountry": "US"
+          },
+          "location": [
+            {
+              "@type": "PostalAddress",
+              "streetAddress": "4550 Post Oak Place Drive, Suite 228",
+              "addressLocality": "Houston",
+              "addressRegion": "TX",
+              "postalCode": "77027",
+              "addressCountry": "US",
+              "telephone": "(713) 465-5057",
+              "faxNumber": "(281) 749-8175"
+            }
+          ],
+          "sameAs": [
+            "https://twitter.com/moneystewart",
+            "https://www.linkedin.com/pub/michael-stewart/15/72a/418",
+            "https://www.facebook.com/AmericanPortfoliosHouston/",
+            "https://www.youtube.com/channel/UCnss-G_vVjV7673WHOnjasQ"
+          ]
+        }
+      ],
+      "wordCount": 465,
+      "internalLinksCount": 36,
+      "externalLinksCount": 14,
+      "imagesMissingAltCount": 0,
+      "hasPhone": true,
+      "hasAddress": false,
+      "hasCityState": true,
+      "hasFAQSignals": true,
+      "hasAuthorSignals": true,
+      "hasDisclosureSignals": true,
+      "crawledAt": "2026-01-03T10:26:48.721Z"
+    },
+    {
+      "url": "https://www.americanportfolioshouston.com/resource-center/retirement/annuity-comparison",
+      "finalUrl": "https://www.americanportfolioshouston.com/resource-center/retirement/annuity-comparison",
+      "status": 200,
+      "title": "Annuity Comparison | Michael Stewart, Osaic Wealth Houston",
+      "metaDescription": null,
+      "h1": "Annuity Comparison",
+      "h2s": [
+        "Have A Question About This Topic?",
+        "Related Content"
+      ],
+      "canonical": null,
+      "robotsMeta": "index, follow",
+      "ogTags": {
+        "og:image": "http://static.fmgsuite.com/site/templates/global/img/assets/largethumb/077-largethumb-b.jpg",
+        "og:title": "Annuity Comparison",
+        "og:description": "This calculator compares a hypothetical fixed annuity with an account where the interest is taxed each year."
+      },
+      "jsonldSnippets": [
+        {
+          "@context": "https://schema.org",
+          "@type": "FinancialService",
+          "@id": "http://www.americanportfolioshouston.com",
+          "name": "Michael Stewart, Osaic Wealth Houston",
+          "logo": "//static.fmgsuite.com/media/TransparentLogo/variantSize/bb6cfc62-3d03-46ef-97e3-7d3b2e03dad6.png",
+          "image": "//static.fmgsuite.com/media/PortraitImageFMG/variantSize/896dfef3-dcfd-4901-ac7f-9d63e146a280.png",
+          "url": "http://www.americanportfolioshouston.com",
+          "telephone": "(713) 465-5057",
+          "priceRange": "N/A",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "4550 Post Oak Place Drive Suite 228",
+            "addressLocality": "Houston",
+            "addressRegion": "TX",
+            "postalCode": "77027",
+            "addressCountry": "US"
+          },
+          "location": [
+            {
+              "@type": "PostalAddress",
+              "streetAddress": "4550 Post Oak Place Drive, Suite 228",
+              "addressLocality": "Houston",
+              "addressRegion": "TX",
+              "postalCode": "77027",
+              "addressCountry": "US",
+              "telephone": "(713) 465-5057",
+              "faxNumber": "(281) 749-8175"
+            }
+          ],
+          "sameAs": [
+            "https://twitter.com/moneystewart",
+            "https://www.linkedin.com/pub/michael-stewart/15/72a/418",
+            "https://www.facebook.com/AmericanPortfoliosHouston/",
+            "https://www.youtube.com/channel/UCnss-G_vVjV7673WHOnjasQ"
+          ]
+        }
+      ],
+      "wordCount": 463,
+      "internalLinksCount": 36,
+      "externalLinksCount": 14,
+      "imagesMissingAltCount": 0,
+      "hasPhone": true,
+      "hasAddress": false,
+      "hasCityState": true,
+      "hasFAQSignals": true,
+      "hasAuthorSignals": true,
+      "hasDisclosureSignals": true,
+      "crawledAt": "2026-01-03T10:26:49.781Z"
+    },
+    {
+      "url": "https://www.americanportfolioshouston.com/resource-center/retirement/inflation-and-retirement",
+      "finalUrl": "https://www.americanportfolioshouston.com/resource-center/retirement/inflation-and-retirement",
+      "status": 200,
+      "title": "Inflation & Retirement",
+      "metaDescription": null,
+      "h1": "Inflation & Retirement",
+      "h2s": [
+        "Have A Question About This Topic?",
+        "Related Content"
+      ],
+      "canonical": null,
+      "robotsMeta": "index, follow",
+      "ogTags": {
+        "og:image": "http://static.fmgsuite.com/site/templates/global/img/assets/largethumb/049-largethumb-b.jpg",
+        "og:title": "Inflation & Retirement",
+        "og:description": "Estimate how much income may be needed at retirement to maintain your standard of living."
+      },
+      "jsonldSnippets": [
+        {
+          "@context": "https://schema.org",
+          "@type": "FinancialService",
+          "@id": "http://www.americanportfolioshouston.com",
+          "name": "Michael Stewart, Osaic Wealth Houston",
+          "logo": "//static.fmgsuite.com/media/TransparentLogo/variantSize/bb6cfc62-3d03-46ef-97e3-7d3b2e03dad6.png",
+          "image": "//static.fmgsuite.com/media/PortraitImageFMG/variantSize/896dfef3-dcfd-4901-ac7f-9d63e146a280.png",
+          "url": "http://www.americanportfolioshouston.com",
+          "telephone": "(713) 465-5057",
+          "priceRange": "N/A",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "4550 Post Oak Place Drive Suite 228",
+            "addressLocality": "Houston",
+            "addressRegion": "TX",
+            "postalCode": "77027",
+            "addressCountry": "US"
+          },
+          "location": [
+            {
+              "@type": "PostalAddress",
+              "streetAddress": "4550 Post Oak Place Drive, Suite 228",
+              "addressLocality": "Houston",
+              "addressRegion": "TX",
+              "postalCode": "77027",
+              "addressCountry": "US",
+              "telephone": "(713) 465-5057",
+              "faxNumber": "(281) 749-8175"
+            }
+          ],
+          "sameAs": [
+            "https://twitter.com/moneystewart",
+            "https://www.linkedin.com/pub/michael-stewart/15/72a/418",
+            "https://www.facebook.com/AmericanPortfoliosHouston/",
+            "https://www.youtube.com/channel/UCnss-G_vVjV7673WHOnjasQ"
+          ]
+        }
+      ],
+      "wordCount": 466,
+      "internalLinksCount": 36,
+      "externalLinksCount": 14,
+      "imagesMissingAltCount": 0,
+      "hasPhone": true,
+      "hasAddress": false,
+      "hasCityState": true,
+      "hasFAQSignals": true,
+      "hasAuthorSignals": true,
+      "hasDisclosureSignals": true,
+      "crawledAt": "2026-01-03T10:26:50.612Z"
+    },
+    {
+      "url": "https://www.americanportfolioshouston.com/resource-center/retirement/re-retirement",
+      "finalUrl": "https://www.americanportfolioshouston.com/resource-center/retirement/re-retirement",
+      "status": 200,
+      "title": "RE: Retirement | Michael Stewart, Osaic Wealth Houston",
+      "metaDescription": null,
+      "h1": "RE: Retirement",
+      "h2s": [
+        "Have A Question About This Topic?",
+        "Related Content"
+      ],
+      "canonical": null,
+      "robotsMeta": "index, follow",
+      "ogTags": {
+        "og:image": "http://static.fmgsuite.com/site/templates/global/img/assets/largethumb/465-largethumb-b.jpg",
+        "og:title": "RE: Retirement",
+        "og:description": "How does your ideal retirement differ from reality, and what can we do to better align the two?"
+      },
+      "jsonldSnippets": [
+        {
+          "@context": "https://schema.org",
+          "@type": "FinancialService",
+          "@id": "http://www.americanportfolioshouston.com",
+          "name": "Michael Stewart, Osaic Wealth Houston",
+          "logo": "//static.fmgsuite.com/media/TransparentLogo/variantSize/bb6cfc62-3d03-46ef-97e3-7d3b2e03dad6.png",
+          "image": "//static.fmgsuite.com/media/PortraitImageFMG/variantSize/896dfef3-dcfd-4901-ac7f-9d63e146a280.png",
+          "url": "http://www.americanportfolioshouston.com",
+          "telephone": "(713) 465-5057",
+          "priceRange": "N/A",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "4550 Post Oak Place Drive Suite 228",
+            "addressLocality": "Houston",
+            "addressRegion": "TX",
+            "postalCode": "77027",
+            "addressCountry": "US"
+          },
+          "location": [
+            {
+              "@type": "PostalAddress",
+              "streetAddress": "4550 Post Oak Place Drive, Suite 228",
+              "addressLocality": "Houston",
+              "addressRegion": "TX",
+              "postalCode": "77027",
+              "addressCountry": "US",
+              "telephone": "(713) 465-5057",
+              "faxNumber": "(281) 749-8175"
+            }
+          ],
+          "sameAs": [
+            "https://twitter.com/moneystewart",
+            "https://www.linkedin.com/pub/michael-stewart/15/72a/418",
+            "https://www.facebook.com/AmericanPortfoliosHouston/",
+            "https://www.youtube.com/channel/UCnss-G_vVjV7673WHOnjasQ"
+          ]
+        }
+      ],
+      "wordCount": 450,
+      "internalLinksCount": 36,
+      "externalLinksCount": 13,
+      "imagesMissingAltCount": 0,
+      "hasPhone": true,
+      "hasAddress": false,
+      "hasCityState": true,
+      "hasFAQSignals": true,
+      "hasAuthorSignals": true,
+      "hasDisclosureSignals": true,
+      "crawledAt": "2026-01-03T10:26:51.637Z"
+    },
+    {
+      "url": "https://www.americanportfolioshouston.com/resource-center/retirement/risk-tolerance-whats-your-style",
+      "finalUrl": "https://www.americanportfolioshouston.com/resource-center/retirement/risk-tolerance-whats-your-style",
+      "status": 200,
+      "title": "Risk Tolerance: What’s Your Style? | Michael Stewart, Osaic Wealth Houston",
+      "metaDescription": null,
+      "h1": "Risk Tolerance: What’s Your Style?",
+      "h2s": [
+        "Have A Question About This Topic?",
+        "Related Content"
+      ],
+      "canonical": null,
+      "robotsMeta": "index, follow",
+      "ogTags": {
+        "og:image": "http://static.fmgsuite.com/site/templates/global/img/assets/largethumb/1055-largethumb-b.jpg",
+        "og:title": "Risk Tolerance: What’s Your Style?",
+        "og:description": "Learn about what risk tolerance really means in this helpful and insightful video."
+      },
+      "jsonldSnippets": [
+        {
+          "@context": "https://schema.org",
+          "@type": "FinancialService",
+          "@id": "http://www.americanportfolioshouston.com",
+          "name": "Michael Stewart, Osaic Wealth Houston",
+          "logo": "//static.fmgsuite.com/media/TransparentLogo/variantSize/bb6cfc62-3d03-46ef-97e3-7d3b2e03dad6.png",
+          "image": "//static.fmgsuite.com/media/PortraitImageFMG/variantSize/896dfef3-dcfd-4901-ac7f-9d63e146a280.png",
+          "url": "http://www.americanportfolioshouston.com",
+          "telephone": "(713) 465-5057",
+          "priceRange": "N/A",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "4550 Post Oak Place Drive Suite 228",
+            "addressLocality": "Houston",
+            "addressRegion": "TX",
+            "postalCode": "77027",
+            "addressCountry": "US"
+          },
+          "location": [
+            {
+              "@type": "PostalAddress",
+              "streetAddress": "4550 Post Oak Place Drive, Suite 228",
+              "addressLocality": "Houston",
+              "addressRegion": "TX",
+              "postalCode": "77027",
+              "addressCountry": "US",
+              "telephone": "(713) 465-5057",
+              "faxNumber": "(281) 749-8175"
+            }
+          ],
+          "sameAs": [
+            "https://twitter.com/moneystewart",
+            "https://www.linkedin.com/pub/michael-stewart/15/72a/418",
+            "https://www.facebook.com/AmericanPortfoliosHouston/",
+            "https://www.youtube.com/channel/UCnss-G_vVjV7673WHOnjasQ"
+          ]
+        }
+      ],
+      "wordCount": 451,
+      "internalLinksCount": 36,
+      "externalLinksCount": 13,
+      "imagesMissingAltCount": 0,
+      "hasPhone": true,
+      "hasAddress": false,
+      "hasCityState": true,
+      "hasFAQSignals": true,
+      "hasAuthorSignals": true,
+      "hasDisclosureSignals": true,
+      "crawledAt": "2026-01-03T10:26:52.631Z"
+    },
+    {
+      "url": "https://www.americanportfolioshouston.com/resource-center/retirement/the-long-run-women-and-retirement",
+      "finalUrl": "https://www.americanportfolioshouston.com/resource-center/retirement/the-long-run-women-and-retirement",
+      "status": 200,
+      "title": "The Long Run: Women and Retirement | Michael Stewart, Osaic Wealth Houston",
+      "metaDescription": null,
+      "h1": "The Long Run: Women and Retirement",
+      "h2s": [
+        "Have A Question About This Topic?",
+        "Related Content"
+      ],
+      "canonical": null,
+      "robotsMeta": "index, follow",
+      "ogTags": {
+        "og:image": "http://static.fmgsuite.com/site/templates/global/img/assets/largethumb/892-largethumb-a.jpg",
+        "og:title": "The Long Run: Women and Retirement",
+        "og:description": "For women, retirement strategy is a long race. It’s helpful to know the route."
+      },
+      "jsonldSnippets": [
+        {
+          "@context": "https://schema.org",
+          "@type": "FinancialService",
+          "@id": "http://www.americanportfolioshouston.com",
+          "name": "Michael Stewart, Osaic Wealth Houston",
+          "logo": "//static.fmgsuite.com/media/TransparentLogo/variantSize/bb6cfc62-3d03-46ef-97e3-7d3b2e03dad6.png",
+          "image": "//static.fmgsuite.com/media/PortraitImageFMG/variantSize/896dfef3-dcfd-4901-ac7f-9d63e146a280.png",
+          "url": "http://www.americanportfolioshouston.com",
+          "telephone": "(713) 465-5057",
+          "priceRange": "N/A",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "4550 Post Oak Place Drive Suite 228",
+            "addressLocality": "Houston",
+            "addressRegion": "TX",
+            "postalCode": "77027",
+            "addressCountry": "US"
+          },
+          "location": [
+            {
+              "@type": "PostalAddress",
+              "streetAddress": "4550 Post Oak Place Drive, Suite 228",
+              "addressLocality": "Houston",
+              "addressRegion": "TX",
+              "postalCode": "77027",
+              "addressCountry": "US",
+              "telephone": "(713) 465-5057",
+              "faxNumber": "(281) 749-8175"
+            }
+          ],
+          "sameAs": [
+            "https://twitter.com/moneystewart",
+            "https://www.linkedin.com/pub/michael-stewart/15/72a/418",
+            "https://www.facebook.com/AmericanPortfoliosHouston/",
+            "https://www.youtube.com/channel/UCnss-G_vVjV7673WHOnjasQ"
+          ]
+        }
+      ],
+      "wordCount": 460,
+      "internalLinksCount": 36,
+      "externalLinksCount": 13,
+      "imagesMissingAltCount": 0,
+      "hasPhone": true,
+      "hasAddress": false,
+      "hasCityState": true,
+      "hasFAQSignals": true,
+      "hasAuthorSignals": true,
+      "hasDisclosureSignals": true,
+      "crawledAt": "2026-01-03T10:26:53.336Z"
+    },
+    {
+      "url": "https://www.americanportfolioshouston.com/resource-center/retirement/the-power-of-tax-deferred-growth",
+      "finalUrl": "https://www.americanportfolioshouston.com/resource-center/retirement/the-power-of-tax-deferred-growth",
+      "status": 200,
+      "title": "The Power of Tax-Deferred Growth | Michael Stewart, Osaic Wealth Houston",
+      "metaDescription": null,
+      "h1": "The Power of Tax-Deferred Growth",
+      "h2s": [
+        "Have A Question About This Topic?",
+        "Related Content"
+      ],
+      "canonical": null,
+      "robotsMeta": "index, follow",
+      "ogTags": {
+        "og:image": "http://static.fmgsuite.com/site/templates/global/img/assets/largethumb/070-largethumb-c.jpg",
+        "og:title": "The Power of Tax-Deferred Growth",
+        "og:description": "Why are 401(k) plans, annuities, and IRAs so popular?"
+      },
+      "jsonldSnippets": [
+        {
+          "@context": "https://schema.org",
+          "@type": "FinancialService",
+          "@id": "http://www.americanportfolioshouston.com",
+          "name": "Michael Stewart, Osaic Wealth Houston",
+          "logo": "//static.fmgsuite.com/media/TransparentLogo/variantSize/bb6cfc62-3d03-46ef-97e3-7d3b2e03dad6.png",
+          "image": "//static.fmgsuite.com/media/PortraitImageFMG/variantSize/896dfef3-dcfd-4901-ac7f-9d63e146a280.png",
+          "url": "http://www.americanportfolioshouston.com",
+          "telephone": "(713) 465-5057",
+          "priceRange": "N/A",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "4550 Post Oak Place Drive Suite 228",
+            "addressLocality": "Houston",
+            "addressRegion": "TX",
+            "postalCode": "77027",
+            "addressCountry": "US"
+          },
+          "location": [
+            {
+              "@type": "PostalAddress",
+              "streetAddress": "4550 Post Oak Place Drive, Suite 228",
+              "addressLocality": "Houston",
+              "addressRegion": "TX",
+              "postalCode": "77027",
+              "addressCountry": "US",
+              "telephone": "(713) 465-5057",
+              "faxNumber": "(281) 749-8175"
+            }
+          ],
+          "sameAs": [
+            "https://twitter.com/moneystewart",
+            "https://www.linkedin.com/pub/michael-stewart/15/72a/418",
+            "https://www.facebook.com/AmericanPortfoliosHouston/",
+            "https://www.youtube.com/channel/UCnss-G_vVjV7673WHOnjasQ"
+          ]
+        }
+      ],
+      "wordCount": 449,
+      "internalLinksCount": 36,
+      "externalLinksCount": 13,
+      "imagesMissingAltCount": 0,
+      "hasPhone": true,
+      "hasAddress": false,
+      "hasCityState": true,
+      "hasFAQSignals": true,
+      "hasAuthorSignals": true,
+      "hasDisclosureSignals": true,
+      "crawledAt": "2026-01-03T10:26:54.200Z"
+    }
+  ],
+  "findings": [
+    {
+      "id": "F001",
+      "category": "technical",
+      "severity": "high",
+      "title": "Missing Meta Descriptions",
+      "description": "34 pages lack meta descriptions, reducing click-through rates from search results.",
+      "evidence": [
+        {
+          "url": "https://www.americanportfolioshouston.com/resource-center",
+          "snippet": "No meta description"
+        },
+        {
+          "url": "https://www.americanportfolioshouston.com/resource-center/retirement",
+          "snippet": "No meta description"
+        },
+        {
+          "url": "https://www.americanportfolioshouston.com/resource-center/estate",
+          "snippet": "No meta description"
+        },
+        {
+          "url": "https://www.americanportfolioshouston.com/resource-center/investment",
+          "snippet": "No meta description"
+        },
+        {
+          "url": "https://www.americanportfolioshouston.com/resource-center/insurance",
+          "snippet": "No meta description"
+        }
+      ],
+      "recommendation": "Add compelling meta descriptions (120-160 characters) that include target keywords.",
+      "seoOsModule": "Technical Optimizer",
+      "impactEstimate": "Moderate impact on CTR",
+      "pagesAffected": [
+        "https://www.americanportfolioshouston.com/resource-center",
+        "https://www.americanportfolioshouston.com/resource-center/retirement",
+        "https://www.americanportfolioshouston.com/resource-center/estate",
+        "https://www.americanportfolioshouston.com/resource-center/investment",
+        "https://www.americanportfolioshouston.com/resource-center/insurance"
+      ]
+    },
+    {
+      "id": "F002",
+      "category": "technical",
+      "severity": "medium",
+      "title": "Missing Canonical Tags",
+      "description": "32 pages lack canonical tags, risking duplicate content issues.",
+      "evidence": [
+        {
+          "url": "https://www.americanportfolioshouston.com/resource-center",
+          "snippet": "No canonical tag"
+        },
+        {
+          "url": "https://www.americanportfolioshouston.com/resource-center/retirement",
+          "snippet": "No canonical tag"
+        },
+        {
+          "url": "https://www.americanportfolioshouston.com/resource-center/estate",
+          "snippet": "No canonical tag"
+        },
+        {
+          "url": "https://www.americanportfolioshouston.com/resource-center/investment",
+          "snippet": "No canonical tag"
+        },
+        {
+          "url": "https://www.americanportfolioshouston.com/resource-center/insurance",
+          "snippet": "No canonical tag"
+        }
+      ],
+      "recommendation": "Add self-referencing canonical tags to all pages.",
+      "seoOsModule": "Technical Optimizer",
+      "impactEstimate": "Prevents duplicate content penalties",
+      "pagesAffected": [
+        "https://www.americanportfolioshouston.com/resource-center",
+        "https://www.americanportfolioshouston.com/resource-center/retirement",
+        "https://www.americanportfolioshouston.com/resource-center/estate",
+        "https://www.americanportfolioshouston.com/resource-center/investment",
+        "https://www.americanportfolioshouston.com/resource-center/insurance"
+      ]
+    },
+    {
+      "id": "F003",
+      "category": "technical",
+      "severity": "high",
+      "title": "Pages Blocked from Indexing",
+      "description": "2 pages have noindex directive, preventing them from appearing in search results.",
+      "evidence": [
+        {
+          "url": "https://www.americanportfolioshouston.com/about-us",
+          "snippet": "robots: noindex, nofollow"
+        },
+        {
+          "url": "https://www.americanportfolioshouston.com/donotsellmypersonalinformation",
+          "snippet": "robots: noindex, nofollow"
+        }
+      ],
+      "recommendation": "Review and remove noindex from pages that should be indexed.",
+      "seoOsModule": "Technical Optimizer",
+      "impactEstimate": "Critical if blocking important pages",
+      "pagesAffected": [
+        "https://www.americanportfolioshouston.com/about-us",
+        "https://www.americanportfolioshouston.com/donotsellmypersonalinformation"
+      ]
+    },
+    {
+      "id": "F004",
+      "category": "technical",
+      "severity": "low",
+      "title": "Redirect Chains Detected",
+      "description": "1 URLs redirect to different final URLs, potentially slowing crawling.",
+      "evidence": [
+        {
+          "url": "https://www.americanportfolioshouston.com",
+          "snippet": "Redirects to: https://www.americanportfolioshouston.com/"
+        }
+      ],
+      "recommendation": "Update internal links to point to final URLs. Consolidate redirect chains.",
+      "seoOsModule": "Technical Optimizer",
+      "impactEstimate": "Minor crawl efficiency impact",
+      "pagesAffected": [
+        "https://www.americanportfolioshouston.com"
+      ]
+    },
+    {
+      "id": "F005",
+      "category": "onpage",
+      "severity": "high",
+      "title": "Missing H1 Headings",
+      "description": "7 pages lack an H1 heading, which defines the main topic for search engines.",
+      "evidence": [
+        {
+          "url": "https://www.americanportfolioshouston.com",
+          "snippet": "No H1 tag found"
+        },
+        {
+          "url": "https://www.americanportfolioshouston.com/mikes-videos",
+          "snippet": "No H1 tag found"
+        },
+        {
+          "url": "https://www.americanportfolioshouston.com/articles-of-interest",
+          "snippet": "No H1 tag found"
+        },
+        {
+          "url": "https://www.americanportfolioshouston.com/how-we-work",
+          "snippet": "No H1 tag found"
+        },
+        {
+          "url": "https://www.americanportfolioshouston.com/how-your-assets-are-protected",
+          "snippet": "No H1 tag found"
+        }
+      ],
+      "recommendation": "Add a single, descriptive H1 to each page that includes the primary keyword.",
+      "seoOsModule": "Content Engine",
+      "impactEstimate": "High impact on on-page SEO",
+      "pagesAffected": [
+        "https://www.americanportfolioshouston.com",
+        "https://www.americanportfolioshouston.com/mikes-videos",
+        "https://www.americanportfolioshouston.com/articles-of-interest",
+        "https://www.americanportfolioshouston.com/how-we-work",
+        "https://www.americanportfolioshouston.com/how-your-assets-are-protected"
+      ]
+    },
+    {
+      "id": "F006",
+      "category": "onpage",
+      "severity": "low",
+      "title": "Images Missing Alt Text",
+      "description": "3 images across 1 pages lack alt text, hurting accessibility and image SEO.",
+      "evidence": [
+        {
+          "url": "https://www.americanportfolioshouston.com/associates",
+          "metric": "3 images missing alt"
+        }
+      ],
+      "recommendation": "Add descriptive alt text to all images that conveys their content or function.",
+      "seoOsModule": "Content Engine",
+      "impactEstimate": "Impacts accessibility and image search visibility",
+      "pagesAffected": [
+        "https://www.americanportfolioshouston.com/associates"
+      ]
+    },
+    {
+      "id": "F007",
+      "category": "local",
+      "severity": "high",
+      "title": "Missing LocalBusiness Schema",
+      "description": "No LocalBusiness, Organization, or Service schema found on the site.",
+      "evidence": [
+        {
+          "url": "https://www.americanportfolioshouston.com",
+          "snippet": "No LocalBusiness JSON-LD detected"
+        }
+      ],
+      "recommendation": "Add LocalBusiness or Organization schema with complete NAP, hours, and service area.",
+      "seoOsModule": "Schema Generator",
+      "impactEstimate": "Essential for rich results and entity recognition",
+      "pagesAffected": [
+        "https://www.americanportfolioshouston.com"
+      ]
+    },
+    {
+      "id": "F008",
+      "category": "aeo",
+      "severity": "high",
+      "title": "Missing FAQ Content and Schema",
+      "description": "Site has no FAQPage schema, missing opportunities for featured snippets and AI answers.",
+      "evidence": [
+        {
+          "url": "https://www.americanportfolioshouston.com",
+          "snippet": "no FAQPage schema"
+        }
+      ],
+      "recommendation": "Add FAQ sections to key pages with FAQPage schema markup.",
+      "seoOsModule": "AEO Optimizer",
+      "impactEstimate": "High impact on AI answer eligibility and voice search",
+      "pagesAffected": [
+        "https://www.americanportfolioshouston.com"
+      ]
+    }
+  ],
+  "scores": {
+    "categories": {
+      "technical": 59,
+      "onpage": 82,
+      "local": 85,
+      "aeo": 85
+    },
+    "overall": 76,
+    "weights": {
+      "technical": 0.3,
+      "onpage": 0.3,
+      "local": 0.2,
+      "aeo": 0.2
+    }
+  },
+  "topBlockers": [
+    {
+      "id": "F001",
+      "category": "technical",
+      "severity": "high",
+      "title": "Missing Meta Descriptions",
+      "description": "34 pages lack meta descriptions, reducing click-through rates from search results.",
+      "evidence": [
+        {
+          "url": "https://www.americanportfolioshouston.com/resource-center",
+          "snippet": "No meta description"
+        },
+        {
+          "url": "https://www.americanportfolioshouston.com/resource-center/retirement",
+          "snippet": "No meta description"
+        },
+        {
+          "url": "https://www.americanportfolioshouston.com/resource-center/estate",
+          "snippet": "No meta description"
+        },
+        {
+          "url": "https://www.americanportfolioshouston.com/resource-center/investment",
+          "snippet": "No meta description"
+        },
+        {
+          "url": "https://www.americanportfolioshouston.com/resource-center/insurance",
+          "snippet": "No meta description"
+        }
+      ],
+      "recommendation": "Add compelling meta descriptions (120-160 characters) that include target keywords.",
+      "seoOsModule": "Technical Optimizer",
+      "impactEstimate": "Moderate impact on CTR",
+      "pagesAffected": [
+        "https://www.americanportfolioshouston.com/resource-center",
+        "https://www.americanportfolioshouston.com/resource-center/retirement",
+        "https://www.americanportfolioshouston.com/resource-center/estate",
+        "https://www.americanportfolioshouston.com/resource-center/investment",
+        "https://www.americanportfolioshouston.com/resource-center/insurance"
+      ]
+    },
+    {
+      "id": "F003",
+      "category": "technical",
+      "severity": "high",
+      "title": "Pages Blocked from Indexing",
+      "description": "2 pages have noindex directive, preventing them from appearing in search results.",
+      "evidence": [
+        {
+          "url": "https://www.americanportfolioshouston.com/about-us",
+          "snippet": "robots: noindex, nofollow"
+        },
+        {
+          "url": "https://www.americanportfolioshouston.com/donotsellmypersonalinformation",
+          "snippet": "robots: noindex, nofollow"
+        }
+      ],
+      "recommendation": "Review and remove noindex from pages that should be indexed.",
+      "seoOsModule": "Technical Optimizer",
+      "impactEstimate": "Critical if blocking important pages",
+      "pagesAffected": [
+        "https://www.americanportfolioshouston.com/about-us",
+        "https://www.americanportfolioshouston.com/donotsellmypersonalinformation"
+      ]
+    },
+    {
+      "id": "F005",
+      "category": "onpage",
+      "severity": "high",
+      "title": "Missing H1 Headings",
+      "description": "7 pages lack an H1 heading, which defines the main topic for search engines.",
+      "evidence": [
+        {
+          "url": "https://www.americanportfolioshouston.com",
+          "snippet": "No H1 tag found"
+        },
+        {
+          "url": "https://www.americanportfolioshouston.com/mikes-videos",
+          "snippet": "No H1 tag found"
+        },
+        {
+          "url": "https://www.americanportfolioshouston.com/articles-of-interest",
+          "snippet": "No H1 tag found"
+        },
+        {
+          "url": "https://www.americanportfolioshouston.com/how-we-work",
+          "snippet": "No H1 tag found"
+        },
+        {
+          "url": "https://www.americanportfolioshouston.com/how-your-assets-are-protected",
+          "snippet": "No H1 tag found"
+        }
+      ],
+      "recommendation": "Add a single, descriptive H1 to each page that includes the primary keyword.",
+      "seoOsModule": "Content Engine",
+      "impactEstimate": "High impact on on-page SEO",
+      "pagesAffected": [
+        "https://www.americanportfolioshouston.com",
+        "https://www.americanportfolioshouston.com/mikes-videos",
+        "https://www.americanportfolioshouston.com/articles-of-interest",
+        "https://www.americanportfolioshouston.com/how-we-work",
+        "https://www.americanportfolioshouston.com/how-your-assets-are-protected"
+      ]
+    },
+    {
+      "id": "F007",
+      "category": "local",
+      "severity": "high",
+      "title": "Missing LocalBusiness Schema",
+      "description": "No LocalBusiness, Organization, or Service schema found on the site.",
+      "evidence": [
+        {
+          "url": "https://www.americanportfolioshouston.com",
+          "snippet": "No LocalBusiness JSON-LD detected"
+        }
+      ],
+      "recommendation": "Add LocalBusiness or Organization schema with complete NAP, hours, and service area.",
+      "seoOsModule": "Schema Generator",
+      "impactEstimate": "Essential for rich results and entity recognition",
+      "pagesAffected": [
+        "https://www.americanportfolioshouston.com"
+      ]
+    },
+    {
+      "id": "F008",
+      "category": "aeo",
+      "severity": "high",
+      "title": "Missing FAQ Content and Schema",
+      "description": "Site has no FAQPage schema, missing opportunities for featured snippets and AI answers.",
+      "evidence": [
+        {
+          "url": "https://www.americanportfolioshouston.com",
+          "snippet": "no FAQPage schema"
+        }
+      ],
+      "recommendation": "Add FAQ sections to key pages with FAQPage schema markup.",
+      "seoOsModule": "AEO Optimizer",
+      "impactEstimate": "High impact on AI answer eligibility and voice search",
+      "pagesAffected": [
+        "https://www.americanportfolioshouston.com"
+      ]
+    }
+  ],
+  "topFixes": [
+    {
+      "id": "F001",
+      "category": "technical",
+      "severity": "high",
+      "title": "Missing Meta Descriptions",
+      "description": "34 pages lack meta descriptions, reducing click-through rates from search results.",
+      "evidence": [
+        {
+          "url": "https://www.americanportfolioshouston.com/resource-center",
+          "snippet": "No meta description"
+        },
+        {
+          "url": "https://www.americanportfolioshouston.com/resource-center/retirement",
+          "snippet": "No meta description"
+        },
+        {
+          "url": "https://www.americanportfolioshouston.com/resource-center/estate",
+          "snippet": "No meta description"
+        },
+        {
+          "url": "https://www.americanportfolioshouston.com/resource-center/investment",
+          "snippet": "No meta description"
+        },
+        {
+          "url": "https://www.americanportfolioshouston.com/resource-center/insurance",
+          "snippet": "No meta description"
+        }
+      ],
+      "recommendation": "Add compelling meta descriptions (120-160 characters) that include target keywords.",
+      "seoOsModule": "Technical Optimizer",
+      "impactEstimate": "Moderate impact on CTR",
+      "pagesAffected": [
+        "https://www.americanportfolioshouston.com/resource-center",
+        "https://www.americanportfolioshouston.com/resource-center/retirement",
+        "https://www.americanportfolioshouston.com/resource-center/estate",
+        "https://www.americanportfolioshouston.com/resource-center/investment",
+        "https://www.americanportfolioshouston.com/resource-center/insurance"
+      ]
+    },
+    {
+      "id": "F003",
+      "category": "technical",
+      "severity": "high",
+      "title": "Pages Blocked from Indexing",
+      "description": "2 pages have noindex directive, preventing them from appearing in search results.",
+      "evidence": [
+        {
+          "url": "https://www.americanportfolioshouston.com/about-us",
+          "snippet": "robots: noindex, nofollow"
+        },
+        {
+          "url": "https://www.americanportfolioshouston.com/donotsellmypersonalinformation",
+          "snippet": "robots: noindex, nofollow"
+        }
+      ],
+      "recommendation": "Review and remove noindex from pages that should be indexed.",
+      "seoOsModule": "Technical Optimizer",
+      "impactEstimate": "Critical if blocking important pages",
+      "pagesAffected": [
+        "https://www.americanportfolioshouston.com/about-us",
+        "https://www.americanportfolioshouston.com/donotsellmypersonalinformation"
+      ]
+    },
+    {
+      "id": "F005",
+      "category": "onpage",
+      "severity": "high",
+      "title": "Missing H1 Headings",
+      "description": "7 pages lack an H1 heading, which defines the main topic for search engines.",
+      "evidence": [
+        {
+          "url": "https://www.americanportfolioshouston.com",
+          "snippet": "No H1 tag found"
+        },
+        {
+          "url": "https://www.americanportfolioshouston.com/mikes-videos",
+          "snippet": "No H1 tag found"
+        },
+        {
+          "url": "https://www.americanportfolioshouston.com/articles-of-interest",
+          "snippet": "No H1 tag found"
+        },
+        {
+          "url": "https://www.americanportfolioshouston.com/how-we-work",
+          "snippet": "No H1 tag found"
+        },
+        {
+          "url": "https://www.americanportfolioshouston.com/how-your-assets-are-protected",
+          "snippet": "No H1 tag found"
+        }
+      ],
+      "recommendation": "Add a single, descriptive H1 to each page that includes the primary keyword.",
+      "seoOsModule": "Content Engine",
+      "impactEstimate": "High impact on on-page SEO",
+      "pagesAffected": [
+        "https://www.americanportfolioshouston.com",
+        "https://www.americanportfolioshouston.com/mikes-videos",
+        "https://www.americanportfolioshouston.com/articles-of-interest",
+        "https://www.americanportfolioshouston.com/how-we-work",
+        "https://www.americanportfolioshouston.com/how-your-assets-are-protected"
+      ]
+    },
+    {
+      "id": "F007",
+      "category": "local",
+      "severity": "high",
+      "title": "Missing LocalBusiness Schema",
+      "description": "No LocalBusiness, Organization, or Service schema found on the site.",
+      "evidence": [
+        {
+          "url": "https://www.americanportfolioshouston.com",
+          "snippet": "No LocalBusiness JSON-LD detected"
+        }
+      ],
+      "recommendation": "Add LocalBusiness or Organization schema with complete NAP, hours, and service area.",
+      "seoOsModule": "Schema Generator",
+      "impactEstimate": "Essential for rich results and entity recognition",
+      "pagesAffected": [
+        "https://www.americanportfolioshouston.com"
+      ]
+    },
+    {
+      "id": "F008",
+      "category": "aeo",
+      "severity": "high",
+      "title": "Missing FAQ Content and Schema",
+      "description": "Site has no FAQPage schema, missing opportunities for featured snippets and AI answers.",
+      "evidence": [
+        {
+          "url": "https://www.americanportfolioshouston.com",
+          "snippet": "no FAQPage schema"
+        }
+      ],
+      "recommendation": "Add FAQ sections to key pages with FAQPage schema markup.",
+      "seoOsModule": "AEO Optimizer",
+      "impactEstimate": "High impact on AI answer eligibility and voice search",
+      "pagesAffected": [
+        "https://www.americanportfolioshouston.com"
+      ]
+    }
+  ]
+}

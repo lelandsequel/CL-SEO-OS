@@ -8,7 +8,7 @@ export default function HomePage() {
         businessName: "",
         description: "",
         specialRequests: "",
-        includeAudit: true,
+        includeAnalysis: true,
         generateDeck: true,
         generateProposal: true,
     });
@@ -33,7 +33,7 @@ export default function HomePage() {
                     description: formData.description,
                     specialRequests: formData.specialRequests || undefined,
                     toggles: {
-                        includeAudit: formData.includeAudit,
+                        includeAnalysis: formData.includeAnalysis,
                         generateDeck: formData.generateDeck,
                         generateProposal: formData.generateProposal,
                     },
@@ -115,10 +115,10 @@ export default function HomePage() {
                     <label>
                         <input
                             type="checkbox"
-                            checked={formData.includeAudit}
-                            onChange={(e) => setFormData({ ...formData, includeAudit: e.target.checked })}
+                            checked={formData.includeAnalysis}
+                            onChange={(e) => setFormData({ ...formData, includeAnalysis: e.target.checked })}
                         />
-                        Include Audit (Phase 0)
+                        Include Current State Analysis (Phase 0)
                     </label>
                     
                     <label>
@@ -168,8 +168,11 @@ export default function HomePage() {
                     <p><strong>Slug:</strong> {result.slug}</p>
                     {result.summary && (
                         <>
-                            {result.summary.auditScore !== null && (
-                                <p><strong>Audit Score:</strong> {result.summary.auditScore}/100</p>
+                            {result.summary.analysisScore !== null && (
+                                <p><strong>Current State Analysis Score:</strong> {result.summary.analysisScore}/100</p>
+                            )}
+                            {(result.summary.auditScore !== null && result.summary.analysisScore === null) && (
+                                <p><strong>Score:</strong> {result.summary.auditScore}/100</p>
                             )}
                             {result.summary.pagesGenerated && (
                                 <p><strong>Pages Generated:</strong> {result.summary.pagesGenerated.total}</p>

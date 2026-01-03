@@ -1,21 +1,21 @@
 /**
- * SEO OS++ Phase 0 Audit Runner
+ * SEO OS++ Phase 0 Current State Analysis Runner
  * 
- * Main entry point for Phase 0 audit execution
+ * Main entry point for Phase 0 current state analysis execution
  */
 
-import { AuditConfig, AuditResult } from "./types";
+import { AnalysisConfig, AnalysisResult } from "./types";
 import { crawlSite } from "./crawler";
 import { analyzePages } from "./analyzer";
 import { calculateScores, getTopBlockers, getTopFixes } from "./scorer";
 import {
-    generateAuditMarkdown,
-    generateAuditSummary,
-    generateAuditJson,
+    generateAnalysisMarkdown,
+    generateAnalysisSummary,
+    generateAnalysisJson,
 } from "./writer";
 
-export interface AuditOutput {
-    result: AuditResult;
+export interface AnalysisOutput {
+    result: AnalysisResult;
     artifacts: {
         json: string;
         markdown: string;
@@ -23,9 +23,9 @@ export interface AuditOutput {
     };
 }
 
-export async function runPhase0Audit(config: AuditConfig): Promise<AuditOutput> {
+export async function runPhase0Analysis(config: AnalysisConfig): Promise<AnalysisOutput> {
     console.log("\n========================================");
-    console.log("PHASE 0: AUDIT — Starting");
+    console.log("PHASE 0: CURRENT STATE ANALYSIS — Starting");
     console.log("========================================\n");
     console.log(`Target: ${config.currentUrl}`);
     console.log(`Business: ${config.businessName}`);
@@ -48,12 +48,12 @@ export async function runPhase0Audit(config: AuditConfig): Promise<AuditOutput> 
 
     // Step 4: Build result
     console.log("[Phase 0] Step 4/4: Generating artifacts...");
-    const result: AuditResult = {
+    const result: AnalysisResult = {
         metadata: {
             targetUrl: config.currentUrl,
             businessName: config.businessName,
             description: config.description,
-            auditedAt: new Date().toISOString(),
+            analyzedAt: new Date().toISOString(),
             crawlConfig: {
                 maxDepth: 2,
                 maxPages: 40,
@@ -71,17 +71,21 @@ export async function runPhase0Audit(config: AuditConfig): Promise<AuditOutput> 
 
     // Generate artifacts
     const artifacts = {
-        json: generateAuditJson(result),
-        markdown: generateAuditMarkdown(result),
-        summary: generateAuditSummary(result),
+        json: generateAnalysisJson(result),
+        markdown: generateAnalysisMarkdown(result),
+        summary: generateAnalysisSummary(result),
     };
 
     console.log("\n========================================");
-    console.log("PHASE 0: AUDIT — Complete");
+    console.log("PHASE 0: CURRENT STATE ANALYSIS — Complete");
     console.log("========================================\n");
 
     return { result, artifacts };
 }
+
+// Backward compatibility exports
+export const runPhase0Audit = runPhase0Analysis;
+export type AuditOutput = AnalysisOutput;
 
 // Export types for consumers
 export * from "./types";

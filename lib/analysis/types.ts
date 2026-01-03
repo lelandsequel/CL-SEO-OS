@@ -1,5 +1,5 @@
 /**
- * SEO OS++ Phase 0 Audit Types
+ * SEO OS++ Phase 0 Current State Analysis Types
  */
 
 // ═══════════════════════════════════════════════════════════════
@@ -76,7 +76,7 @@ export interface CategoryScores {
     aeo: number;
 }
 
-export interface AuditScores {
+export interface AnalysisScores {
     categories: CategoryScores;
     overall: number;
     weights: {
@@ -88,15 +88,15 @@ export interface AuditScores {
 }
 
 // ═══════════════════════════════════════════════════════════════
-// AUDIT RESULT
+// ANALYSIS RESULT
 // ═══════════════════════════════════════════════════════════════
 
-export interface AuditResult {
+export interface AnalysisResult {
     metadata: {
         targetUrl: string;
         businessName: string;
         description: string;
-        auditedAt: string;
+        analyzedAt: string;
         crawlConfig: {
             maxDepth: number;
             maxPages: number;
@@ -107,26 +107,31 @@ export interface AuditResult {
     };
     pages: PageSnapshot[];
     findings: Finding[];
-    scores: AuditScores;
+    scores: AnalysisScores;
     topBlockers: Finding[];
     topFixes: Finding[];
 }
 
 // ═══════════════════════════════════════════════════════════════
-// AUDIT CONFIG
+// ANALYSIS CONFIG
 // ═══════════════════════════════════════════════════════════════
 
-export interface AuditConfig {
+export interface AnalysisConfig {
     currentUrl: string;
     businessName: string;
     description: string;
     specialRequests?: string;
     toggles: {
-        includeAudit: boolean;
+        includeAnalysis: boolean;
         generateDeck: boolean;
         generateProposal: boolean;
     };
 }
+
+// Backward compatibility aliases
+export type AuditResult = AnalysisResult;
+export type AuditConfig = AnalysisConfig;
+export type AuditScores = AnalysisScores;
 
 // Severity penalty values
 export const SEVERITY_PENALTIES: Record<FindingSeverity, number> = {

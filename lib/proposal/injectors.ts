@@ -1,22 +1,22 @@
 /**
  * SEO OS++ Injectors
  * 
- * Injects audit results into deck and walkthrough
+ * Injects current state analysis results into deck and walkthrough
  */
 
-import { AuditResult, Finding } from "../audit/types";
-import { getScoreGrade } from "../audit/scorer";
+import { AnalysisResult, Finding } from "../analysis/types";
+import { getScoreGrade } from "../analysis/scorer";
 
 // ═══════════════════════════════════════════════════════════════
 // DECK INJECTION SLIDES
 // ═══════════════════════════════════════════════════════════════
 
-export function generateAuditDeckSlides(result: AuditResult): string {
+export function generateAnalysisDeckSlides(result: AnalysisResult): string {
     const { metadata, scores, findings, topBlockers } = result;
 
     let md = `\n---\n\n## Slide 2: What's Broken Today\n\n`;
-    md += `Before we built anything, we audited **${metadata.targetUrl}**.\n\n`;
-    md += `### Audit Score: ${scores.overall}/100 (${getScoreGrade(scores.overall)})\n\n`;
+    md += `Before we built anything, we analyzed the current state of **${metadata.targetUrl}**.\n\n`;
+    md += `### Current State Score: ${scores.overall}/100 (${getScoreGrade(scores.overall)})\n\n`;
 
     md += `| Category | Score | Issue Count |\n`;
     md += `|----------|-------|-------------|\n`;
@@ -53,7 +53,7 @@ export function generateAuditDeckSlides(result: AuditResult): string {
     return md;
 }
 
-export function generateRoadmapSlide(result: AuditResult): string {
+export function generateRoadmapSlide(result: AnalysisResult): string {
     const { findings } = result;
 
     // Categorize by severity for roadmap
@@ -100,7 +100,7 @@ export function generateRoadmapSlide(result: AuditResult): string {
 // PSEO/AEO SLIDE ENHANCEMENT
 // ═══════════════════════════════════════════════════════════════
 
-export function getPSEOAuditContext(result: AuditResult): string {
+export function getPSEOAnalysisContext(result: AnalysisResult): string {
     const missingPages = result.findings.filter(
         f => f.title.includes("Thin Content") ||
             f.title.includes("Missing H1") ||
@@ -114,7 +114,7 @@ export function getPSEOAuditContext(result: AuditResult): string {
     return `Previously: ${missingPages.map(f => f.title.toLowerCase()).join(", ")}. Now: dedicated pSEO pages with optimized structure.`;
 }
 
-export function getAEOAuditContext(result: AuditResult): string {
+export function getAEOAnalysisContext(result: AnalysisResult): string {
     const aeoIssues = result.findings.filter(f => f.category === "aeo");
 
     if (aeoIssues.length === 0) {
@@ -128,11 +128,11 @@ export function getAEOAuditContext(result: AuditResult): string {
 // WALKTHROUGH INJECTION
 // ═══════════════════════════════════════════════════════════════
 
-export function generateWalkthroughAuditSection(result: AuditResult): string {
+export function generateWalkthroughAnalysisSection(result: AnalysisResult): string {
     const { metadata, scores, findings, topBlockers } = result;
 
-    let md = `## Audit Summary (Phase 0)\n\n`;
-    md += `Before building, we ran a comprehensive audit of **${metadata.targetUrl}**.\n\n`;
+    let md = `## Current State Analysis Summary (Phase 0)\n\n`;
+    md += `Before building, we ran a comprehensive current state analysis of **${metadata.targetUrl}**.\n\n`;
 
     md += `### Scores\n\n`;
     md += `| Category | Before |\n`;
@@ -144,7 +144,7 @@ export function generateWalkthroughAuditSection(result: AuditResult): string {
     md += `| **Overall** | **${scores.overall}/100** |\n\n`;
 
     md += `### Evidence Links\n\n`;
-    md += `Full audit report: \`audit/audit.md\`\n\n`;
+    md += `Full analysis report: \`analysis/analysis.md\`\n\n`;
 
     md += `### Why These Fixes Were Prioritized\n\n`;
     topBlockers.slice(0, 3).forEach((f, i) => {
@@ -154,3 +154,9 @@ export function generateWalkthroughAuditSection(result: AuditResult): string {
 
     return md;
 }
+
+// Backward compatibility exports
+export const generateAuditDeckSlides = generateAnalysisDeckSlides;
+export const getPSEOAuditContext = getPSEOAnalysisContext;
+export const getAEOAuditContext = getAEOAnalysisContext;
+export const generateWalkthroughAuditSection = generateWalkthroughAnalysisSection;

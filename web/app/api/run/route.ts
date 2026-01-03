@@ -23,7 +23,7 @@ export async function POST(request: NextRequest) {
             description: body.description,
             specialRequests: body.specialRequests,
             toggles: {
-                includeAudit: body.toggles?.includeAudit ?? true,
+                includeAnalysis: body.toggles?.includeAnalysis ?? body.toggles?.includeAudit ?? true,
                 generateDeck: body.toggles?.generateDeck ?? true,
                 generateProposal: body.toggles?.generateProposal ?? true,
             },

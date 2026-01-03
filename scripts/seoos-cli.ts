@@ -3,7 +3,8 @@
  * SEO OS++ CLI
  *
  * Usage:
- *   pnpm seoos:run -- --url <url> --name "<name>" --desc "<desc>" [--audit true|false] [--deck true|false] [--proposal true|false]
+ *   pnpm seoos:run -- --url <url> --name "<name>" --desc "<desc>" [--analysis true|false] [--deck true|false] [--proposal true|false]
+ *   (--audit is deprecated, use --analysis)
  */
 
 import { runSeoOsBuild, SEOOSConfig } from "../lib/seo-os-runner";
@@ -15,7 +16,7 @@ function parseArgs(): SEOOSConfig {
     let businessName = "";
     let description = "";
     let specialRequests: string | undefined;
-    let includeAudit = true;
+    let includeAnalysis = true;
     let generateDeck = true;
     let generateProposal = true;
     
@@ -30,8 +31,9 @@ function parseArgs(): SEOOSConfig {
             description = args[++i];
         } else if (arg === "--requests" && args[i + 1]) {
             specialRequests = args[++i];
-        } else if (arg === "--audit" && args[i + 1]) {
-            includeAudit = args[++i] === "true";
+        } else if ((arg === "--analysis" || arg === "--audit") && args[i + 1]) {
+            // Support both --analysis and --audit for backward compatibility
+            includeAnalysis = args[++i] === "true";
         } else if (arg === "--deck" && args[i + 1]) {
             generateDeck = args[++i] === "true";
         } else if (arg === "--proposal" && args[i + 1]) {
@@ -40,7 +42,7 @@ function parseArgs(): SEOOSConfig {
     }
     
     if (!currentUrl || !businessName || !description) {
-        console.error("Usage: pnpm seoos:run -- --url <url> --name \"<name>\" --desc \"<desc>\" [--audit true|false] [--deck true|false] [--proposal true|false]");
+        console.error("Usage: pnpm seoos:run -- --url <url> --name \"<name>\" --desc \"<desc>\" [--analysis true|false] [--deck true|false] [--proposal true|false]");
         process.exit(1);
     }
     
@@ -50,7 +52,7 @@ function parseArgs(): SEOOSConfig {
         description,
         specialRequests,
         toggles: {
-            includeAudit,
+            includeAnalysis,
             generateDeck,
             generateProposal,
         },

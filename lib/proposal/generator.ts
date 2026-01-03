@@ -1,18 +1,18 @@
 /**
  * SEO OS++ Proposal Generator
  * 
- * Generates PROPOSAL.md from audit results
+ * Generates PROPOSAL.md from current state analysis results
  */
 
-import { AuditResult, Finding } from "../audit/types";
-import { getScoreGrade } from "../audit/scorer";
+import { AnalysisResult, Finding } from "../analysis/types";
+import { getScoreGrade } from "../analysis/scorer";
 
 // ═══════════════════════════════════════════════════════════════
 // PROPOSAL GENERATOR
 // ═══════════════════════════════════════════════════════════════
 
 export function generateProposal(
-    result: AuditResult,
+    result: AnalysisResult,
     clientSlug: string
 ): string {
     const { metadata, scores, findings, topBlockers } = result;
@@ -44,7 +44,7 @@ export function generateProposal(
 
     md += `## Introduction\n\n`;
     md += `This proposal outlines a comprehensive SEO strategy for **${metadata.businessName}** `;
-    md += `based on an automated audit of **${metadata.targetUrl}**.\n\n`;
+    md += `based on a current state analysis of **${metadata.targetUrl}**.\n\n`;
     md += `${metadata.description}\n\n`;
     md += `Our analysis identified ${findings.length} opportunities for improvement across `;
     md += `technical SEO, on-page optimization, local search, and AI answer eligibility.\n\n`;
@@ -54,7 +54,7 @@ export function generateProposal(
     // ═══════════════════════════════════════════════════════════════
 
     md += `## Current State\n\n`;
-    md += `### Audit Scores\n\n`;
+    md += `### Current State Analysis Scores\n\n`;
     md += `| Category | Score | Grade | Status |\n`;
     md += `|----------|-------|-------|--------|\n`;
 

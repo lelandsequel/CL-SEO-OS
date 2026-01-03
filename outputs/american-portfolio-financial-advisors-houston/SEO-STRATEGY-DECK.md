@@ -5,8 +5,8 @@
 ## Slide 1: Executive Summary
 
 ### Before
-- SEO Score: 70/100 (Needs Work)
-- 9 issues identified
+- SEO Score: 76/100 (Needs Work)
+- 8 issues identified
 - 40 pages analyzed
 
 ### After
@@ -19,13 +19,13 @@
 
 ## Slide 2: What's Broken Today
 
-Before we built anything, we audited **https://www.americanportfolioshouston.com/**.
+Before we built anything, we analyzed the current state of **https://www.americanportfolioshouston.com/**.
 
-### Audit Score: 70/100 (C)
+### Current State Score: 76/100 (C)
 
 | Category | Score | Issue Count |
 |----------|-------|-------------|
-| Technical | 39 | 5 |
+| Technical | 59 | 4 |
 | On-Page | 82 | 2 |
 | Local | 85 | 1 |
 | AEO | 85 | 1 |
@@ -34,9 +34,9 @@ Before we built anything, we audited **https://www.americanportfolioshouston.com
 
 1. 🟠 **Missing Meta Descriptions**
 2. 🟠 **Pages Blocked from Indexing**
-3. 🟠 **Pages Returning Error Status**
-4. 🟠 **Missing H1 Headings**
-5. 🟠 **Missing LocalBusiness Schema**
+3. 🟠 **Missing H1 Headings**
+4. 🟠 **Missing LocalBusiness Schema**
+5. 🟠 **Missing FAQ Content and Schema**
 
 ---
 
@@ -46,7 +46,7 @@ Every issue maps to an SEO OS++ module:
 
 | Module | Issues Fixed | Key Improvements |
 |--------|--------------|------------------|
-| Technical Optimizer | 5 | Missing Meta Descriptions... |
+| Technical Optimizer | 4 | Missing Meta Descriptions... |
 | Content Engine | 2 | Missing H1 Headings... |
 | Schema Generator | 1 | Missing LocalBusiness Schema... |
 | AEO Optimizer | 1 | Missing FAQ Content and Schema... |
@@ -56,7 +56,7 @@ Every issue maps to an SEO OS++ module:
 
 **Programmatic SEO** generates optimized pages from templates and data.
 
-> 📊 **Audit finding**: Previously: missing h1 headings. Now: dedicated pSEO pages with optimized structure.
+> 📊 **Current state finding**: Previously: missing h1 headings. Now: dedicated pSEO pages with optimized structure.
 
 **Benefits**:
 - Scales without manual effort
@@ -69,36 +69,13 @@ Every issue maps to an SEO OS++ module:
 
 **Answer Engine Optimization** makes content eligible for AI answers.
 
-> 📊 **Audit finding**: Previously: missing faq content and schema. Now: 1 AEO-optimized pages added.
+> 📊 **Current state finding**: Previously: missing faq content and schema. Now: 1 AEO-optimized pages added.
 
 **How we achieve it**:
 - Answer within first 40 words
 - FAQ schema markup
 - Neutral, educational tone
 
-
----
-
-## Slide: 30/60/90 Day Roadmap
-
-### Day 0-30: Critical Foundation
-- Fix: Missing Meta Descriptions
-- Fix: Pages Blocked from Indexing
-- Fix: Pages Returning Error Status
-- Deploy core pages with optimized structure
-- Implement LocalBusiness schema
-
-### Day 31-60: Content Expansion
-- Launch pSEO service pages
-- Build internal linking hub
-- Address: Missing Canonical Tags
-- Address: Redirect Chains Detected
-
-### Day 61-90: Authority Building
-- Publish AEO guides
-- Add FAQ schema to key pages
-- Polish: Images Missing Alt Text
-- Begin monitoring and optimization cycle
 ---
 
 ## Slide: What is SEO?
@@ -145,8 +122,7 @@ We generated **4 service pages** and **4 guide pages**.
 1. Missing Meta Descriptions: Add compelling meta descriptions (120-160 characters) that include target keywords.
 2. Missing Canonical Tags: Add self-referencing canonical tags to all pages.
 3. Pages Blocked from Indexing: Review and remove noindex from pages that should be indexed.
-4. Pages Returning Error Status: Fix server errors (5xx) immediately. Review 4xx errors for broken links.
-5. Redirect Chains Detected: Update internal links to point to final URLs. Consolidate redirect chains.
+4. Redirect Chains Detected: Update internal links to point to final URLs. Consolidate redirect chains.
 ---
 
 ## Slide: Site Structure
@@ -176,7 +152,7 @@ https://www.americanportfolioshouston.com/
 ### Day 0-30: Critical Foundation
 - Fix: Missing Meta Descriptions
 - Fix: Pages Blocked from Indexing
-- Fix: Pages Returning Error Status
+- Fix: Missing H1 Headings
 - Deploy core pages with optimized structure
 - Implement LocalBusiness schema
 
@@ -184,11 +160,11 @@ https://www.americanportfolioshouston.com/
 - Launch pSEO service pages
 - Build internal linking hub
 - Address: Missing Canonical Tags
-- Address: Redirect Chains Detected
 
 ### Day 61-90: Authority Building
 - Publish AEO guides
 - Add FAQ schema to key pages
+- Polish: Redirect Chains Detected
 - Polish: Images Missing Alt Text
 - Begin monitoring and optimization cycle
 ---

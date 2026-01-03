@@ -8,31 +8,31 @@
 
 ## Introduction
 
-This proposal outlines a comprehensive SEO strategy for **American Portfolio Financial Advisors – Houston** based on an automated audit of **https://www.americanportfolioshouston.com/**.
+This proposal outlines a comprehensive SEO strategy for **American Portfolio Financial Advisors – Houston** based on a current state analysis of **https://www.americanportfolioshouston.com/**.
 
 Houston-based financial advisory/wealth management team.
 
-Our analysis identified 9 opportunities for improvement across technical SEO, on-page optimization, local search, and AI answer eligibility.
+Our analysis identified 8 opportunities for improvement across technical SEO, on-page optimization, local search, and AI answer eligibility.
 
 ## Current State
 
-### Audit Scores
+### Current State Analysis Scores
 
 | Category | Score | Grade | Status |
 |----------|-------|-------|--------|
-| Technical | 39/100 | F | 🔴 Critical |
+| Technical | 59/100 | F | 🔴 Critical |
 | On-Page | 82/100 | B | ✅ Good |
 | Local | 85/100 | B | ✅ Good |
 | AEO | 85/100 | B | ✅ Good |
-| **Overall** | **70/100** | **C** | ⚠️ Needs Work |
+| **Overall** | **76/100** | **C** | ⚠️ Needs Work |
 
 ### Critical Issues Identified
 
 1. 🟠 **Missing Meta Descriptions** — 34 pages lack meta descriptions, reducing click-through rates from search results.
-2. 🟠 **Pages Blocked from Indexing** — 11 pages have noindex directive, preventing them from appearing in search results.
-3. 🟠 **Pages Returning Error Status** — 9 pages are returning non-200 HTTP status codes.
-4. 🟠 **Missing H1 Headings** — 16 pages lack an H1 heading, which defines the main topic for search engines.
-5. 🟠 **Missing LocalBusiness Schema** — No LocalBusiness, Organization, or Service schema found on the site.
+2. 🟠 **Pages Blocked from Indexing** — 2 pages have noindex directive, preventing them from appearing in search results.
+3. 🟠 **Missing H1 Headings** — 7 pages lack an H1 heading, which defines the main topic for search engines.
+4. 🟠 **Missing LocalBusiness Schema** — No LocalBusiness, Organization, or Service schema found on the site.
+5. 🟠 **Missing FAQ Content and Schema** — Site has no FAQPage schema, missing opportunities for featured snippets and AI answers.
 
 ## Scope of Work
 
@@ -40,12 +40,12 @@ Based on the audit findings, we propose the following engagement:
 
 ### Technical Optimizer
 
-*5 issues identified* (0 critical, 3 high priority)
+*4 issues identified* (0 critical, 2 high priority)
 
 - Missing Meta Descriptions: Add compelling meta descriptions (120-160 characters) that include target keywords.
 - Missing Canonical Tags: Add self-referencing canonical tags to all pages.
 - Pages Blocked from Indexing: Review and remove noindex from pages that should be indexed.
-- *...and 2 more*
+- *...and 1 more*
 
 ### Content Engine
 

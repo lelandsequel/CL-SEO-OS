@@ -1,17 +1,17 @@
 /**
  * SEO OS++ Runner
  *
- * Main orchestrator that executes all phases including Phase 0 Audit
+ * Main orchestrator that executes all phases including Phase 0 Current State Analysis
  */
 
-import { runPhase0Audit, AuditConfig, AuditResult } from "./audit";
+import { runPhase0Analysis, AnalysisConfig, AnalysisResult } from "./analysis";
 import { generateProposal } from "./proposal/generator";
 import {
-    generateAuditDeckSlides,
+    generateAnalysisDeckSlides,
     generateRoadmapSlide,
-    generateWalkthroughAuditSection,
-    getPSEOAuditContext,
-    getAEOAuditContext,
+    generateWalkthroughAnalysisSection,
+    getPSEOAnalysisContext,
+    getAEOAnalysisContext,
 } from "./proposal/injectors";
 import { generateSite, SiteBuildResult } from "./site/generator";
 import * as fs from "fs";
@@ -27,7 +27,7 @@ export interface SEOOSConfig {
     description: string;
     specialRequests?: string;
     toggles: {
-        includeAudit: boolean;
+        includeAnalysis: boolean;
         generateDeck: boolean;
         generateProposal: boolean;
     };
@@ -62,7 +62,7 @@ function slugify(text: string): string {
 
 function generateDeck(
     config: SEOOSConfig,
-    auditResult: AuditResult | null,
+    analysisResult: AnalysisResult | null,
     siteBuildResult: SiteBuildResult | null
 ): string {
     let md = `# SEO Strategy Deck: ${config.businessName}\n\n`;
@@ -70,11 +70,11 @@ function generateDeck(
 
     // Slide 1: Executive Summary (updated with Before/After)
     md += `## Slide 1: Executive Summary\n\n`;
-    if (auditResult) {
+    if (analysisResult) {
         md += `### Before\n`;
-        md += `- SEO Score: ${auditResult.scores.overall}/100 (${auditResult.scores.overall >= 60 ? "Needs Work" : "Critical"})\n`;
-        md += `- ${auditResult.findings.length} issues identified\n`;
-        md += `- ${auditResult.pages.length} pages analyzed\n\n`;
+        md += `- SEO Score: ${analysisResult.scores.overall}/100 (${analysisResult.scores.overall >= 60 ? "Needs Work" : "Critical"})\n`;
+        md += `- ${analysisResult.findings.length} issues identified\n`;
+        md += `- ${analysisResult.pages.length} pages analyzed\n\n`;
         md += `### After\n`;
         md += `- Comprehensive SEO-optimized site built\n`;
         md += `- All critical issues addressed\n`;
@@ -83,9 +83,9 @@ function generateDeck(
         md += `Built a complete SEO-optimized site for **${config.businessName}**.\n\n`;
     }
 
-    // Inject audit slides if available
-    if (auditResult) {
-        md += generateAuditDeckSlides(auditResult);
+    // Inject analysis slides if available
+    if (analysisResult) {
+        md += generateAnalysisDeckSlides(analysisResult);
     }
 
     md += `---\n\n`;
@@ -93,8 +93,8 @@ function generateDeck(
     // Slide: What is pSEO?
     md += `## Slide: What is pSEO?\n\n`;
     md += `**Programmatic SEO** generates optimized pages from templates and data.\n\n`;
-    if (auditResult) {
-        md += `> 📊 **Audit finding**: ${getPSEOAuditContext(auditResult)}\n\n`;
+    if (analysisResult) {
+        md += `> 📊 **Current state finding**: ${getPSEOAnalysisContext(analysisResult)}\n\n`;
     }
     md += `**Benefits**:\n`;
     md += `- Scales without manual effort\n`;
@@ -106,8 +106,8 @@ function generateDeck(
     // Slide: What is AEO?
     md += `## Slide: What is AEO?\n\n`;
     md += `**Answer Engine Optimization** makes content eligible for AI answers.\n\n`;
-    if (auditResult) {
-        md += `> 📊 **Audit finding**: ${getAEOAuditContext(auditResult)}\n\n`;
+    if (analysisResult) {
+        md += `> 📊 **Current state finding**: ${getAEOAnalysisContext(analysisResult)}\n\n`;
     }
     md += `**How we achieve it**:\n`;
     md += `- Answer within first 40 words\n`;
@@ -163,8 +163,8 @@ function generateDeck(
 
     md += `---\n\n`;
     md += `## Slide: Technical Fixes Summary\n\n`;
-    if (auditResult) {
-        const technicalFindings = auditResult.findings.filter(f => f.category === "technical");
+    if (analysisResult) {
+        const technicalFindings = analysisResult.findings.filter(f => f.category === "technical");
         if (technicalFindings.length > 0) {
             md += `**Technical Issues Addressed**:\n\n`;
             technicalFindings.slice(0, 5).forEach((f, i) => {
@@ -203,8 +203,8 @@ function generateDeck(
 
     md += `---\n\n`;
     md += `## Slide: 30/60/90 Day Roadmap\n\n`;
-    if (auditResult) {
-        md += generateRoadmapSlide(auditResult);
+    if (analysisResult) {
+        md += generateRoadmapSlide(analysisResult);
     } else {
         md += `### Day 0-30: Foundation\n`;
         md += `- Deploy core pages\n`;
@@ -241,13 +241,13 @@ function generateDeck(
 
 function generateWalkthrough(
     config: SEOOSConfig,
-    auditResult: AuditResult | null
+    analysisResult: AnalysisResult | null
 ): string {
     let md = `# ${config.businessName} — Build Walkthrough\n\n`;
 
-    // Inject audit section at top if available
-    if (auditResult) {
-        md += generateWalkthroughAuditSection(auditResult);
+    // Inject analysis section at top if available
+    if (analysisResult) {
+        md += generateWalkthroughAnalysisSection(analysisResult);
         md += `---\n\n`;
     }
 
@@ -255,9 +255,9 @@ function generateWalkthrough(
     md += `Complete SEO OS++ site build for **${config.businessName}**.\n\n`;
     md += `**Target**: ${config.currentUrl}\n\n`;
 
-    if (auditResult) {
-        md += `## Decisions Based on Audit\n\n`;
-        auditResult.topBlockers.slice(0, 3).forEach((f, i) => {
+    if (analysisResult) {
+        md += `## Decisions Based on Current State Analysis\n\n`;
+        analysisResult.topBlockers.slice(0, 3).forEach((f, i) => {
             md += `${i + 1}. **${f.title}** → Fixed via ${f.seoOsModule}\n`;
         });
         md += `\n`;
@@ -290,50 +290,54 @@ export async function runSEOOS(config: SEOOSConfig): Promise<void> {
 
     // Ensure output directories
     ensureDir(outputDir);
-    ensureDir(path.join(outputDir, "audit"));
+    ensureDir(path.join(outputDir, "analysis"));
 
-    let auditResult: AuditResult | null = null;
+    let analysisResult: AnalysisResult | null = null;
 
     // ═══════════════════════════════════════════════════════════════
-    // PHASE 0: AUDIT
+    // PHASE 0: CURRENT STATE ANALYSIS
     // ═══════════════════════════════════════════════════════════════
 
-    if (config.toggles.includeAudit) {
+    if (config.toggles.includeAnalysis) {
         try {
-            const auditOutput = await runPhase0Audit({
+            const analysisOutput = await runPhase0Analysis({
                 currentUrl: config.currentUrl,
                 businessName: config.businessName,
                 description: config.description,
                 toggles: config.toggles,
             });
 
-            auditResult = auditOutput.result;
+            analysisResult = analysisOutput.result;
 
-            // Write audit artifacts
+            // Write analysis artifacts
+            const analysisDir = path.join(outputDir, "analysis");
+            ensureDir(analysisDir);
             writeFile(
-                path.join(outputDir, "audit", "audit.json"),
-                auditOutput.artifacts.json
+                path.join(analysisDir, "analysis.json"),
+                analysisOutput.artifacts.json
             );
             writeFile(
-                path.join(outputDir, "audit", "audit.md"),
-                auditOutput.artifacts.markdown
+                path.join(analysisDir, "analysis.md"),
+                analysisOutput.artifacts.markdown
             );
             writeFile(
-                path.join(outputDir, "audit", "audit-summary.md"),
-                auditOutput.artifacts.summary
+                path.join(analysisDir, "analysis-summary.md"),
+                analysisOutput.artifacts.summary
             );
 
-            console.log("Phase 0 audit complete ✓");
+            console.log("Phase 0 current state analysis complete ✓");
         } catch (error) {
-            console.error("Phase 0 audit failed:", error);
+            console.error("Phase 0 current state analysis failed:", error);
             // Write failure artifact
+            const analysisDir = path.join(outputDir, "analysis");
+            ensureDir(analysisDir);
             writeFile(
-                path.join(outputDir, "audit", "audit.md"),
-                `# Audit Failed\n\nCrawl could not complete. Error: ${error}\n\nAudit incomplete due to crawl restrictions.`
+                path.join(analysisDir, "analysis.md"),
+                `# Current State Analysis Failed\n\nCrawl could not complete. Error: ${error}\n\nAnalysis incomplete due to crawl restrictions.`
             );
         }
     } else {
-        console.log("Phase 0 audit skipped (includeAudit = false)");
+        console.log("Phase 0 current state analysis skipped (includeAnalysis = false)");
     }
 
     // ═══════════════════════════════════════════════════════════════
@@ -348,7 +352,7 @@ export async function runSEOOS(config: SEOOSConfig): Promise<void> {
             description: config.description,
             currentUrl: config.currentUrl,
             specialRequests: config.specialRequests,
-            auditResult: auditResult,
+            analysisResult: analysisResult,
         });
         console.log("[Phase 1] Site generation complete ✓");
     } catch (error) {
@@ -361,7 +365,7 @@ export async function runSEOOS(config: SEOOSConfig): Promise<void> {
 
     if (config.toggles.generateDeck) {
         console.log("\nGenerating SEO-STRATEGY-DECK.md...");
-        const deck = generateDeck(config, auditResult, siteBuildResult);
+        const deck = generateDeck(config, analysisResult, siteBuildResult);
         writeFile(path.join(outputDir, "SEO-STRATEGY-DECK.md"), deck);
     }
 
@@ -370,16 +374,16 @@ export async function runSEOOS(config: SEOOSConfig): Promise<void> {
     // ═══════════════════════════════════════════════════════════════
 
     console.log("Generating WALKTHROUGH.md...");
-    const walkthrough = generateWalkthrough(config, auditResult);
+    const walkthrough = generateWalkthrough(config, analysisResult);
     writeFile(path.join(outputDir, "WALKTHROUGH.md"), walkthrough);
 
     // ═══════════════════════════════════════════════════════════════
     // GENERATE PROPOSAL
     // ═══════════════════════════════════════════════════════════════
 
-    if (config.toggles.generateProposal && auditResult) {
+    if (config.toggles.generateProposal && analysisResult) {
         console.log("Generating PROPOSAL.md...");
-        const proposal = generateProposal(auditResult, clientSlug);
+        const proposal = generateProposal(analysisResult, clientSlug);
         writeFile(path.join(outputDir, "PROPOSAL.md"), proposal);
     }
 
@@ -393,17 +397,17 @@ export async function runSEOOS(config: SEOOSConfig): Promise<void> {
         slug: clientSlug,
         buildDate: new Date().toISOString(),
         phases: {
-            phase0Audit: config.toggles.includeAudit
-                ? auditResult
+            phase0Analysis: config.toggles.includeAnalysis
+                ? analysisResult
                     ? "complete"
                     : "failed"
                 : "skipped",
             deckGenerated: config.toggles.generateDeck,
-            proposalGenerated: config.toggles.generateProposal && !!auditResult,
+            proposalGenerated: config.toggles.generateProposal && !!analysisResult,
         },
-        auditScore: auditResult?.scores.overall ?? null,
-        findingsCount: auditResult?.findings.length ?? 0,
-        pagesAnalyzed: auditResult?.metadata.pagesCrawled ?? 0,
+        analysisScore: analysisResult?.scores.overall ?? null,
+        findingsCount: analysisResult?.findings.length ?? 0,
+        pagesAnalyzed: analysisResult?.metadata.pagesCrawled ?? 0,
         pagesGenerated: siteBuildResult ? {
             core: siteBuildResult.pagesGenerated.core,
             services: siteBuildResult.pagesGenerated.services,
@@ -429,16 +433,16 @@ export async function runSEOOS(config: SEOOSConfig): Promise<void> {
 
     console.log(`Output folder: ${outputDir}`);
     console.log(`Files created:`);
-    if (config.toggles.includeAudit) {
-        console.log(`  - audit/audit.json`);
-        console.log(`  - audit/audit.md`);
-        console.log(`  - audit/audit-summary.md`);
+    if (config.toggles.includeAnalysis) {
+        console.log(`  - analysis/analysis.json`);
+        console.log(`  - analysis/analysis.md`);
+        console.log(`  - analysis/analysis-summary.md`);
     }
     if (config.toggles.generateDeck) {
         console.log(`  - SEO-STRATEGY-DECK.md`);
     }
     console.log(`  - WALKTHROUGH.md`);
-    if (config.toggles.generateProposal && auditResult) {
+    if (config.toggles.generateProposal && analysisResult) {
         console.log(`  - PROPOSAL.md`);
     }
     if (siteBuildResult) {
@@ -457,4 +461,4 @@ export async function runSeoOsBuild(config: SEOOSConfig): Promise<void> {
 }
 
 // Export for CLI usage
-export { runPhase0Audit };
+export { runPhase0Analysis };

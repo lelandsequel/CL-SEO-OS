@@ -1,28 +1,28 @@
 # American Portfolio Financial Advisors – Houston — Build Walkthrough
 
-## Audit Summary (Phase 0)
+## Current State Analysis Summary (Phase 0)
 
-Before building, we ran a comprehensive audit of **https://www.americanportfolioshouston.com/**.
+Before building, we ran a comprehensive current state analysis of **https://www.americanportfolioshouston.com/**.
 
 ### Scores
 
 | Category | Before |
 |----------|--------|
-| Technical | 39/100 |
+| Technical | 59/100 |
 | On-Page | 82/100 |
 | Local | 85/100 |
 | AEO | 85/100 |
-| **Overall** | **70/100** |
+| **Overall** | **76/100** |
 
 ### Evidence Links
 
-Full audit report: `audit/audit.md`
+Full analysis report: `analysis/analysis.md`
 
 ### Why These Fixes Were Prioritized
 
 1. **Missing Meta Descriptions** (high) — Add compelling meta descriptions (120-160 characters) that include target keywords.
 2. **Pages Blocked from Indexing** (high) — Review and remove noindex from pages that should be indexed.
-3. **Pages Returning Error Status** (high) — Fix server errors (5xx) immediately. Review 4xx errors for broken links.
+3. **Missing H1 Headings** (high) — Add a single, descriptive H1 to each page that includes the primary keyword.
 
 ---
 
@@ -32,11 +32,11 @@ Complete SEO OS++ site build for **American Portfolio Financial Advisors – Hou
 
 **Target**: https://www.americanportfolioshouston.com/
 
-## Decisions Based on Audit
+## Decisions Based on Current State Analysis
 
 1. **Missing Meta Descriptions** → Fixed via Technical Optimizer
 2. **Pages Blocked from Indexing** → Fixed via Technical Optimizer
-3. **Pages Returning Error Status** → Fixed via Technical Optimizer
+3. **Missing H1 Headings** → Fixed via Content Engine
 
 ## Implementation Notes
 

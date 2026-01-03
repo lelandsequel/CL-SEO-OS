@@ -6,7 +6,7 @@
 
 import * as fs from "fs";
 import * as path from "path";
-import { AuditResult } from "../audit/types";
+import { AnalysisResult } from "../analysis/types";
 
 export interface SiteBuildResult {
     pagesGenerated: {
@@ -26,7 +26,7 @@ export interface SiteGeneratorConfig {
     description: string;
     currentUrl: string;
     specialRequests?: string;
-    auditResult?: AuditResult | null;
+    analysisResult?: AnalysisResult | null;
 }
 
 // ═══════════════════════════════════════════════════════════════
