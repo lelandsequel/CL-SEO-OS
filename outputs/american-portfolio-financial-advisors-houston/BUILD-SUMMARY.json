@@ -1,0 +1,22 @@
+{
+  "client": "American Portfolio Financial Advisors – Houston",
+  "url": "https://www.americanportfolioshouston.com/",
+  "slug": "american-portfolio-financial-advisors-houston",
+  "buildDate": "2026-01-03T10:04:49.127Z",
+  "phases": {
+    "phase0Audit": "complete",
+    "deckGenerated": true,
+    "proposalGenerated": true
+  },
+  "auditScore": 70,
+  "findingsCount": 9,
+  "pagesAnalyzed": 40,
+  "pagesGenerated": {
+    "core": 3,
+    "services": 4,
+    "conditions": 0,
+    "guides": 4,
+    "locations": 8,
+    "total": 19
+  }
+}

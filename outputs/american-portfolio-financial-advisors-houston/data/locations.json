@@ -1,0 +1,50 @@
+[
+  {
+    "slug": "houston",
+    "name": "Houston",
+    "fullName": "American Portfolio Financial Advisors – Houston - Houston",
+    "description": "American Portfolio Financial Advisors – Houston serving Houston and surrounding areas."
+  },
+  {
+    "slug": "the-woodlands",
+    "name": "The Woodlands",
+    "fullName": "American Portfolio Financial Advisors – Houston - The Woodlands",
+    "description": "American Portfolio Financial Advisors – Houston serving The Woodlands and surrounding areas."
+  },
+  {
+    "slug": "sugar-land",
+    "name": "Sugar Land",
+    "fullName": "American Portfolio Financial Advisors – Houston - Sugar Land",
+    "description": "American Portfolio Financial Advisors – Houston serving Sugar Land and surrounding areas."
+  },
+  {
+    "slug": "katy",
+    "name": "Katy",
+    "fullName": "American Portfolio Financial Advisors – Houston - Katy",
+    "description": "American Portfolio Financial Advisors – Houston serving Katy and surrounding areas."
+  },
+  {
+    "slug": "spring",
+    "name": "Spring",
+    "fullName": "American Portfolio Financial Advisors – Houston - Spring",
+    "description": "American Portfolio Financial Advisors – Houston serving Spring and surrounding areas."
+  },
+  {
+    "slug": "tomball",
+    "name": "Tomball",
+    "fullName": "American Portfolio Financial Advisors – Houston - Tomball",
+    "description": "American Portfolio Financial Advisors – Houston serving Tomball and surrounding areas."
+  },
+  {
+    "slug": "cypress",
+    "name": "Cypress",
+    "fullName": "American Portfolio Financial Advisors – Houston - Cypress",
+    "description": "American Portfolio Financial Advisors – Houston serving Cypress and surrounding areas."
+  },
+  {
+    "slug": "pearland",
+    "name": "Pearland",
+    "fullName": "American Portfolio Financial Advisors – Houston - Pearland",
+    "description": "American Portfolio Financial Advisors – Houston serving Pearland and surrounding areas."
+  }
+]

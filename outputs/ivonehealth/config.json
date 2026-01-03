@@ -1,0 +1,15 @@
+{
+    "client": {
+        "name": "IV One Health",
+        "domain": "https://ivonehealth.com",
+        "industry": "medical",
+        "regulatoryLevel": "YMYL",
+        "primaryLocation": {
+            "city": "Riyadh",
+            "country": "KSA"
+        }
+    },
+    "buildDate": "2026-01-02",
+    "configVersion": "1.0.0",
+    "lockedInputs": true
+}

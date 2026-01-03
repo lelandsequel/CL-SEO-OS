@@ -1,0 +1,42 @@
+[
+  {
+    "slug": "retirement-planning",
+    "name": "Retirement Planning",
+    "description": "Comprehensive retirement planning strategies tailored to your goals and timeline.",
+    "targetKeywords": [
+      "retirement planning Houston",
+      "retirement advisor",
+      "401k planning"
+    ]
+  },
+  {
+    "slug": "investment-management",
+    "name": "Investment Management",
+    "description": "Personalized investment management services to grow and protect your wealth.",
+    "targetKeywords": [
+      "investment advisor Houston",
+      "portfolio management",
+      "wealth management"
+    ]
+  },
+  {
+    "slug": "estate-planning",
+    "name": "Estate Planning",
+    "description": "Estate planning strategies to protect your legacy and minimize tax burden.",
+    "targetKeywords": [
+      "estate planning Houston",
+      "trust planning",
+      "estate attorney"
+    ]
+  },
+  {
+    "slug": "tax-strategy",
+    "name": "Tax Strategy",
+    "description": "Tax-efficient strategies to maximize your after-tax returns.",
+    "targetKeywords": [
+      "tax planning Houston",
+      "tax advisor",
+      "tax strategy"
+    ]
+  }
+]

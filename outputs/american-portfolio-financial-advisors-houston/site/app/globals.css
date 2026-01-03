@@ -1,0 +1,53 @@
+:root {
+    --color-primary: #0066cc;
+    --color-text: #333;
+    --color-text-muted: #666;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: system-ui, -apple-system, sans-serif;
+    line-height: 1.6;
+    color: var(--color-text);
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+
+.hero {
+    padding: 4rem 0;
+    text-align: center;
+}
+
+.card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+.card {
+    padding: 2rem;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+
+.btn {
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    text-decoration: none;
+    border-radius: 4px;
+}
+
+.btn-primary {
+    background: var(--color-primary);
+    color: white;
+}

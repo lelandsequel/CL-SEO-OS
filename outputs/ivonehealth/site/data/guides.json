@@ -1,0 +1,58 @@
+[
+    {
+        "slug": "what-is-ivig-infusion-therapy",
+        "title": "What is IVIG Infusion Therapy?",
+        "directAnswer": "IVIG (Intravenous Immunoglobulin) infusion therapy is a medical treatment that delivers concentrated antibodies directly into the bloodstream through an IV. These antibodies are collected from the plasma of thousands of donors and help patients with immune deficiencies or autoimmune conditions.",
+        "relatedService": "ivig-infusion",
+        "category": "service"
+    },
+    {
+        "slug": "how-long-does-biologic-infusion-take",
+        "title": "How Long Does a Biologic Infusion Take?",
+        "directAnswer": "A biologic infusion typically takes 1-4 hours depending on the specific medication, dosage, and whether it is a loading dose or maintenance dose. Some biologic infusions can be completed in as little as 30 minutes, while others may require longer administration times.",
+        "relatedService": "biologic-infusions",
+        "category": "service"
+    },
+    {
+        "slug": "benefits-of-iv-iron-infusion",
+        "title": "What Are the Benefits of IV Iron Infusion?",
+        "directAnswer": "IV iron infusion offers rapid and effective treatment for iron deficiency anemia by delivering iron directly into the bloodstream. The main benefits include faster iron replenishment, better tolerance than oral supplements, and higher absorption rates for patients with GI conditions.",
+        "relatedService": "iron-infusion",
+        "category": "service"
+    },
+    {
+        "slug": "how-does-immunotherapy-work",
+        "title": "How Does Immunotherapy Work?",
+        "directAnswer": "Immunotherapy works by activating, enhancing, or directing the body's immune system to recognize and fight disease, particularly cancer. Unlike chemotherapy which directly kills cells, immunotherapy empowers the immune system to do the work itself.",
+        "relatedService": "immunotherapy",
+        "category": "service"
+    },
+    {
+        "slug": "how-is-ms-treated-with-infusion-therapy",
+        "title": "How is Multiple Sclerosis Treated with Infusion Therapy?",
+        "directAnswer": "Multiple sclerosis (MS) can be treated with infusion therapy using disease-modifying therapies (DMTs) that reduce inflammation and slow disease progression. Infused medications include IVIG and various biologic agents that modulate the immune system's attack on nerve tissue.",
+        "relatedCondition": "multiple-sclerosis",
+        "category": "condition"
+    },
+    {
+        "slug": "can-crohns-be-managed-with-biologics",
+        "title": "Can Crohn's Disease Be Managed with Biologics?",
+        "directAnswer": "Yes, Crohn's disease can be effectively managed with biologic medications. Biologics are among the most effective treatments for moderate to severe Crohn's disease, helping achieve and maintain remission by targeting specific inflammatory pathways.",
+        "relatedCondition": "crohns-disease",
+        "category": "condition"
+    },
+    {
+        "slug": "infusion-options-for-rheumatoid-arthritis",
+        "title": "What Infusion Options Exist for Rheumatoid Arthritis?",
+        "directAnswer": "Multiple infusion options exist for rheumatoid arthritis (RA), including biologic disease-modifying antirheumatic drugs (bDMARDs) like anti-TNF agents, B-cell inhibitors, T-cell costimulation blockers, and IL-6 inhibitors. IVIG may also be used in selected cases.",
+        "relatedCondition": "rheumatoid-arthritis",
+        "category": "condition"
+    },
+    {
+        "slug": "infusion-therapy-for-oncology-patients",
+        "title": "How Does Infusion Therapy Support Oncology Patients?",
+        "directAnswer": "Infusion therapy supports oncology patients by delivering immunotherapy to fight cancer and supportive treatments like iron infusions to manage side effects. These therapies are essential components of comprehensive cancer care.",
+        "relatedCondition": "oncology",
+        "category": "condition"
+    }
+]

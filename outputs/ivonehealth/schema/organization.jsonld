@@ -1,0 +1,75 @@
+{
+    "@context": "https://schema.org",
+    "@type": "MedicalBusiness",
+    "name": "IV One Health",
+    "url": "https://ivonehealth.com",
+    "description": "Specialized infusion therapy center providing IVIG, biologic, iron, and immunotherapy infusions in Riyadh, Saudi Arabia.",
+    "image": "https://ivonehealth.com/images/logo.png",
+    "telephone": "+966-[number]",
+    "email": "contact@ivonehealth.com",
+    "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "[Street Address]",
+        "addressLocality": "Riyadh",
+        "addressRegion": "Riyadh Province",
+        "postalCode": "[Postal Code]",
+        "addressCountry": "SA"
+    },
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "[Latitude]",
+        "longitude": "[Longitude]"
+    },
+    "openingHoursSpecification": [
+        {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+                "Sunday",
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+            ],
+            "opens": "08:00",
+            "closes": "17:00"
+        }
+    ],
+    "medicalSpecialty": [
+        "InfusionTherapy"
+    ],
+    "availableService": [
+        {
+            "@type": "MedicalTherapy",
+            "name": "IVIG Infusion",
+            "description": "Intravenous immunoglobulin therapy",
+            "url": "https://ivonehealth.com/services/ivig-infusion"
+        },
+        {
+            "@type": "MedicalTherapy",
+            "name": "Biologic Infusions",
+            "description": "Targeted biologic medication infusions",
+            "url": "https://ivonehealth.com/services/biologic-infusions"
+        },
+        {
+            "@type": "MedicalTherapy",
+            "name": "Iron Infusion",
+            "description": "IV iron therapy for iron deficiency",
+            "url": "https://ivonehealth.com/services/iron-infusion"
+        },
+        {
+            "@type": "MedicalTherapy",
+            "name": "Immunotherapy",
+            "description": "Immune-based cancer and autoimmune treatments",
+            "url": "https://ivonehealth.com/services/immunotherapy"
+        }
+    ],
+    "isAcceptingNewPatients": true,
+    "healthPlanNetworkId": "[Insurance networks]",
+    "sameAs": [
+        "https://www.linkedin.com/company/ivonehealth",
+        "https://twitter.com/ivonehealth"
+    ],
+    "priceRange": "By referral only",
+    "currenciesAccepted": "SAR",
+    "paymentAccepted": "Insurance, Cash"
+}

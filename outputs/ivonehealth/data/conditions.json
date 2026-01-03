@@ -1,0 +1,66 @@
+[
+    {
+        "slug": "multiple-sclerosis",
+        "name": "Multiple Sclerosis",
+        "fullName": "Multiple Sclerosis (MS) Management",
+        "description": "Multiple sclerosis is a chronic autoimmune condition affecting the central nervous system. Infusion therapies can help manage symptoms and slow disease progression.",
+        "targetKeywords": [
+            "MS treatment Riyadh",
+            "multiple sclerosis infusion KSA",
+            "MS therapy Saudi Arabia"
+        ],
+        "relatedServices": [
+            "ivig-infusion",
+            "biologic-infusions"
+        ],
+        "infusionApproach": "IVIG and certain biologics help modulate the immune response to reduce MS flares and progression."
+    },
+    {
+        "slug": "crohns-disease",
+        "name": "Crohn's Disease",
+        "fullName": "Crohn's Disease Management",
+        "description": "Crohn's disease is a chronic inflammatory bowel condition. Biologic infusions target specific inflammatory pathways to achieve and maintain remission.",
+        "targetKeywords": [
+            "Crohn's treatment Riyadh",
+            "IBD infusion therapy KSA",
+            "Crohn's disease Saudi Arabia"
+        ],
+        "relatedServices": [
+            "biologic-infusions"
+        ],
+        "infusionApproach": "Anti-TNF biologics and other targeted therapies delivered via infusion help control inflammation and promote mucosal healing."
+    },
+    {
+        "slug": "rheumatoid-arthritis",
+        "name": "Rheumatoid Arthritis",
+        "fullName": "Rheumatoid Arthritis Management",
+        "description": "Rheumatoid arthritis is an autoimmune condition causing joint inflammation. Infusion therapies provide targeted treatment to reduce inflammation and prevent joint damage.",
+        "targetKeywords": [
+            "rheumatoid arthritis treatment Riyadh",
+            "RA infusion therapy KSA",
+            "arthritis biologics Saudi Arabia"
+        ],
+        "relatedServices": [
+            "biologic-infusions",
+            "ivig-infusion",
+            "immunotherapy"
+        ],
+        "infusionApproach": "Biologic DMARDs and IVIG therapy help suppress the autoimmune response and protect joint integrity."
+    },
+    {
+        "slug": "oncology",
+        "name": "Oncology Support",
+        "fullName": "Oncology Infusion Support Services",
+        "description": "Oncology patients often require infusion support including immunotherapy, iron infusions for anemia, and other supportive therapies during cancer treatment.",
+        "targetKeywords": [
+            "oncology infusion Riyadh",
+            "cancer support therapy KSA",
+            "oncology infusion center Saudi Arabia"
+        ],
+        "relatedServices": [
+            "immunotherapy",
+            "iron-infusion"
+        ],
+        "infusionApproach": "Immunotherapy and supportive infusions help combat cancer and manage treatment side effects like anemia."
+    }
+]

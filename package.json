@@ -1,0 +1,19 @@
+{
+  "name": "cl-seo-os",
+  "version": "1.0.0",
+  "description": "Customer-Led Search Engine Optimization Operating System",
+  "scripts": {
+    "audit": "ts-node scripts/run-audit.ts",
+    "seoos:run": "ts-node scripts/seoos-cli.ts"
+  },
+  "dependencies": {
+    "playwright": "^1.40.0",
+    "cheerio": "^1.0.0-rc.12"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.0.0"
+  }
+}
+

@@ -1,0 +1,18 @@
+{
+    "@context": "https://schema.org",
+    "@type": "MedicalCondition",
+    "name": "{{CONDITION_NAME}}",
+    "description": "{{CONDITION_DESCRIPTION}}",
+    "url": "https://ivonehealth.com/conditions/{{CONDITION_SLUG}}",
+    "possibleTreatment": [
+        {
+            "@type": "MedicalTherapy",
+            "name": "{{RELATED_SERVICE_1}}",
+            "url": "https://ivonehealth.com/services/{{RELATED_SERVICE_1_SLUG}}"
+        }
+    ],
+    "signOrSymptom": [],
+    "cause": {
+        "@type": "MedicalCause"
+    }
+}

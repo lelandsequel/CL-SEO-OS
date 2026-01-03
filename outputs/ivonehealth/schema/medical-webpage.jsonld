@@ -1,0 +1,49 @@
+{
+    "@context": "https://schema.org",
+    "@type": "MedicalWebPage",
+    "name": "IV One Health - Infusion Therapy Resources",
+    "description": "Educational resources about infusion therapy from IV One Health",
+    "url": "https://ivonehealth.com",
+    "about": {
+        "@type": "MedicalBusiness",
+        "name": "IV One Health"
+    },
+    "specialty": {
+        "@type": "MedicalSpecialty",
+        "name": "Infusion Therapy"
+    },
+    "lastReviewed": "2026-01-02",
+    "reviewedBy": {
+        "@type": "Organization",
+        "name": "IV One Health Clinical Team"
+    },
+    "medicalAudience": [
+        {
+            "@type": "MedicalAudience",
+            "audienceType": "Physician",
+            "healthCondition": {
+                "@type": "MedicalCondition",
+                "name": "Conditions requiring infusion therapy"
+            }
+        },
+        {
+            "@type": "MedicalAudience",
+            "audienceType": "Patient",
+            "healthCondition": {
+                "@type": "MedicalCondition",
+                "name": "Conditions requiring infusion therapy"
+            }
+        }
+    ],
+    "mainContentOfPage": {
+        "@type": "WebPageElement",
+        "cssSelector": "main"
+    },
+    "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+            "h1",
+            ".answer-block"
+        ]
+    }
+}

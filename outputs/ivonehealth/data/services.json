@@ -1,0 +1,70 @@
+[
+    {
+        "slug": "ivig-infusion",
+        "name": "IVIG Infusion",
+        "fullName": "Intravenous Immunoglobulin (IVIG) Therapy",
+        "description": "IVIG infusion therapy delivers concentrated antibodies directly into the bloodstream to treat immune deficiencies and autoimmune conditions.",
+        "targetKeywords": [
+            "IVIG therapy Riyadh",
+            "immunoglobulin infusion KSA",
+            "IVIG treatment Saudi Arabia"
+        ],
+        "relatedConditions": [
+            "multiple-sclerosis",
+            "rheumatoid-arthritis"
+        ],
+        "typicalDuration": "2-6 hours",
+        "frequency": "Monthly or as prescribed"
+    },
+    {
+        "slug": "biologic-infusions",
+        "name": "Biologic Infusions",
+        "fullName": "Biologic Medication Infusion Therapy",
+        "description": "Biologic infusions deliver advanced medications that target specific components of the immune system to treat chronic inflammatory conditions.",
+        "targetKeywords": [
+            "biologic therapy Saudi Arabia",
+            "infliximab infusion Riyadh",
+            "biologic medication infusion KSA"
+        ],
+        "relatedConditions": [
+            "crohns-disease",
+            "rheumatoid-arthritis",
+            "multiple-sclerosis"
+        ],
+        "typicalDuration": "1-4 hours",
+        "frequency": "Every 4-8 weeks"
+    },
+    {
+        "slug": "iron-infusion",
+        "name": "Iron Infusion",
+        "fullName": "Intravenous Iron Infusion Therapy",
+        "description": "Iron infusion therapy delivers iron directly into the bloodstream to treat iron deficiency anemia when oral supplements are insufficient or not tolerated.",
+        "targetKeywords": [
+            "iron infusion Riyadh",
+            "IV iron therapy KSA",
+            "iron deficiency treatment Saudi Arabia"
+        ],
+        "relatedConditions": [
+            "oncology"
+        ],
+        "typicalDuration": "15-60 minutes",
+        "frequency": "As prescribed based on iron levels"
+    },
+    {
+        "slug": "immunotherapy",
+        "name": "Immunotherapy",
+        "fullName": "Immunotherapy Infusion Treatment",
+        "description": "Immunotherapy harnesses the body's immune system to fight diseases, particularly cancer, through targeted infusion treatments.",
+        "targetKeywords": [
+            "immunotherapy infusion KSA",
+            "cancer immunotherapy Riyadh",
+            "immunotherapy treatment Saudi Arabia"
+        ],
+        "relatedConditions": [
+            "oncology",
+            "rheumatoid-arthritis"
+        ],
+        "typicalDuration": "30 minutes to 4 hours",
+        "frequency": "Weekly to monthly depending on protocol"
+    }
+]
